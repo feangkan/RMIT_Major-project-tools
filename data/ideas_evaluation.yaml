@@ -1,0 +1,73 @@
+# User idea options — honest evaluation scores (1-10)
+recommended: idea_d_merged
+
+ideas:
+  - id: idea_a
+    title: "LLM Rapid Architecture for affordable sustainability"
+    feasibility_15wk: 4
+    feasibility_scoped: 7
+    pr_australia: 8
+    nic_bao_fit: 6
+    roland_snooks_fit: 6
+    anna_johnson_fit: 4
+    verdict: pivot
+    note: >
+      Fold LLM into Idea D as workflow assistant. Too broad as standalone.
+      Narrow to one deployable typology if pursued alone.
+
+  - id: idea_b
+    title: "LLM multi-agents robotic fabrication — moon base data centre"
+    feasibility_15wk: 2
+    pr_australia: 1
+    nic_bao_fit: 2
+    roland_snooks_fit: 3
+    anna_johnson_fit: 1
+    verdict: drop
+    note: >
+      Cool but wrong capstone. No AU relevance, no PR pathway, cannot resolve
+      architecture for Melbourne panel. Keep as personal interest only.
+
+  - id: idea_c
+    title: "Lightweight concrete GFRC / coffee mixture"
+    feasibility_15wk: 8
+    pr_australia: 8
+    nic_bao_fit: 9
+    roland_snooks_fit: 4
+    anna_johnson_fit: 4
+    verdict: merge_into_d
+    note: >
+      Strong material thread. Nic Bao Waste to Form overlap. Must wrap in
+      architectural typology — not materials science alone.
+
+  - id: idea_d
+    title: "Dirt to gold — scrap to city / waste-to-pavilion Melbourne"
+    feasibility_15wk: 7
+    feasibility_scoped: 9
+    pr_australia: 9
+    nic_bao_fit: 9
+    roland_snooks_fit: 5
+    anna_johnson_fit: 8
+    verdict: pursue
+    note: >
+      Strongest overall. Scope to one site + pavilion/shelter + 2 materials.
+      Primary supervisor Nic Bao. Urban framing via Anna Johnson.
+
+merged_thesis:
+  title: "Waste-to-Pavilion: Circular Material Tectonics for Temporary Community Infrastructure in Melbourne"
+  subtitle: "AI-assisted computational design for rapid install–remove–reuse architecture"
+  primary_supervisor: nic_bao
+  urban_framing: anna_johnson
+  optional_computation: roland_snooks
+  proposal_doc: docs/proposal-waste-to-pavilion.md
+
+what_roland_will_say_yes_to:
+  - Multi-agent module aggregation / behavioral formation
+  - Robotic AM tectonics from polymer streams
+  - Generative AI augmenting algorithmic design (TFL research stream)
+  - Design Hub prototype at architectural resolution
+
+what_roland_will_likely_push_back_on:
+  - Urban waste policy without tectonic research
+  - Moon base / off-world sites
+  - Material science without architectural resolution
+  - LLM-as-title without computational formation depth

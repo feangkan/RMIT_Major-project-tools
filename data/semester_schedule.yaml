@@ -1,0 +1,68 @@
+# 15-week Major Project schedule (from RMIT briefing + award student advice)
+source: RMIT Major Project briefing (John Doyle, Amanda Chen, Benedict O'Flaherty)
+
+principles:
+  - design_and_research_simultaneously: true
+  - lock_in_week: 10
+  - cloud_backup_mandatory: true
+  - physical_models: true
+  - level_7_studio: true
+  - working_hours: "3-5 days/week, 9am-5pm"
+
+phases:
+  - id: pre_semester
+    weeks: Pre-semester
+    title: Preparation
+    tasks:
+      - Create Greatest Hits Miro board (studios, interests, themes)
+      - Set up cloud folder architecture (OneDrive/Google Drive)
+      - Software audit (Rhino, QGIS, Enscape, slicer, Python)
+      - Material inventory and early experiments
+      - Draft supervisor proposal / EOI
+
+  - id: weeks_1_4
+    weeks: "1-4"
+    title: Do everything at once
+    tasks:
+      - Establish Level 7 routine and working hours
+      - Start designing immediately — do not spend 4 weeks only reading
+      - Site visit, QGIS mapping, DSLR site photos
+      - Test render in final presentation style early
+      - After every supervisor meeting → actionable to-do for next day
+      - Material experiments parallel to spatial design
+
+  - id: weeks_5_9
+    weeks: "5-9"
+    title: Heavy production & iteration
+    tasks:
+      - Rhino Work Sessions for heavy files
+      - Physical foam/trace models
+      - Fabrication tests (manual + robot hybrid)
+      - Peer review practice with another student
+      - WIP presentation / cohort review
+
+  - id: week_10
+    weeks: "10"
+    title: LOCK-IN
+    tasks:
+      - Freeze core concept — no big new ideas after this point
+      - Confirm typology, site, material system, prototype scale
+
+  - id: weeks_11_15
+    weeks: "11-15"
+    title: Refinement & festival
+    tasks:
+      - High-resolution tectonic detailing
+      - Test pin-up on Level 7 big screens
+      - Final prototype and assembly documentation
+      - Panel narrative and Q&A prep
+      - Major Project Festival
+
+survival_tips:
+  - Do not rely on laptop or external HDD alone
+  - Optimize Rhino with Work Sessions
+  - Get off screen — foam models, yellow trace
+  - Use Level 7 as office — pin up, listen to other tutorials
+  - Do not burn out past 11pm nightly
+  - Stay in architecture lane — buildings, urban spaces, physical objects
+  - Do not try to do your supervisor's project — it is yours

@@ -68,6 +68,30 @@ supervisors:
       structural performance, and fabrication-aware design. Bridges practice and
       research; good for buildable, industry-relevant major projects.
 
+  - id: anna_johnson
+    name: Anna Johnson
+    institution: RMIT University
+    role: Associate Professor of Architecture
+    lab: Urban practice / design practice research
+    email: anna.johnson@rmit.edu.au
+    profile_url: https://www.rmit.edu.au/profiles/j/anna-johnson
+    expertise:
+      - Urban practice and social-spatial design
+      - Community co-making
+      - Climate adaptation and site narrative
+      - Design practice research
+      - Critical writing + generative design
+    keywords:
+      - urban
+      - community
+      - sustainability
+      - co-making
+      - neighbourhood
+    alignment_notes: >
+      Best for urban/social framing, community impact, and site narrative —
+      not primary for robotic fabrication. Pair with Nic Bao for waste-to-pavilion
+      projects needing Melbourne urban context and civic meaning.
+
   - id: jan_vanschaik
     name: Jan van Schaik
     institution: RMIT University

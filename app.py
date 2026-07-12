@@ -407,6 +407,50 @@ def page_checklist() -> None:
                 st.markdown(f"- {p}")
 
 
+def page_ideas() -> None:
+    st.header("Idea evaluation — honest assessment")
+    from src.config import load_yaml
+
+    data = load_yaml("ideas_evaluation.yaml")
+    merged = data.get("merged_thesis", {})
+
+    st.success(f"**Recommended:** {merged.get('title', '')}")
+    st.caption(merged.get("subtitle", ""))
+    st.markdown(
+        f"**Primary supervisor:** {merged.get('primary_supervisor', '')} · "
+        f"**Urban framing:** {merged.get('urban_framing', '')}"
+    )
+
+    for idea in data.get("ideas", []):
+        verdict = idea.get("verdict", "")
+        icon = {"pursue": "✅", "merge_into_d": "🔀", "pivot": "⚠️", "drop": "❌"}.get(verdict, "⬜")
+        with st.expander(f"{icon} {idea['title']} — {verdict.upper()}"):
+            c1, c2, c3 = st.columns(3)
+            c1.metric("15wk feasibility", f"{idea.get('feasibility_15wk', '—')}/10")
+            c2.metric("AU / PR", f"{idea.get('pr_australia', '—')}/10")
+            c3.metric("Nic Bao fit", f"{idea.get('nic_bao_fit', '—')}/10")
+            st.write(idea.get("note", ""))
+
+    st.subheader("What Roland Snooks will likely say yes to")
+    for item in data.get("what_roland_will_say_yes_to", []):
+        st.markdown(f"- {item}")
+    st.subheader("What Roland will likely push back on")
+    for item in data.get("what_roland_will_likely_push_back_on", []):
+        st.markdown(f"- {item}")
+
+    proposal_path = ROOT / "docs" / "proposal-waste-to-pavilion.md"
+    if proposal_path.exists():
+        st.subheader("Draft proposal (Idea D — merged)")
+        st.markdown(proposal_path.read_text(encoding="utf-8"))
+
+    schedule = load_yaml("semester_schedule.yaml")
+    st.subheader("15-week schedule")
+    for phase in schedule.get("phases", []):
+        with st.expander(f"Weeks {phase['weeks']}: {phase['title']}"):
+            for t in phase.get("tasks", []):
+                st.markdown(f"- {t}")
+
+
 PAGES = {
     "overview": page_overview,
     "A": page_stage_a,
