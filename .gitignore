@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# App state
+brief.json
+
+# Obsidian vault (regenerated)
+vault/
+
+# OS
+.DS_Store

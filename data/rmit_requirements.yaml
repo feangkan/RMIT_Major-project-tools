@@ -1,0 +1,140 @@
+# RMIT Master of Architecture Major Project — component checklist
+program: Master of Architecture (MC163)
+capstone_course: Major Project
+
+description: >
+  Independent, research-led design project developing a critical architectural
+  position through design-practice research. Supervised individually within a
+  group context. Culminates in Major Project Festival review.
+
+required_components:
+  - id: topic_what
+    label: "Topic — The What"
+    description: Clear research question or architectural proposition
+    weight: critical
+    prompts:
+      - What is the central architectural problem or opportunity?
+      - What is novel about your approach?
+      - How does it relate to computational design / AI / fabrication?
+
+  - id: process_how
+    label: "Process — The How"
+    description: Methodology linking research to design production
+    weight: critical
+    prompts:
+      - What computational / algorithmic / fabrication workflow will you use?
+      - Python, pseudocode, LLM, swarm, parametric — which tools and why?
+      - How does process produce evidence (iterations, prototypes, logs)?
+
+  - id: site_where
+    label: "Site — The Where"
+    description: Spatial, institutional, or material context for the project
+    weight: high
+    prompts:
+      - Physical site, lab site, or industry partner site?
+      - Why is this site strong for your topic in Australia?
+      - Access, constraints, and scale of intervention?
+
+  - id: supervisor
+    label: Supervisor alignment
+    description: Nominated supervisor with aligned expertise
+    weight: critical
+    prompts:
+      - Which supervisor(s) have you approached or shortlisted?
+      - How does their research map to your topic?
+      - What adjustments would strengthen the fit?
+
+  - id: background
+    label: "Your background"
+    description: Past studios, work experience, portfolio evidence
+    weight: high
+    prompts:
+      - Past RMIT / other studios relevant to this topic
+      - Professional experience (prefab, digital, practice)
+      - PDF portfolio or project documentation available?
+
+  - id: keywords
+    label: Keywords & positioning
+    description: Searchable terms for research and proposal framing
+    weight: medium
+    prompts:
+      - 8–15 keywords spanning topic, method, material, site
+      - How do keywords connect to supervisor/lab research?
+
+  - id: critical_position
+    label: Critical architectural position
+    description: Well-argued stance toward the discipline
+    weight: critical
+    prompts:
+      - What is your position on AI / computation in architecture?
+      - What existing discourse are you extending or challenging?
+
+  - id: building_technology
+    label: Building technology integration
+    description: Technical resolution and constructability
+    weight: high
+    prompts:
+      - Material system, structure, assembly logic
+      - Regulatory / documentation pathway if applicable
+
+  - id: communication
+    label: Architectural communication
+    description: Drawings, models, prototypes, exhibition
+    weight: high
+    prompts:
+      - Deliverables for WIP and final festival review
+      - Physical prototype scale and fabrication plan
+
+  - id: research_literature
+    label: Research & literature
+    description: Scholarly and practice references
+    weight: high
+    prompts:
+      - Key papers, books, pioneers identified?
+      - Gap your project addresses?
+
+  - id: pr_pathway
+    label: Australia / PR relevance (optional but strategic)
+    description: Industry trends, skills, and sector alignment
+    weight: medium
+    prompts:
+      - Prefab, off-site, AM, digital construction in AU policy/industry
+      - How does the project demonstrate employable expertise?
+
+revision_hierarchy:
+  - order: 1
+    lens: "Australia trend → PR / industry"
+    question: Does the topic connect to national priorities (prefab, AM, digital construction)?
+  - order: 2
+    lens: "Supervisor fit"
+    question: Does the brief align with Snooks / Bao / other supervisor research? What to adjust?
+  - order: 3
+    lens: "AI + computational design + digital fabrication + materials"
+    question: Are all four pillars present or intentionally scoped?
+  - order: 4
+    lens: "Constructability + cost"
+    question: Is there a credible path from algorithm to buildable outcome?
+  - order: 5
+    lens: "Critical position"
+    question: Is the argument clear beyond technical demonstration?
+
+default_keywords:
+  - computational design
+  - algorithmic architecture
+  - swarm intelligence
+  - multi-agent systems
+  - form finding
+  - additive manufacturing
+  - robotic fabrication
+  - prefabrication
+  - off-site construction
+  - design for manufacture and assembly
+  - cost control
+  - Python
+  - large language models
+  - generative AI
+  - pseudocode
+  - vibe coding
+  - tectonics
+  - performance-driven design
+  - modular assembly

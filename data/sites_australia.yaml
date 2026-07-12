@@ -1,0 +1,80 @@
+# Strong Australian sites for computational design / fabrication research
+sites:
+  melbourne_design_hub:
+    name: RMIT Design Hub (Building 100)
+    location: Melbourne, VIC
+    coordinates: "-37.8085, 144.9637"
+    strength: primary
+    why: >
+      Australia's leading architectural robotics facility (9 industrial robots,
+      Kuka KR150 large-scale 3D printing). Home to Tectonic Formation Lab and
+      FormX Research Lab. Ideal site for AM, swarm prototypes, and WIP reviews.
+    labs: [Tectonic Formation Lab, FormX Research Lab]
+    access: RMIT student/staff; industry partnerships via labs
+    keywords: [robotic fabrication, 3D printing, major project festival]
+
+  melbourne_school_design:
+    name: Melbourne School of Design (MSD)
+    location: Melbourne, VIC
+    strength: high
+    why: >
+      MSD Robotics Lab, clay 3D printing, strong computational design culture.
+      Cross-institution collaboration with RMIT via CISM (structures/materials).
+    keywords: [robotics, digital fabrication, University of Melbourne]
+
+  fishermans_bend:
+    name: Fishermans Bend Innovation District
+    location: Melbourne, VIC
+    strength: emerging
+    why: >
+      Urban regeneration zone with advanced manufacturing, prefab, and innovation
+      precinct potential. Strong narrative for off-site construction and industry
+      partnership at scale.
+    keywords: [prefabrication, innovation, urban manufacturing]
+
+  western_sydney_aerotropolis:
+    name: Western Sydney Aerotropolis / Bradfield City
+    location: Sydney, NSW
+    strength: high
+    why: >
+      Australia's largest greenfield city project. Strong government investment in
+      advanced manufacturing, modular construction, and digital design. Good for
+      prefab/off-site narratives and PR pathway relevance.
+    keywords: [prefab, modular, advanced manufacturing, PR relevance]
+
+  barangaroo:
+    name: Barangaroo / Sydney CBD West
+    location: Sydney, NSW
+    strength: medium
+    why: >
+      High-profile sustainable precinct; timber and digital design exemplars.
+      Good for material research and public-facing demonstration projects.
+    keywords: [sustainability, timber, public architecture]
+
+  advance_timber_hub_nodes:
+    name: ARC Advance Timber Hub partner sites
+    location: National (RMIT, UQ, etc.)
+    strength: high
+    why: >
+      Nic Bao is CI. Strong for timber prefab, non-standard wood, circular
+      materials, and intelligent construction research.
+    keywords: [timber, prefab, circular economy, Nic Bao]
+
+  prefab_council_vic:
+    name: Prefab Council Australia (VIC nodes)
+    location: Victoria
+    strength: medium
+    why: >
+      Industry network for off-site construction. Nic Bao is Deputy Chair (VIC).
+      Useful for cost control and industry validation of prefab systems.
+    keywords: [off-site, cost control, industry partnership]
+
+  sci_arch_eth_reference:
+    name: "Reference: SCI-Arc / ETH (international)"
+    location: Los Angeles / Zurich
+    strength: reference_only
+    why: >
+      Not Australian sites, but key reference ecosystems for algorithmic design
+      (SCI-Arc) and material computation / robotics (ETH ICD/ITKE). Cite for
+      research positioning, not as project site unless explicitly relevant.
+    keywords: [algorithmic design, material computation, reference]

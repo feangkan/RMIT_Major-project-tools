@@ -1,0 +1,104 @@
+# Curated reading list aligned to your interests
+categories:
+  swarm_multi_agent:
+    - author: Roland Snooks
+      title: "Behavioral Formation: volatile design processes and the emergence of a strange specificity"
+      year: 2021
+      type: book
+      priority: essential
+    - author: Roland Snooks
+      title: "Behavioral tectonics: agentBody prototypes and the compression of tectonics"
+      year: 2022
+      type: paper
+      doi: "10.1007/s44223-022-00007-8"
+      priority: essential
+    - author: Robert Stuart-Smith
+      title: "Behavioural Production: Autonomous Swarm‐Constructed Architecture"
+      type: paper
+      priority: high
+    - author: Robert Stuart-Smith
+      title: "A review of collective robotic construction"
+      type: paper
+      priority: high
+    - author: Robert Stuart-Smith
+      title: "Non linear formation: or how to resist the parametric subversion of computational design"
+      type: paper
+      priority: medium
+
+  prefab_discrete_automation:
+    - author: Gilles Retsin
+      title: "Discrete: Reappraising the Digital in Architecture (AD special issue)"
+      year: 2019
+      type: journal_issue
+      priority: essential
+    - author: Gilles Retsin & Manuel Jimenez Garcia
+      title: "Robotic Building: Architecture in the Age of Automation"
+      year: 2019
+      type: book
+      priority: high
+    - author: Gilles Retsin
+      title: "Bits and Pieces: Digital Assemblies: From Craft to Automation"
+      year: 2019
+      type: paper
+      doi: "10.1002/ad.2410"
+      priority: high
+
+  fabrication_performance:
+    - author: Nic Bao et al.
+      title: "Shell Tectonics"
+      year: 2024
+      type: project_paper
+      priority: high
+      note: "BESO + robotic printing + modular assembly"
+    - author: Achim Menges
+      title: "Material Computation: Higher Integration in Morphogenetic Design"
+      type: book_chapter
+      priority: medium
+
+  ai_llm_computational:
+    - author: Tectonic Formation Lab
+      title: "Computational Design + Generative AI (lab research stream)"
+      type: web
+      url: https://www.tectonicformationlab.com/
+      priority: high
+      note: "Track lab outputs on generative AI + algorithmic systems"
+    - author: Albert Sumin
+      title: "Designing Between Data and Architecture"
+      type: article
+      url: https://paacademy.com/blog/designing-between-data-architecture-albert-sumin
+      priority: medium
+      note: "AI + parametric + BIM interoperability"
+
+  cost_control_construction:
+    - author: Prefab Council Australia
+      title: "Off-site construction industry reports"
+      type: industry
+      priority: medium
+      note: "Industry data for cost/prefab justification"
+    - author: Various
+      title: "Design-to-cost in modular construction literature"
+      type: topic
+      priority: medium
+      note: "Search: DfMA, design for manufacture and assembly"
+
+ai_pioneers:
+  - name: Roland Snooks
+    contribution: Multi-agent behavioral formation in architecture
+  - name: Robert Stuart-Smith
+    contribution: Collective robotic construction, AML
+  - name: Gilles Retsin
+    contribution: Discrete architecture, automation
+  - name: Achim Menges
+    contribution: Material computation, ICD Stuttgart
+  - name: Neil Leach
+    contribution: AI in architecture theory
+  - name: Stanislas Chaillou
+    contribution: AI generative floor plans / spatial ML
+  - name: Philippe Morel
+    contribution: Computational theory, EZCT
+  - name: Jose Sanchez
+    contribution: Agent-based design (Bloom, Plethora)
+  - name: Alisa Andrasek
+    contribution: AI + generative design (Biothing)
+  - name: Mark Burry
+    contribution: Parametric design history, Gaudí
