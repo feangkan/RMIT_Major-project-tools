@@ -8,10 +8,30 @@ official_definition: >
   architectural design project, undertake design-practice research, and articulate
   their own unique architectural position before a panel of experts.
 
+program_context: >
+  At RMIT Architecture students undertake an independent graduating project under
+  the supervision of their nominated supervisor and within a group context. Major
+  Project is the capstone course where students are expected to undertake
+  design-practice research and develop and articulate a well-argued architectural
+  position through the execution of an architectural design project. It is an
+  opportunity to demonstrate new kinds of knowledge and ideas through architecture.
+
 description: >
-  Independent capstone supervised individually within a group context. Culminates
-  in the Major Project Festival — work-in-progress and final reviews with a panel
-  of supervisors and experts.
+  Independent graduating project, individually supervised, within a group cohort.
+  Culminates in the Major Project Festival — work-in-progress and final reviews
+  with a panel of supervisors and experts.
+
+supervision_model:
+  independent_project: true
+  nominated_supervisor: required
+  group_context: >
+    You are supervised individually by your nominated supervisor, but you work
+    within a group context — a cohort of Major Project students who share reviews,
+    deadlines, and the festival format. You are not working in isolation.
+  notes:
+    - Secure supervisor alignment early (EOI → proposal → confirmation)
+    - Engage with cohort WIP reviews and festival format expectations
+    - Balance independent inquiry with group review milestones
 
 capstone_pillars:
   - id: resolved_design
@@ -33,11 +53,21 @@ capstone_pillars:
     weight: critical
 
   - id: unique_position
-    label: Unique architectural position
+    label: Well-argued architectural position
     description: >
-      A clear, defensible stance on what your project contributes to architecture
-      — what you believe, what you challenge, and why your approach matters.
+      A clear, defensible stance developed through the execution of your design
+      project — what you believe, what you challenge, and why your approach
+      matters. The position must be argued, not merely stated.
     maps_to_stages: [A, E]
+    weight: critical
+
+  - id: new_knowledge
+    label: New knowledge through architecture
+    description: >
+      Demonstrate new kinds of knowledge and ideas through architecture — not
+      only technical skill, but contribution to the discipline via your design
+      research and its outcomes.
+    maps_to_stages: [C, D, E]
     weight: critical
 
   - id: panel_presentation
@@ -79,12 +109,22 @@ required_components:
 
   - id: supervisor
     label: Supervisor alignment
-    description: Nominated supervisor with aligned expertise
+    description: Nominated supervisor with aligned expertise (individual supervision)
     weight: critical
     prompts:
       - Which supervisor(s) have you approached or shortlisted?
       - How does their research map to your topic?
       - What adjustments would strengthen the fit?
+      - Has supervisor capacity been confirmed?
+
+  - id: group_context
+    label: Group context & cohort engagement
+    description: Working within the Major Project cohort while supervised individually
+    weight: high
+    prompts:
+      - How will you engage with cohort WIP reviews and shared milestones?
+      - What do you learn from peer projects in the group context?
+      - Are you clear on festival format and panel expectations?
 
   - id: background
     label: "Your background"
@@ -104,13 +144,23 @@ required_components:
       - How do keywords connect to supervisor/lab research?
 
   - id: critical_position
-    label: Unique architectural position
-    description: Your own well-argued stance toward the discipline (capstone pillar)
+    label: Well-argued architectural position
+    description: Your stance toward the discipline, argued through design (capstone pillar)
     weight: critical
     prompts:
-      - What is your unique position on AI / computation in architecture?
+      - What is your position on AI / computation in architecture?
       - What existing discourse are you extending or challenging?
       - Can you state your argument in 2–3 sentences a panel could debate?
+      - How does the executed design project prove your position?
+
+  - id: new_knowledge
+    label: New knowledge through architecture
+    description: What new ideas or knowledge does your project contribute? (capstone pillar)
+    weight: critical
+    prompts:
+      - What is new — method, tectonic, process, or disciplinary insight?
+      - How is this knowledge demonstrated through architecture, not only text?
+      - What would be lost if your project were only a technical demo?
 
   - id: design_practice_research
     label: Design-practice research
@@ -190,8 +240,14 @@ revision_hierarchy:
   - order: 6
     lens: "Capstone pillars"
     question: >
-      Does the brief satisfy all four RMIT requirements — highly resolved design,
-      design-practice research, unique position, and panel-ready presentation?
+      Does the brief satisfy RMIT requirements — highly resolved design,
+      design-practice research, well-argued position, new knowledge through
+      architecture, and panel-ready presentation?
+  - order: 7
+    lens: "Supervision & group context"
+    question: >
+      Is your nominated supervisor aligned, and are you prepared for individual
+      supervision within the cohort group context and festival reviews?
 
 default_keywords:
   - computational design

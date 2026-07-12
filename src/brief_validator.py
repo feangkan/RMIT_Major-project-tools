@@ -34,7 +34,9 @@ def assess_brief(brief: dict[str, Any]) -> dict[str, Any]:
         "critical_position": brief.get("revision_notes"),
         "design_practice_research": brief.get("research_notes") or brief.get("production_log"),
         "resolved_design": brief.get("process") or brief.get("production_log"),
+        "new_knowledge": brief.get("topic") and brief.get("revision_notes"),
         "panel_review": brief.get("stage_status", {}).get("F") == "done",
+        "group_context": brief.get("revision_notes"),
         "building_technology": brief.get("process"),
         "communication": brief.get("production_log"),
         "research_literature": brief.get("research_notes"),
@@ -72,6 +74,7 @@ def assess_brief(brief: dict[str, Any]) -> dict[str, Any]:
         "resolved_design": "resolved_design",
         "design_practice_research": "design_practice_research",
         "unique_position": "critical_position",
+        "new_knowledge": "new_knowledge",
         "panel_presentation": "panel_review",
     }
     results_by_id = {r["id"]: r for r in results}

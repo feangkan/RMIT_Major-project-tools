@@ -183,6 +183,12 @@ def export_obsidian_vault(brief: dict[str, Any]) -> Path:
     reqs = load_yaml("rmit_requirements.yaml")
     req_lines = ["# RMIT Requirements Checklist\n\n"]
     req_lines.append(f"> {reqs.get('official_definition', '').strip()}\n\n")
+    req_lines.append(f"> {reqs.get('program_context', '').strip()}\n\n")
+    sup = reqs.get("supervision_model", {})
+    if sup:
+        req_lines.append("## Supervision model\n\n")
+        req_lines.append(f"- **Nominated supervisor:** required\n")
+        req_lines.append(f"- **Group context:** {sup.get('group_context', '').strip()}\n\n")
     req_lines.append("## Capstone pillars\n\n")
     for pillar in reqs.get("capstone_pillars", []):
         req_lines.append(f"- [ ] **{pillar['label']}** — {pillar.get('description', '').strip()}\n")

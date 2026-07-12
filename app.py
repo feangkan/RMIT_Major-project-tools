@@ -74,12 +74,21 @@ def page_overview() -> None:
 
     reqs = load_yaml("rmit_requirements.yaml")
     st.info(reqs.get("official_definition", "").strip())
+    st.caption(reqs.get("program_context", "").strip())
 
-    st.subheader("Four capstone requirements")
-    pcols = st.columns(4)
+    supervision = reqs.get("supervision_model", {})
+    if supervision:
+        st.markdown(
+            f"**Supervision:** Individual project under your **nominated supervisor**, "
+            f"within a **group context** (Major Project cohort). "
+            f"{supervision.get('group_context', '').strip()}"
+        )
+
+    st.subheader("Capstone requirements")
+    pcols = st.columns(3)
     assessment = assess_brief(st.session_state.brief)
     for i, pillar in enumerate(assessment.get("capstone_pillars", [])):
-        with pcols[i % 4]:
+        with pcols[i % 3]:
             icon = "✅" if pillar["complete"] else "⬜"
             st.markdown(f"**{icon} {pillar['label']}**")
             st.caption(pillar["description"][:120] + "…" if len(pillar["description"]) > 120 else pillar["description"])

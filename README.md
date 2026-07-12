@@ -1,6 +1,10 @@
 # RMIT Major Project Tools
 
-Command center for the **RMIT Master of Architecture Major Project** capstone — the independent research and design project requiring a highly resolved design, design-practice research, a unique architectural position, and presentation before a panel of experts at the Major Project Festival.
+Command center for the **RMIT Master of Architecture Major Project** capstone.
+
+**Official framing (combined):**
+- Independent capstone requiring a highly resolved design, design-practice research, a well-argued architectural position, and presentation before a panel of experts.
+- At RMIT Architecture: an independent graduating project under your **nominated supervisor**, within a **group context** — an opportunity to demonstrate **new kinds of knowledge and ideas through architecture**.
 
 ## Features
 
