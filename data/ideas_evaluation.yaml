@@ -6,17 +6,17 @@ supervisor_preference:
 
 ideas:
   - id: idea_a
-    title: "LLM Rapid Architecture for affordable sustainability"
+    title: "Rapid Architecture using LLM for affordable sustainability"
     feasibility_15wk: 4
-    feasibility_scoped: 7
-    pr_australia: 8
-    nic_bao_fit: 6
-    roland_snooks_fit: 6
-    anna_johnson_fit: 4
-    verdict: pivot
+    feasibility_scoped: 8
+    pr_australia: 9
+    nic_bao_fit: 7
+    roland_snooks_fit: 8
+    anna_johnson_fit: 5
+    verdict: merged
     note: >
-      Fold LLM into Idea D as workflow assistant. Too broad as standalone.
-      Narrow to one deployable typology if pursued alone.
+      MERGED into Agility Architecture — LLM is workflow assist layer, not standalone
+      thesis. Critical position AI-not-replacement + 50/50 manual-robot prototype.
 
   - id: idea_b
     title: "LLM multi-agents robotic fabrication — moon base data centre"
@@ -75,6 +75,12 @@ merged_thesis:
   narrative_docs:
     - docs/agility-architecture-narrative.md
     - docs/coffee-waste-narrative.md
+    - docs/llm-rapid-architecture-narrative.md
+  llm_rapid_layer:
+    title: Rapid Architecture using LLM for affordable sustainability
+    verdict: merged_not_standalone
+    critical_position: AI assists not replaces labour
+    prototype: fifty_percent_manual_fifty_percent_robot
   student_background:
     - studio_marc_gibson: "Barry Wark tectonics, Aurora Grasshopper, China plastic AM + VoxelJet"
     - studio_alisa_andrasek: "Vibe coding, AI automation, multi swarm agents"

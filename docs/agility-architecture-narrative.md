@@ -4,9 +4,29 @@
 
 **Agility Architecture** = architecture that is **fast to deploy, repeatable, scalable, affordable, and profitable** — without relying on one-off craft bespoke design for every unit.
 
-**Acceleration Intelligence** = computation (multi-agent aggregation, AI-assisted workflow) + robotic fabrication (large, repeatable, placement/logistics-aware) that **accelerates** design-to-assembly — while the architect controls **tectonic intelligence** (connectors, module logic, civic quality).
+**Acceleration Intelligence** = computation (multi-agent aggregation, **LLM-assisted architect workflow**, vibe code) + robotic fabrication (large, repeatable, placement/logistics-aware) that **accelerates** design-to-assembly — while the architect controls **tectonic intelligence** (connectors, module logic, civic quality) and **human craft** handles precision finishing.
 
-> **NOT single craft. Different configurations — same smart parts.**
+> **NOT single craft. Different configurations — same smart parts.**  
+> **NOT AI labour replacement. LLM + robots assist; architect authors.**
+
+---
+
+## Pillar 0 — Rapid Architecture / LLM affordable sustainability
+
+*Merged from your original Idea A — not a competing project.*
+
+| Your question | Project answer |
+|---------------|----------------|
+| Craft needs skill, experience, precision | Humans: judgment + craft finish. Robots: repeatability + speed. |
+| Algorithm/automation accelerate construction | Discrete kit + CNC/robotic placement + aggregation |
+| AI assists, not replaces | **Core critical position** — see `docs/llm-rapid-architecture-narrative.md` |
+| LLM in architect workflow | Spec drafts, assembly steps, G-code review, iteration logs — human validates |
+| Affordable = speed + replication | IKEA/Affordabuild logic + logistics sheet |
+| Sustainable: upcycle, certified wood, waste | Coffee composite + pallet timber + GFRC stock palette |
+| Profitable because fast | DfMA industry framing — employable |
+| Temporary shelter/pavilion install–remove–reuse | Primary typology + smart connectors |
+
+**Scope:** Research ∥ LLM algorithmic design ∥ prototype **50% manual / 50% robot** (AM for connectors only if needed).
 
 ---
 

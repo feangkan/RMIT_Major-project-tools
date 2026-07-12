@@ -68,6 +68,29 @@ pillars:
       - placement_diagram
       - rough_cost_time_estimate
 
+  llm_rapid_affordable:
+    description: LLM-assisted architect workflow for rapid affordable sustainable deployment
+    critical_position: AI and robotics assist — NOT labour replacement; human craft retains precision and authorship
+    research_questions:
+      - How does LLM cooperate in architect workflow without replacing judgment?
+      - How do algorithms accelerate construction through replication not bespoke craft?
+      - How do upcycled waste and certified stock materials stay affordable at speed?
+    llm_tasks:
+      - brief_synthesis
+      - specification_drafts
+      - assembly_sequence_generation
+      - gcode_documentation_review
+      - iteration_logging
+    prototype_fabrication:
+      primary: fifty_percent_manual_fifty_percent_robot
+      selective: additive_manufacturing_connectors_only
+      deprioritised: full_volumetric_3d_print
+    typology:
+      - temporary_shelter
+      - pavilion
+      - install_remove_reuse
+    narrative_doc: docs/llm-rapid-architecture-narrative.md
+
 industry_pr_pathway:
   market: prefab modular, DfMA, off-site, facade systems, temporary shelter
   australia_bodies:

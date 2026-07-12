@@ -27,20 +27,23 @@
 | **Materials** | Stock palette, pallet wood, coffee waste | Coffee composite + stock timber + GFRC skin |
 | **Robotics** | Large, repeatable; maybe **not full 3D print** | CNC + **placement/assembly**; 3D print **connectors only** |
 | **Logistics** | Future job, profitable, affordable | Pallet size, assembly sequence, cost/time sheet |
+| **LLM rapid affordable** | AI assists not replaces; craft + precision | LLM workflow map; **50% manual / 50% robot** prototype |
+| **Sustainability** | Upcycle, certified wood, waste | Coffee + stock timber + GFRC palette |
+| **Shelter/pavilion** | Install–remove–reuse | Primary typology with smart connectors |
 
 ---
 
 ## 2. Project summary (150 words)
 
-Melbourne is Australia’s coffee capital — yet **~5,500 tonnes of spent grounds** are discarded annually, sent to landfill where they release methane. This project **reimagines coffee waste not as rubbish, but as a latent architectural material** that can serve the city again: as **café furniture, shelter, event elements, ornament, and facade tectonics**.
+This Major Project proposes **Rapid Agility Architecture**: **LLM-assisted**, **algorithmically aggregated**, **discrete modular** systems for **affordable sustainable** temporary shelter and facade prototypes — deployable install–remove–reuse civic architecture.
 
-Building on my **Igor Pantic studio** (coffee-ground carving/casting), **GFRC RA experience**, and **Alisa Andrasek** swarm/AI workflows, the Major Project investigates **behavioral formation** for generating **robotic AM tectonics** from coffee-waste composites — extending Roland Snooks’ *behavioral tectonics* and *agentBody* research.
+**Human labour** retains craftsmanship, precision, and design authorship. **LLM, swarm aggregation, and robotic automation accelerate** documentation, replication, cutting, and placement — they do **not** replace the architect. Building on **Alisa Andrasek** (vibe code, swarm, AI automation), **Igor Pantic** (coffee-waste materials), **GFRC RA facade** work, and **Marc Gibson** (tectonics/AM), the project extends Roland Snooks’ **behavioral formation** and discrete modular discourse (IKEA / Gilles Retsin lineage).
 
-Coffee material **behavior** (moisture, shrinkage, scent, variability) becomes an **agent constraint** in multi-agent formation systems, not a post-hoc sustainability claim. RMIT precedents include **Nic Bao’s *Waste to Form*** (coffee AM architecture) and **Dr Rajeev Roychand’s coffee concrete** research — this project advances the **architectural scale** between cup-holder experiments and infrastructure concrete.
+Melbourne’s **~5,500 tonnes/year** spent coffee grounds become **upcycled stock material** in a limited parts kit with a **smart tectonic connector**. Materials include certified/stock timber and waste composites — **fast, sustainable, profitable through speed and repeatability**.
 
-The outcome: a **resolved proto-architectural prototype** (shelter fragment / event facade) with drawings and TFL robotic fabrication — waste made **alive** through design.
+**Prototype:** 50% manual craft / 50% robotic fabrication (CNC, placement; selective AM for connectors only). Outcome: resolved drawings + pavilion/shelter fragment for Major Project Festival.
 
-**AI/LLM assist** documentation; **swarm agents + architect** retain authorship.
+**AI assists. Architects author. Craft persists.**
 
 ---
 

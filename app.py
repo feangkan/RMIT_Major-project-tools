@@ -467,6 +467,11 @@ def page_ideas() -> None:
 
     schedule = load_yaml("semester_schedule.yaml")
     agility = load_yaml("agility_architecture.yaml")
+    with st.expander("LLM Rapid Architecture — affordable sustainability (merged)"):
+        llm_path = ROOT / "docs" / "llm-rapid-architecture-narrative.md"
+        if llm_path.exists():
+            st.caption("AI assists · NOT labour replacement · 50% manual / 50% robot prototype")
+            st.markdown(llm_path.read_text(encoding="utf-8")[:2500] + "\n\n…")
     with st.expander("Agility Architecture / Acceleration Intelligence"):
         st.markdown(f"**Theme:** {agility.get('theme', 'Scalable architecture')}")
         st.markdown(f"**Core:** {agility.get('core_principle', '').strip()}")
