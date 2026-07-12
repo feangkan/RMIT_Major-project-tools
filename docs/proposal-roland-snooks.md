@@ -83,9 +83,9 @@ Melbourne’s **~5,500 tonnes/year** spent coffee grounds become **upcycled stoc
 | Layer | Method |
 |-------|--------|
 | **Multi-agent formation** | Python / vibe-coded agent systems (Andrasek studio lineage); swarm rules for module clustering, variation, stigmergy |
-| **Generative AI assist** | LLM for pseudocode iteration, documentation, G-code review — human validated |
+| **Generative AI assist** | **Claude** (briefs, specs, pseudocode) + **Cursor vibe code** → **Python for Rhino** (module layout, export); all geometry human-validated |
 | **Material behavior** | Waste coffee aggregate, recycled polymer AM, GFRC mixture trials (RA experience); parameters fed into agent logic |
-| **Fabrication** | TFL robotic AM — large-format polymer / composite deposition; hybrid manual finishing |
+| **Fabrication** | 50% manual craft / 50% robotic — CNC, pick-place, TFL AM; selective 3D print for connectors only |
 | **AR (optional)** | HoloLens assembly guidance (Igor Pantic studio precedent) — assistive only |
 | **Resolution** | Rhino work sessions; behavioral tectonic drawings; physical **agentBody-style** prototype fragment |
 
