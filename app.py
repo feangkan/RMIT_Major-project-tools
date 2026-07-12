@@ -50,10 +50,12 @@ def sidebar() -> str:
     st.sidebar.caption("RMIT M.Arch · Computational Design")
     stage = st.sidebar.radio(
         "Workflow stage",
-        options=["overview"] + list(STAGES.keys()),
+        options=["overview", "ideas"] + list(STAGES.keys()),
         format_func=lambda k: (
             "Overview — Command Center"
             if k == "overview"
+            else "Idea evaluation (A–D)"
+            if k == "ideas"
             else f"Stage {k}: {STAGES[k]['title']}"
         ),
     )
@@ -416,6 +418,16 @@ def page_ideas() -> None:
 
     st.success(f"**Recommended:** {merged.get('title', '')}")
     st.caption(merged.get("subtitle", ""))
+    bg = merged.get("student_background", {})
+    if bg:
+        st.subheader("Your studio trajectory")
+        for key, val in bg.items():
+            st.markdown(f"- **{key.replace('_', ' ').title()}:** {val}")
+        if merged.get("gfrc_facade_alone_sufficient") is False:
+            st.warning(
+                "GFRC facade alone is **not** sufficient for Major Project — "
+                "but GFRC as tectonic core of a pavilion **is**. See docs/studio-background-assessment.md"
+            )
     st.markdown(
         f"**Primary supervisor:** {merged.get('primary_supervisor', '')} · "
         f"**Urban framing:** {merged.get('urban_framing', '')}"
@@ -467,6 +479,8 @@ def main() -> None:
     stage = sidebar()
     if stage == "overview":
         page_overview()
+    elif stage == "ideas":
+        page_ideas()
     else:
         PAGES[stage]()
     st.sidebar.divider()

@@ -11,9 +11,11 @@
 
 ## 1. Title
 
-**Waste-to-Pavilion: Circular Material Tectonics for Temporary Community Infrastructure in Melbourne**
+**Circular GFRC Tectonics: Waste-Derived Envelope Systems for Temporary Civic Architecture in Melbourne**
 
-*AI-assisted computational design for rapid install–remove–reuse civic architecture*
+*Hybrid tectonics, swarm-assisted computational design, and AI-assisted fabrication for install–remove–reuse pavilions*
+
+*(Alternate short title: Waste-to-Pavilion — see idea evaluation docs)*
 
 ---
 
@@ -75,12 +77,23 @@ The outcome will demonstrate **new knowledge through architecture**: a resolved 
 
 ## 7. Background & precedent (why me)
 
-- [Insert past studio work — fabrication, urban, sustainability]
-- [Insert work experience — if any construction/digital practice]
-- Material experiments already begun: [plastic printing / coffee waste trials — attach photos]
-- Alignment with **FormX** and Nic Bao’s **Waste to Form** / circular AM research trajectory
+My Major Project builds on four consecutive studios and research roles that form a single trajectory — **hybrid tectonics, computational design, waste materials, and hands-on facade fabrication**:
 
-**Key references:** Nic Bao (Shell Tectonics, Waste to Form); Roland Snooks (behavioral tectonics — if module aggregation used); Gilles Retsin (discrete assembly); Melbourne circular economy policy documents.
+1. **Hybrid tectonic studio (Marc Gibson)** — Tectonic conditions inspired by Barry Wark; Aurora Grasshopper plugin for planetary formation; fabrication in China including **large-scale plastic 3D printing** and **VoxelJet** processes. Established my interest in **skin–structure integration** and international digital fabrication.
+
+2. **AI automation architecture (Alisa Andrasek)** — **Vibe coding**, AI-assisted workflows, and **multi swarm agent** systems. Developed capacity for algorithmic design authorship where automation **assists** rather than replaces architectural decision-making. Direct alignment with behavioral / multi-agent computational design discourse.
+
+3. **Augmented reality + material research (Igor Pantic)** — **Waste coffee ground** material research using carving and casting techniques; **HoloLens** used as fabrication guidance overlay. First proof that **urban waste** can become architectural material with craft precision.
+
+4. **Research assistant — GFRC facade fabrication** — Hands-on development of **GFRC mixture** and **facade panel** prototypes. This is my **deepest technical interest**: facade tectonics, mixture design, and buildable envelope resolution. I recognise facade specialisation is **niche and employable in Australia**, but for Major Project I will frame GFRC not as a material study alone — as the **primary tectonic system** of a **resolved temporary civic architecture** (pavilion/shelter) with full drawings and prototype.
+
+**Synthesis:** I am not proposing to learn GFRC from zero in one semester. I am proposing to **advance my existing GFRC + waste-material + computational workflow** into a **capstone architectural proposition** with urban consequence and festival-ready resolution.
+
+- Material experiments already underway: coffee waste casting, plastic AM, GFRC mixture trials — documentation available
+- Alignment with **FormX** and Nic Bao’s circular AM / facade-scale fabrication research (*Waste to Form*, *Shell Tectonics*)
+- Tectonic lineage: Barry Wark / hybrid skin–structure; optional swarm module logic (Andrasek → Snooks discourse)
+
+**Key references:** Nic Bao (Shell Tectonics, Waste to Form); Roland Snooks (behavioral tectonics); Barry Wark (hybrid tectonic); Gilles Retsin (discrete assembly); Marc Gibson studio lineage.
 
 ---
 
