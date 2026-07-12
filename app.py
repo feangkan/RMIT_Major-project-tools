@@ -69,6 +69,23 @@ def sidebar() -> str:
 
 def page_overview() -> None:
     st.title("RMIT Major Project Command Center")
+
+    from src.config import load_yaml
+
+    reqs = load_yaml("rmit_requirements.yaml")
+    st.info(reqs.get("official_definition", "").strip())
+
+    st.subheader("Four capstone requirements")
+    pcols = st.columns(4)
+    assessment = assess_brief(st.session_state.brief)
+    for i, pillar in enumerate(assessment.get("capstone_pillars", [])):
+        with pcols[i % 4]:
+            icon = "✅" if pillar["complete"] else "⬜"
+            st.markdown(f"**{icon} {pillar['label']}**")
+            st.caption(pillar["description"][:120] + "…" if len(pillar["description"]) > 120 else pillar["description"])
+            if pillar.get("stages"):
+                st.caption(f"Stages: {', '.join(pillar['stages'])}")
+
     st.markdown(
         """
         Your assistant for **computational design**, **algorithms**, **AI/LLM**, **swarm intelligence**,
@@ -87,7 +104,6 @@ def page_overview() -> None:
             st.caption(meta["title"])
 
     st.divider()
-    assessment = assess_brief(brief)
     if assessment["ready_for_proposal"]:
         st.success("Brief has enough core content to draft a proposal email.")
     else:
@@ -358,9 +374,21 @@ def page_stage_f() -> None:
 
 def page_checklist() -> None:
     st.header("RMIT Major Project — Requirements Checklist")
+    from src.config import load_yaml
+
     brief = st.session_state.brief
     assessment = assess_brief(brief)
+    reqs = load_yaml("rmit_requirements.yaml")
 
+    st.info(reqs.get("official_definition", "").strip())
+
+    st.subheader("Capstone pillars")
+    for pillar in assessment.get("capstone_pillars", []):
+        icon = "✅" if pillar["complete"] else "⬜"
+        st.markdown(f"{icon} **{pillar['label']}** — Stages {', '.join(pillar.get('stages', []))}")
+
+    st.divider()
+    st.subheader("Detailed components")
     st.progress(assessment["score"] / 100)
     for comp in assessment["components"]:
         icon = "✅" if comp["complete"] else "⬜"

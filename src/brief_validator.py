@@ -32,6 +32,9 @@ def assess_brief(brief: dict[str, Any]) -> dict[str, Any]:
         "background": brief.get("background"),
         "keywords": brief.get("keywords") or brief.get("custom_keywords"),
         "critical_position": brief.get("revision_notes"),
+        "design_practice_research": brief.get("research_notes") or brief.get("production_log"),
+        "resolved_design": brief.get("process") or brief.get("production_log"),
+        "panel_review": brief.get("stage_status", {}).get("F") == "done",
         "building_technology": brief.get("process"),
         "communication": brief.get("production_log"),
         "research_literature": brief.get("research_notes"),
@@ -64,6 +67,28 @@ def assess_brief(brief: dict[str, Any]) -> dict[str, Any]:
     missing_critical = [r["label"] for r in critical if not r["complete"]]
     missing_all = [r["label"] for r in results if not r["complete"]]
 
+    pillars = reqs.get("capstone_pillars", [])
+    pillar_to_component = {
+        "resolved_design": "resolved_design",
+        "design_practice_research": "design_practice_research",
+        "unique_position": "critical_position",
+        "panel_presentation": "panel_review",
+    }
+    results_by_id = {r["id"]: r for r in results}
+    pillar_status = []
+    for pillar in pillars:
+        comp_id = pillar_to_component.get(pillar["id"], "")
+        linked = results_by_id.get(comp_id)
+        pillar_status.append({
+            "id": pillar["id"],
+            "label": pillar["label"],
+            "complete": linked["complete"] if linked else False,
+            "description": pillar.get("description", "").strip(),
+            "stages": pillar.get("maps_to_stages", []),
+        })
+
+    pillars_done = sum(1 for p in pillar_status if p["complete"])
+
     return {
         "score": score,
         "total": len(results),
@@ -73,6 +98,9 @@ def assess_brief(brief: dict[str, Any]) -> dict[str, Any]:
         "components": results,
         "missing_critical": missing_critical,
         "missing_all": missing_all,
+        "capstone_pillars": pillar_status,
+        "pillars_completed": pillars_done,
+        "pillars_total": len(pillar_status),
         "ready_for_proposal": critical_done >= len(critical) - 1 and _filled(brief.get("topic")),
     }
 

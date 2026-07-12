@@ -181,7 +181,12 @@ def export_obsidian_vault(brief: dict[str, Any]) -> Path:
 
     # Requirements
     reqs = load_yaml("rmit_requirements.yaml")
-    req_lines = ["# RMIT Requirements Checklist\n"]
+    req_lines = ["# RMIT Requirements Checklist\n\n"]
+    req_lines.append(f"> {reqs.get('official_definition', '').strip()}\n\n")
+    req_lines.append("## Capstone pillars\n\n")
+    for pillar in reqs.get("capstone_pillars", []):
+        req_lines.append(f"- [ ] **{pillar['label']}** — {pillar.get('description', '').strip()}\n")
+    req_lines.append("\n## Detailed components\n\n")
     for comp in reqs.get("required_components", []):
         req_lines.append(f"- [ ] **{comp['label']}** — {comp['description']}\n")
     (VAULT_DIR / "RMIT Requirements Checklist.md").write_text("".join(req_lines), encoding="utf-8")

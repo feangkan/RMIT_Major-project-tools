@@ -1,6 +1,6 @@
 # RMIT Major Project Tools
 
-Command center for the **RMIT Master of Architecture Major Project**, tailored to computational design, algorithms, AI/LLM, swarm intelligence, form finding, prefabrication, off-site construction, additive manufacturing, and cost control.
+Command center for the **RMIT Master of Architecture Major Project** capstone — the independent research and design project requiring a highly resolved design, design-practice research, a unique architectural position, and presentation before a panel of experts at the Major Project Festival.
 
 ## Features
 

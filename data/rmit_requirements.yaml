@@ -2,10 +2,52 @@
 program: Master of Architecture (MC163)
 capstone_course: Major Project
 
+official_definition: >
+  The Major Project is the independent capstone research and design project for the
+  Master of Architecture at RMIT. It requires students to execute a highly resolved
+  architectural design project, undertake design-practice research, and articulate
+  their own unique architectural position before a panel of experts.
+
 description: >
-  Independent, research-led design project developing a critical architectural
-  position through design-practice research. Supervised individually within a
-  group context. Culminates in Major Project Festival review.
+  Independent capstone supervised individually within a group context. Culminates
+  in the Major Project Festival — work-in-progress and final reviews with a panel
+  of supervisors and experts.
+
+capstone_pillars:
+  - id: resolved_design
+    label: Highly resolved architectural design
+    description: >
+      A fully developed design project — not only research or prototypes, but
+      architecture resolved at a level appropriate for expert critique (drawings,
+      models, prototypes, exhibition materials).
+    maps_to_stages: [D, F]
+    weight: critical
+
+  - id: design_practice_research
+    label: Design-practice research
+    description: >
+      Research conducted through design — iterative experimentation, precedent
+      study, fabrication tests, and documented design decisions that produce
+      new knowledge via architectural practice.
+    maps_to_stages: [A, B, C, D]
+    weight: critical
+
+  - id: unique_position
+    label: Unique architectural position
+    description: >
+      A clear, defensible stance on what your project contributes to architecture
+      — what you believe, what you challenge, and why your approach matters.
+    maps_to_stages: [A, E]
+    weight: critical
+
+  - id: panel_presentation
+    label: Panel of experts (Festival review)
+    description: >
+      Presentation and defence before a panel at the Major Project Festival.
+      Requires coherent narrative, resolved deliverables, and preparedness for
+      critique and discussion.
+    maps_to_stages: [F]
+    weight: critical
 
 required_components:
   - id: topic_what
@@ -62,12 +104,40 @@ required_components:
       - How do keywords connect to supervisor/lab research?
 
   - id: critical_position
-    label: Critical architectural position
-    description: Well-argued stance toward the discipline
+    label: Unique architectural position
+    description: Your own well-argued stance toward the discipline (capstone pillar)
     weight: critical
     prompts:
-      - What is your position on AI / computation in architecture?
+      - What is your unique position on AI / computation in architecture?
       - What existing discourse are you extending or challenging?
+      - Can you state your argument in 2–3 sentences a panel could debate?
+
+  - id: design_practice_research
+    label: Design-practice research
+    description: Research through design iteration, not literature alone (capstone pillar)
+    weight: critical
+    prompts:
+      - What design experiments will generate your research evidence?
+      - How do studio iterations, prototypes, or code runs become findings?
+      - What gap in practice or discourse does your design work address?
+
+  - id: resolved_design
+    label: Highly resolved design deliverables
+    description: Exhibition-ready architectural resolution (capstone pillar)
+    weight: critical
+    prompts:
+      - What is the final scale of design resolution (1:1 prototype, building, urban)?
+      - What drawings, models, and physical outputs will the panel see?
+      - Is the project resolved beyond concept — detail, tectonics, assembly?
+
+  - id: panel_review
+    label: Panel presentation readiness
+    description: Prepared for Major Project Festival expert critique (capstone pillar)
+    weight: high
+    prompts:
+      - What is your 5-minute spoken narrative for the panel?
+      - What questions do you expect from supervisors and critics?
+      - Are WIP reviews scheduled before the final festival?
 
   - id: building_technology
     label: Building technology integration
@@ -117,6 +187,11 @@ revision_hierarchy:
   - order: 5
     lens: "Critical position"
     question: Is the argument clear beyond technical demonstration?
+  - order: 6
+    lens: "Capstone pillars"
+    question: >
+      Does the brief satisfy all four RMIT requirements — highly resolved design,
+      design-practice research, unique position, and panel-ready presentation?
 
 default_keywords:
   - computational design
