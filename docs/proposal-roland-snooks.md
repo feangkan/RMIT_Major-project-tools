@@ -19,13 +19,15 @@
 
 ## 2. Project summary (150 words)
 
-This Major Project investigates **behavioral formation** as a design methodology for generating **architectural tectonics** from **non-standard waste-derived materials** (recycled polymers, coffee-waste composites, GFRC mixtures). Building on my studio work with **Alisa Andrasek** (multi swarm agents, vibe coding, AI-assisted automation) and **Marc Gibson** (hybrid tectonics, large-scale AM fabrication in China), the project asks how **multi-agent algorithms** can negotiate between material constraints, fabrication logic, and tectonic intention to produce **coherent architectural assemblages**—not arbitrary form.
+Melbourne is Australia’s coffee capital — yet **~5,500 tonnes of spent grounds** are discarded annually, sent to landfill where they release methane. This project **reimagines coffee waste not as rubbish, but as a latent architectural material** that can serve the city again: as **café furniture, shelter, event elements, ornament, and facade tectonics**.
 
-The research extends Roland Snooks’ discourse on **behavioral tectonics** and **agentBody prototypes**: compressing surface, structure, and ornament into irreducible waste-material fragments produced through **robotic additive manufacturing** at the Tectonic Formation Lab.
+Building on my **Igor Pantic studio** (coffee-ground carving/casting), **GFRC RA experience**, and **Alisa Andrasek** swarm/AI workflows, the Major Project investigates **behavioral formation** for generating **robotic AM tectonics** from coffee-waste composites — extending Roland Snooks’ *behavioral tectonics* and *agentBody* research.
 
-The outcome is a **highly resolved architectural prototype** (pavilion envelope fragment or proto-architectural assembly) with full drawings, computational documentation, and physical fabrication—demonstrating **new knowledge through architecture** for Major Project Festival panel review.
+Coffee material **behavior** (moisture, shrinkage, scent, variability) becomes an **agent constraint** in multi-agent formation systems, not a post-hoc sustainability claim. RMIT precedents include **Nic Bao’s *Waste to Form*** (coffee AM architecture) and **Dr Rajeev Roychand’s coffee concrete** research — this project advances the **architectural scale** between cup-holder experiments and infrastructure concrete.
 
-**AI and LLM tools assist** workflow documentation and iteration; **swarm agents and the architect** retain design authorship.
+The outcome: a **resolved proto-architectural prototype** (shelter fragment / event facade) with drawings and TFL robotic fabrication — waste made **alive** through design.
+
+**AI/LLM assist** documentation; **swarm agents + architect** retain authorship.
 
 ---
 
@@ -41,12 +43,12 @@ The outcome is a **highly resolved architectural prototype** (pavilion envelope 
 
 ## 4. Architectural position
 
-**Thesis:** Waste materials are not merely sustainable inputs—they introduce **behavioral variability** that conventional parametric models suppress. Multi-agent formation allows architecture to **negotiate imperfection** through tectonic intelligence, producing provisional civic prototypes (install–remove–reuse pavilions) where computation and robotic fabrication **assist** human craft rather than replace it.
+**Thesis:** Coffee waste in Melbourne is not landfill — it is **latent civic material**. The grounds already serve the city socially in the cup; this project asks them to serve **spatially** as furniture, shelter, ornament, and facade. Multi-agent formation negotiates coffee’s **material behavior** (organic variability, scent, texture) to produce **behavioral tectonics** — where computation and robotic AM **assist** craft, not replace it.
 
-**Lineage:** Barry Wark / Marc Gibson hybrid tectonics → Alisa Andrasek swarm + vibe coding → Roland Snooks behavioral formation → **this project**: waste-stream behavioral tectonics.
+**Against:** Sustainability checkbox; cup-holder scale only; concrete infrastructure posing as architecture.  
+**For:** Design-practice research where **Melbourne’s coffee culture** becomes **architectural tectonics** through waste reproduction.
 
-**Against:** Parametric surface scripting detached from material behavior; spectacle AM without tectonic argument.  
-**For:** Design-practice research where **agents + materials + robots** co-produce architectural knowledge.
+**Lineage:** Pantic (coffee material) → Gibson/Wark (hybrid tectonics) → Andrasek (swarm) → Snooks (behavioral formation) → **coffee-waste agentBody prototypes**.
 
 ---
 

@@ -11,23 +11,25 @@
 
 ## 1. Title
 
-**Circular GFRC Tectonics: Waste-Derived Envelope Systems for Temporary Civic Architecture in Melbourne**
+**Coffee Waste Made Alive: Circular GFRC Tectonics for Melbourne Café Civic Architecture**
 
-*Hybrid tectonics, swarm-assisted computational design, and AI-assisted fabrication for install–remove–reuse pavilions*
+*From spent grounds to shelter, furniture, and facade — waste reproduction as architectural purpose*
 
-*(Alternate short title: Waste-to-Pavilion — see idea evaluation docs)*
+*(Alternate: Behavioral tectonics variant for Roland Snooks — see proposal-roland-snooks.md)*
 
 ---
 
 ## 2. Project summary (150 words)
 
-Melbourne generates significant urban waste streams—including spent coffee grounds and discarded plastics—that rarely return to the built environment as architectural material. This major project proposes a **design-practice research** investigation into how **computational design, additive manufacturing, and hybrid manual–robotic fabrication** can transform local waste into **temporary, installable community infrastructure** (pavilion, shelter, or street furniture system).
+**Reimagining coffee waste is not about landfill diversion alone — it is about making waste alive again, so it serves Melbourne’s civic purpose.**
 
-The project will **not** pursue AI as labour replacement. Instead, it positions **LLM and algorithmic tools as assistants** within the architect’s workflow—accelerating iteration, documentation, and fabrication logic while preserving material craft and human design judgment.
+Melbourne consumes an estimated **~500 million cups of coffee per year**, producing **~5,500 tonnes of spent grounds** — most still landfilled, releasing methane (City of Melbourne / industry data). Community experiments have reproduced grounds into **cup holders** and small objects. RMIT researchers have advanced coffee waste into **construction** — **Dr Rajeev Roychand** (coffee biochar concrete footpaths) and **Dr Nic Bao** (*Waste to Form* — coffee grounds as 3D-printing filament for architectural installation).
 
-Through material experiments, vibe-coded / Python computational workflows, and a resolved architectural prototype, the project asks: *Can hyperlocal waste become a viable tectonic system for small-scale civic architecture that is fast to deploy, demountable, and culturally legible to neighbourhoods?*
+This Major Project asks the **architectural next step**: how can coffee grounds become **functional built elements** — café furniture, **shelter**, **event architecture**, **ornament**, and **facade** — through **GFRC/composite research**, computational design, and hybrid AM?
 
-The outcome will demonstrate **new knowledge through architecture**: a resolved design proposition, fabrication-aware drawings, and physical prototype(s) suitable for Major Project Festival panel review.
+Building on my **Igor Pantic studio** (coffee carving/casting), **GFRC RA facade work**, and computational studios, the project produces a **resolved temporary civic prototype** with full drawings — demonstrating that Melbourne’s coffee culture can loop back into **spatial form**.
+
+**AI assists** workflow; the architect leads tectonic and civic decisions.
 
 ---
 

@@ -1,0 +1,63 @@
+# Melbourne coffee waste — facts for proposals (cite in writing)
+
+melbourne_context:
+  coffee_capital: Melbourne widely regarded as Australia's coffee capital
+  cups_per_year_estimate: "~500 million cups/year (Melbourne metro estimates)"
+  grounds_tonnes_per_year: "~5,500 tonnes spent grounds/year (industry estimates)"
+  australia_grounds_landfill: "~75,000 tonnes/year nationally to landfill (City of Melbourne / Reground)"
+  methane_risk: Spent grounds in landfill release methane — climate argument
+
+typology_ladder:
+  - scale: community / product
+    examples: [cup holders, planters, small composites]
+    role: proof waste is reproducible — not sufficient alone for Major Project
+  - scale: furniture
+    examples: [café seating, counters, display elements]
+    role: experiment entry scale
+  - scale: shelter_event
+    examples: [temporary canopy, pavilion, market shelter]
+    role: Major Project target minimum
+  - scale: ornament_facade
+    examples: [event facade, street-facing envelope, GFRC panel system]
+    role: Major Project resolution — aligns with RA GFRC interest
+
+rmit_precedents:
+  - name: Dr Nic Bao
+    lab: FormX Research Lab
+    project: Waste to Form
+    method: Coffee waste → biodegradable 3D-print filament → modular installation
+    url: https://designweek.melbourne/event/waste-to-form/
+    relevance: primary architectural AM precedent
+
+  - name: Dr Rajeev Roychand
+    lab: RMIT Engineering
+    project: Coffee concrete / biochar footpaths
+    method: Pyrolysis biochar replaces sand in concrete — ~30% strength increase
+    url: https://www.rmit.edu.au/news/all-news/2023/aug/coffee-concrete
+    relevance: parallel RMIT coffee-waste construction research (not GFRC method)
+
+  - name: Reground / City of Melbourne
+    project: Coffee ground collection & diversion
+    url: https://www.melbourne.vic.gov.au/news/how-coffee-waste-can-help-fight-climate-change-insights-binfluencer
+    relevance: local waste stream logistics
+
+student_narrative:
+  core_line: >
+    Reimagining coffee waste is not just about what people dump in landfill —
+    but making it alive again so it serves our civic purpose.
+  experiment: >
+    Reproduce waste coffee as functional architecture: café furniture, shelter,
+    event elements (ornament, facade).
+  studio_precedent: Igor Pantic — coffee ground carving, casting, HoloLens guidance
+
+keywords:
+  - coffee waste architecture
+  - spent coffee grounds
+  - Melbourne Naarm
+  - waste made alive
+  - circular café economy
+  - civic furniture
+  - event architecture
+  - sensory architecture
+  - Waste to Form
+  - coffee concrete
