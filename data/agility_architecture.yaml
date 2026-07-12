@@ -1,0 +1,89 @@
+# Agility Architecture — discrete modular system spec
+
+theme: Scalable architecture
+concept_names:
+  - Acceleration Intelligence
+  - Agility Architecture
+  - Affordabuild  # student term: affordable + modular build platform
+
+core_principle: >
+  NOT single craft — different architectural configurations from the same
+  discrete parts via smart tectonic connectors and algorithmic aggregation.
+
+exploration_areas:
+  - facade_modular
+  - temporary_pavilion
+  - event_architecture
+  - shelter_migration  # scope: one typology, not camp masterplan
+
+design_goals:
+  - well_designed
+  - affordable
+  - profitable  # via repeatability + DfMA, not bespoke craft
+
+pillars:
+  discrete_modular:
+    description: Limited parts kit, IKEA-style flat-pack logic, smart connectors
+    references:
+      - Gilles Retsin — Discrete Architecture
+      - IKEA — platform + logistics reference
+      - Nic Bao — modular bolted shell tectonics
+    key_innovation: Very smart tectonic connector — fully resolved in drawings + prototype
+
+  algorithmic_aggregation:
+    description: Multi-agent or rule-based layout of same modules into different configurations
+    methods:
+      - swarm_intelligence
+      - aggregation_logic
+      - vibe_coding
+      - python
+    supervisor_fit: roland_snooks
+
+  material_stock_palette:
+    description: Fast, sustainable, procurable — not exotic one-offs
+    materials:
+      - coffee_waste_composite_panels
+      - pallet_stock_timber
+      - gfrc_facade_panels
+      - recycled_plastic_sheet
+    note: Coffee waste = one stock in palette, not entire thesis alone
+
+  robotic_fabrication:
+    description: Large, repeatable — placement and logistics matter
+    preferred:
+      - cnc_panel_cutting
+      - robotic_pick_place
+      - robotic_assembly_drilling
+    selective:
+      - 3d_print_connectors_only
+    avoid_full_scope:
+      - volumetric_3d_printed_building  # cost + time vs affordable thesis
+
+  logistics:
+    description: Part of design research — employable industry skill
+    deliverables:
+      - module_dimensions_for_transport
+      - pallet_flat_pack_logic
+      - assembly_sequence
+      - placement_diagram
+      - rough_cost_time_estimate
+
+industry_pr_pathway:
+  market: prefab modular, DfMA, off-site, facade systems, temporary shelter
+  australia_bodies:
+    - Prefab Council Australia
+    - ARC Advance Timber Hub
+    - digital construction / intelligent construction
+
+merged_title_roland: >
+  Agility Architecture: Algorithmic Aggregation of Discrete Coffee-Waste Modules
+  for Scalable Shelter & Facade Prototypes
+
+merged_title_nic: >
+  Agility Architecture: Discrete Modular GFRC Systems — Affordable Scalable
+  Pavilion & Facade Assembly
+
+module_kit_limits_15_weeks:
+  max_unique_module_types: 8
+  hero_connector_resolved: 1
+  physical_prototype: 1_corner_or_shelter_fragment

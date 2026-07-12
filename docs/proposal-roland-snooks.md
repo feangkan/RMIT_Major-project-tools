@@ -11,9 +11,22 @@
 
 ## 1. Title
 
-**Behavioral Tectonics from Waste Streams: Multi-Agent Formation of Robotic AM Envelope Prototypes**
+**Agility Architecture: Algorithmic Aggregation of Discrete Coffee-Waste Modules for Scalable Shelter & Facade Prototypes**
 
-*Design-practice research into swarm-assisted generative formation using waste-derived materials and hybrid additive manufacturing*
+*Acceleration Intelligence — discrete modular systems, smart tectonic connectors, robotic placement — NOT single craft*
+
+---
+
+## 1b. Theme summary
+
+| Pillar | Your interest | This project |
+|--------|---------------|--------------|
+| **Scalable architecture** | Facade modular, pavilion, event, shelter | One **discrete parts kit** → many configurations |
+| **Discrete modular** | Affordabuild, IKEA logic, smart connector | **5–8 module types** + **1 hero connector** resolved |
+| **NOT single craft** | Different design via aggregation | Swarm / rule-based **aggregation logic** |
+| **Materials** | Stock palette, pallet wood, coffee waste | Coffee composite + stock timber + GFRC skin |
+| **Robotics** | Large, repeatable; maybe **not full 3D print** | CNC + **placement/assembly**; 3D print **connectors only** |
+| **Logistics** | Future job, profitable, affordable | Pallet size, assembly sequence, cost/time sheet |
 
 ---
 

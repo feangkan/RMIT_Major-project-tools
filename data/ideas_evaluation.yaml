@@ -56,13 +56,25 @@ ideas:
       Primary supervisor Nic Bao. Urban framing via Anna Johnson.
 
 merged_thesis:
-  title: "Behavioral Tectonics from Waste Streams: Multi-Agent Formation of Robotic AM Envelope Prototypes"
-  title_nic_variant: "Circular GFRC Tectonics: Waste-Derived Envelope Systems for Temporary Civic Architecture in Melbourne"
-  subtitle: "Roland Snooks primary — swarm formation + robotic AM; Nic Bao secondary — GFRC/coffee materials"
+  title: "Agility Architecture: Algorithmic Aggregation of Discrete Coffee-Waste Modules for Scalable Shelter & Facade Prototypes"
+  title_roland: "Agility Architecture: Algorithmic Aggregation of Discrete Coffee-Waste Modules for Scalable Shelter & Facade Prototypes"
+  title_nic: "Agility Architecture: Discrete Modular GFRC Systems — Affordable Scalable Pavilion & Facade Assembly"
+  subtitle: "Acceleration Intelligence — discrete modular, smart connectors, aggregation logic, logistics; Roland 1st / Nic 2nd"
+  themes:
+    - Acceleration Intelligence
+    - Agility Architecture
+    - Scalable architecture
+    - Discrete modular (IKEA / Affordabuild logic)
+    - Algorithmic aggregation
+    - Stock material palette
+    - Robotic placement (not full 3D print)
   primary_supervisor: roland_snooks
   secondary_supervisor: nic_bao
   proposal_doc_primary: docs/proposal-roland-snooks.md
   proposal_doc_secondary: docs/proposal-waste-to-pavilion.md
+  narrative_docs:
+    - docs/agility-architecture-narrative.md
+    - docs/coffee-waste-narrative.md
   student_background:
     - studio_marc_gibson: "Barry Wark tectonics, Aurora Grasshopper, China plastic AM + VoxelJet"
     - studio_alisa_andrasek: "Vibe coding, AI automation, multi swarm agents"
@@ -74,7 +86,9 @@ merged_thesis:
 
 what_roland_will_say_yes_to:
   - Multi-agent module aggregation / behavioral formation
-  - Robotic AM tectonics from polymer streams
+  - Discrete modular aggregation logic (IKEA / Gilles Retsin lineage)
+  - Agility Architecture — scalable shelter/facade from repeated parts
+  - Robotic placement and assembly — not necessarily full 3D print
   - Generative AI augmenting algorithmic design (TFL research stream)
   - Design Hub prototype at architectural resolution
 

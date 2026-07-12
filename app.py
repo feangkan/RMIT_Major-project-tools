@@ -466,6 +466,12 @@ def page_ideas() -> None:
             st.markdown(proposal_alt.read_text(encoding="utf-8"))
 
     schedule = load_yaml("semester_schedule.yaml")
+    agility = load_yaml("agility_architecture.yaml")
+    with st.expander("Agility Architecture / Acceleration Intelligence"):
+        st.markdown(f"**Theme:** {agility.get('theme', 'Scalable architecture')}")
+        st.markdown(f"**Core:** {agility.get('core_principle', '').strip()}")
+        for name, pillar in agility.get("pillars", {}).items():
+            st.markdown(f"- **{name.replace('_', ' ').title()}:** {pillar.get('description', '')}")
     st.subheader("15-week schedule")
     for phase in schedule.get("phases", []):
         with st.expander(f"Weeks {phase['weeks']}: {phase['title']}"):
