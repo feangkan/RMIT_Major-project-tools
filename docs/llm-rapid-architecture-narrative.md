@@ -62,18 +62,10 @@
 ┌─────────┐         ┌───────────────┐       ┌──────────────┐
 │ LLM     │         │ Algorithmic   │       │ Robotic      │
 │ ASSIST  │         │ aggregation   │       │ automation   │
-├─────────┤         ├───────────────┤       ├──────────────┤
-│ Brief   │         │ Swarm / rules │       │ CNC cut      │
-│ synthesis│        │ Module layout │       │ Pick-place   │
-│ Spec    │         │ Config variants│      │ Drill/fix    │
-│ drafts  │         │ Vibe code     │       │ (not full    │
-│ Assembly│         │ Python        │       │  3D building)│
-│ steps   │         │               │       │              │
-│ G-code  │         │               │       │              │
-│ review  │         │               │       │              │
-│ Iteration│        │               │       │              │
-│ log     │         │               │       │              │
-└─────────┘         └───────────────┘       └──────────────┘
+│ Claude  │         │ Swarm / rules │       │ CNC cut      │
+│ Cursor  │         │ Python/Rhino  │       │ Pick-place   │
+│ vibe    │         │ Vibe code GH  │       │ Drill/fix    │
+│ code    │         │               │       │              │
          ALL OUTPUTS → HUMAN REVIEW → DRAWINGS + PROTOTYPE
 ```
 

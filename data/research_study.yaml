@@ -1,104 +1,189 @@
-# Curated reading list aligned to your interests
+# Expanded research bibliography — sync with docs/references-for-proposal-email.md
+
+reading_order_week_0:
+  - Roland Snooks — Behavioral Formation (selected chapters)
+  - Nic Bao — Waste to Form (Melbourne Design Week)
+  - Alisa Andrasek — Archinect interview AI Complexity Ecological Futures
+
 categories:
-  swarm_multi_agent:
+  essential_for_roland_email:
     - author: Roland Snooks
-      title: "Behavioral Formation: volatile design processes and the emergence of a strange specificity"
+      title: "Behavioral Formation"
       year: 2021
       type: book
       priority: essential
     - author: Roland Snooks
       title: "Behavioral tectonics: agentBody prototypes and the compression of tectonics"
       year: 2022
-      type: paper
       doi: "10.1007/s44223-022-00007-8"
       priority: essential
-    - author: Robert Stuart-Smith
-      title: "Behavioural Production: Autonomous Swarm‐Constructed Architecture"
-      type: paper
-      priority: high
-    - author: Robert Stuart-Smith
-      title: "A review of collective robotic construction"
-      type: paper
-      priority: high
-    - author: Robert Stuart-Smith
-      title: "Non linear formation: or how to resist the parametric subversion of computational design"
-      type: paper
-      priority: medium
-
-  prefab_discrete_automation:
+    - author: Alisa Andrasek
+      title: "Agentic design cognition — RMIT profile & Architecture for Complexity"
+      year: 2024
+      url: https://www.rmit.edu.au/profiles/a/alisa-andrasek
+      priority: essential
+      note: Student's studio supervisor — vibe code, swarm, AI
     - author: Gilles Retsin
-      title: "Discrete: Reappraising the Digital in Architecture (AD special issue)"
+      title: "Discrete: Reappraising the Digital in Architecture"
       year: 2019
       type: journal_issue
       priority: essential
+    - author: Gilles Retsin
+      title: "Parts that Precede Buildings: Architecture in Large Quantities"
+      year: 2023
+      doi: "10.25439/rmt.32296608"
+      priority: essential
+    - author: Nic Bao
+      title: "Waste to Form — coffee waste architectural installation"
+      year: 2025
+      url: https://designweek.melbourne/event/waste-to-form/
+      priority: essential
+    - author: Neil Leach
+      title: "Architecture in the Age of Artificial Intelligence (2nd ed.)"
+      year: 2025
+      doi: "10.5040/9781350438781"
+      priority: essential
+    - author: Tectonic Formation Lab
+      title: "Computational Design + Generative AI"
+      url: https://www.tectonicformationlab.com/
+      priority: essential
+
+  swarm_multi_agent:
+    - author: Robert Stuart-Smith
+      title: "Behavioural Production: Autonomous Swarm‐Constructed Architecture"
+      priority: high
+    - author: Robert Stuart-Smith
+      title: "A review of collective robotic construction"
+      priority: high
+    - author: Jose Sanchez
+      title: "Bloom / Plethora — agent-based architectural assemblies"
+      priority: medium
+
+  llm_agentic_ai_recent:
+    - author: Neil Leach et al.
+      title: "The Connectionist Turn: How Contemporary Generative AI Reshapes Architectural Rationality"
+      year: 2025
+      doi: "10.3390/architecture5040132"
+      priority: high
+    - author: Stanislas Chaillou
+      title: "Artificial Intelligence and Architecture (expanded ed.)"
+      year: 2025
+      doi: "10.1515/9783035629422"
+      priority: high
+    - author: CAADRIA 2025
+      title: "Agentic AI framework — LLM metaphors to procedural 3D models"
+      year: 2025
+      url: https://papers.cumincad.org/
+      priority: medium
+    - author: BuildingBlock
+      title: "BuildingBlock: Hybrid LLM + procedural LEGO-block building generation"
+      year: 2025
+      url: https://arxiv.org/abs/2505.04051
+      priority: medium
+
+  discrete_modular_affordable:
     - author: Gilles Retsin & Manuel Jimenez Garcia
       title: "Robotic Building: Architecture in the Age of Automation"
       year: 2019
-      type: book
       priority: high
     - author: Gilles Retsin
       title: "Bits and Pieces: Digital Assemblies: From Craft to Automation"
-      year: 2019
-      type: paper
       doi: "10.1002/ad.2410"
       priority: high
+    - author: Gilles Retsin / AUAR
+      title: "ETH Zurich visiting studio — automated sustainable construction"
+      year: 2024
+      url: https://arch.ethz.ch/
+      priority: medium
+    - author: MDPI Buildings
+      title: "Full-Scale Implementation of an Automated Connecting Device for Modular Construction"
+      year: 2024
+      doi: "10.3390/buildings14020496"
+      priority: medium
 
-  fabrication_performance:
+  coffee_waste_melbourne:
+    - author: Nic Bao et al.
+      title: "Waste to Form"
+      year: 2025
+      priority: essential
+    - author: Rajeev Roychand et al.
+      title: "Coffee offers performance boost for concrete"
+      year: 2023
+      url: https://www.rmit.edu.au/news/all-news/2023/aug/coffee-concrete
+      priority: high
+    - author: City of Melbourne
+      title: "Coffee waste diversion — Reground"
+      url: https://www.melbourne.vic.gov.au/news/how-coffee-waste-can-help-fight-climate-change-insights-binfluencer
+      priority: medium
+
+  hybrid_tectonics_facade:
+    - author: Barry Wark
+      title: "Nadarra — 3D-printed sand wall; The Architecture of Ecology"
+      year: 2023
+      url: https://www.barrywark.com/
+      priority: high
+      note: Marc Gibson studio lineage
     - author: Nic Bao et al.
       title: "Shell Tectonics"
       year: 2024
-      type: project_paper
+      doi: "10.25439/rmt.31834441"
       priority: high
-      note: "BESO + robotic printing + modular assembly"
-    - author: Achim Menges
-      title: "Material Computation: Higher Integration in Morphogenetic Design"
-      type: book_chapter
-      priority: medium
 
-  ai_llm_computational:
-    - author: Tectonic Formation Lab
-      title: "Computational Design + Generative AI (lab research stream)"
-      type: web
-      url: https://www.tectonicformationlab.com/
-      priority: high
-      note: "Track lab outputs on generative AI + algorithmic systems"
-    - author: Albert Sumin
-      title: "Designing Between Data and Architecture"
-      type: article
-      url: https://paacademy.com/blog/designing-between-data-architecture-albert-sumin
-      priority: medium
-      note: "AI + parametric + BIM interoperability"
-
-  cost_control_construction:
-    - author: Prefab Council Australia
-      title: "Off-site construction industry reports"
-      type: industry
-      priority: medium
-      note: "Industry data for cost/prefab justification"
-    - author: Various
-      title: "Design-to-cost in modular construction literature"
-      type: topic
-      priority: medium
-      note: "Search: DfMA, design for manufacture and assembly"
+  student_practice:
+    - author: Student
+      title: "Claude + Cursor vibe code → Python for Rhino workflow"
+      year: 2025
+      type: design_practice_research
+      priority: essential
+      note: Document as primary method source
 
 ai_pioneers:
   - name: Roland Snooks
-    contribution: Multi-agent behavioral formation in architecture
-  - name: Robert Stuart-Smith
-    contribution: Collective robotic construction, AML
-  - name: Gilles Retsin
-    contribution: Discrete architecture, automation
-  - name: Achim Menges
-    contribution: Material computation, ICD Stuttgart
-  - name: Neil Leach
-    contribution: AI in architecture theory
-  - name: Stanislas Chaillou
-    contribution: AI generative floor plans / spatial ML
-  - name: Philippe Morel
-    contribution: Computational theory, EZCT
-  - name: Jose Sanchez
-    contribution: Agent-based design (Bloom, Plethora)
+    contribution: Multi-agent behavioral formation; Tectonic Formation Lab; generative AI
+    key_work: Behavioral Formation (2021)
   - name: Alisa Andrasek
-    contribution: AI + generative design (Biothing)
+    contribution: Agentic design cognition; vibe coding; Biothing; AIARCH — STUDENT'S STUDIO
+    key_work: RMIT profile; Archinect 2024 interview
+  - name: Robert Stuart-Smith
+    contribution: Collective robotic construction; AML Penn/UCL; Kokkugia co-founder
+    key_work: Behavioural Production; CRC review
+  - name: Gilles Retsin
+    contribution: Discrete architecture; AUAR automated timber; parts precede buildings
+    key_work: Discrete AD (2019); RMIT PhD (2023)
+  - name: Barry Wark
+    contribution: Hybrid tectonics; ecocentric facade; generative AI + circular materials
+    key_work: Nadarra (2023); Gibson studio reference
+  - name: Achim Menges
+    contribution: Material computation; ICD/ITKE Stuttgart robotics
+    key_work: Material Computation research
+  - name: Neil Leach
+    contribution: AI theory; connectionist turn; designer as curator
+    key_work: Architecture in the Age of AI (2025)
+  - name: Stanislas Chaillou
+    contribution: AI + architecture history and practice
+    key_work: Artificial Intelligence and Architecture (2025)
+  - name: Albert Sumin
+    contribution: BIM-parametric-LLM constructability; Coop Himmelb(l)au
+    key_work: Designing Between Data and Architecture
+  - name: Jose Sanchez
+    contribution: Agent-based design; Bloom; Plethora
   - name: Mark Burry
-    contribution: Parametric design history, Gaudí
+    contribution: Parametric design history; Gaudí; digital design
+  - name: Philippe Morel
+    contribution: Computational theory; EZCT
+  - name: Nic Bao
+    contribution: FormX; waste-to-AM; modular shell tectonics; coffee Waste to Form
+    key_work: Shell Tectonics (2024); Waste to Form (2025)
+
+email_bibliography_block: |
+  Key references:
+  Snooks, R. (2021) Behavioral Formation. Actar.
+  Snooks, R. (2022) Behavioral tectonics: agentBody prototypes. Architectural Intelligence.
+  Retsin, G. (2023) Parts that Precede Buildings. RMIT PhD. doi:10.25439/rmt.32296608
+  Retsin, G. (ed.) (2019) Discrete: Reappraising the Digital in Architecture. AD.
+  Andrasek, A. — agentic design cognition (RMIT; studio lineage).
+  Bao, D. (2025) Waste to Form. FormX / Melbourne Design Week.
+  Leach, N. (2025) Architecture in the Age of Artificial Intelligence. Bloomsbury.
+  Wark, B. (2023) Nadarra / The Architecture of Ecology.
+  Stuart-Smith, R. — collective robotic construction; AML.
+  Roychand, R. et al. (2023–25) Coffee biochar concrete. RMIT.

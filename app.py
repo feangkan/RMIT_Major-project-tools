@@ -467,6 +467,10 @@ def page_ideas() -> None:
 
     schedule = load_yaml("semester_schedule.yaml")
     agility = load_yaml("agility_architecture.yaml")
+    with st.expander("References for supervisor email (full bibliography)"):
+        ref_path = ROOT / "docs" / "references-for-proposal-email.md"
+        if ref_path.exists():
+            st.markdown(ref_path.read_text(encoding="utf-8"))
     with st.expander("LLM Rapid Architecture — affordable sustainability (merged)"):
         llm_path = ROOT / "docs" / "llm-rapid-architecture-narrative.md"
         if llm_path.exists():
