@@ -81,6 +81,19 @@ pillars:
       - assembly_sequence_generation
       - gcode_documentation_review
       - iteration_logging
+    llm_tools:
+      claude:
+        role: Research synthesis, spec drafts, pseudocode, assembly text
+      cursor_vibe_code:
+        role: IDE-assisted Python generation and refactoring
+      python_rhino:
+        role: Module layout, geometry automation, export in Rhino 3D
+        libraries: [RhinoCommon, rhinoscriptsyntax, Grasshopper Python]
+    example_workflow:
+      - Architect defines module + connector rules in Rhino
+      - Claude drafts Python logic / pseudocode for aggregation
+      - Cursor vibe code implements and debugs Rhino Python scripts
+      - Architect validates all geometry before CNC/robot output
     prototype_fabrication:
       primary: fifty_percent_manual_fifty_percent_robot
       selective: additive_manufacturing_connectors_only

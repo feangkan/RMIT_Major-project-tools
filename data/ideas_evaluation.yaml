@@ -81,6 +81,10 @@ merged_thesis:
     verdict: merged_not_standalone
     critical_position: AI assists not replaces labour
     prototype: fifty_percent_manual_fifty_percent_robot
+    tools:
+      - Claude
+      - Cursor vibe code
+      - Python for Rhino
   student_background:
     - studio_marc_gibson: "Barry Wark tectonics, Aurora Grasshopper, China plastic AM + VoxelJet"
     - studio_alisa_andrasek: "Vibe coding, AI automation, multi swarm agents"

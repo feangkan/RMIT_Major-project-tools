@@ -27,6 +27,28 @@
 
 ---
 
+## Your LLM & coding toolchain (confirmed)
+
+| Tool | Role in your workflow |
+|------|------------------------|
+| **Claude** | Research synthesis, brief drafting, pseudocode logic, spec/assembly text, iteration notes — **you review and edit** |
+| **Cursor (vibe code)** | Rapid Python development in IDE — natural-language → code drafts for Rhino automation |
+| **Python for Rhino** | `RhinoCommon`, `rhinoscriptsyntax`, or Grasshopper Python components — **geometry, module layout, export** |
+
+**How to describe this in your proposal (copy-ready):**
+
+> I use **Claude** and **Cursor-assisted vibe coding** to develop **Python scripts for Rhino** that automate repetitive module layout, naming, and export tasks. The architect defines tectonic rules and connector constraints; the LLM accelerates code iteration; **all geometry and design decisions are validated manually** in Rhino before fabrication.
+
+**What NOT to claim:**
+- ❌ “Claude designed my building”
+- ❌ “Fully automated Rhino architecture”
+
+**What TO claim:**
+- ✅ “LLM-assisted Python workflow for Rhino module aggregation and documentation”
+- ✅ “Vibe coding accelerates script development; architect retains authorship”
+
+---
+
 ## LLM in the architect workflow (cooperation map)
 
 ```
