@@ -1,5 +1,8 @@
 # User idea options — honest evaluation scores (1-10)
 recommended: idea_d_merged
+supervisor_preference:
+  primary: roland_snooks
+  secondary: nic_bao
 
 ideas:
   - id: idea_a
@@ -53,11 +56,13 @@ ideas:
       Primary supervisor Nic Bao. Urban framing via Anna Johnson.
 
 merged_thesis:
-  title: "Circular GFRC Tectonics: Waste-Derived Envelope Systems for Temporary Civic Architecture in Melbourne"
-  subtitle: "Hybrid tectonics, swarm-assisted computation, AI-assisted fabrication — pavilion-scale civic architecture"
-  primary_supervisor: nic_bao
-  secondary_computation: roland_snooks
-  urban_framing: anna_johnson
+  title: "Behavioral Tectonics from Waste Streams: Multi-Agent Formation of Robotic AM Envelope Prototypes"
+  title_nic_variant: "Circular GFRC Tectonics: Waste-Derived Envelope Systems for Temporary Civic Architecture in Melbourne"
+  subtitle: "Roland Snooks primary — swarm formation + robotic AM; Nic Bao secondary — GFRC/coffee materials"
+  primary_supervisor: roland_snooks
+  secondary_supervisor: nic_bao
+  proposal_doc_primary: docs/proposal-roland-snooks.md
+  proposal_doc_secondary: docs/proposal-waste-to-pavilion.md
   student_background:
     - studio_marc_gibson: "Barry Wark tectonics, Aurora Grasshopper, China plastic AM + VoxelJet"
     - studio_alisa_andrasek: "Vibe coding, AI automation, multi swarm agents"

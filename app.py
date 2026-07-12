@@ -450,10 +450,20 @@ def page_ideas() -> None:
     for item in data.get("what_roland_will_likely_push_back_on", []):
         st.markdown(f"- {item}")
 
-    proposal_path = ROOT / "docs" / "proposal-waste-to-pavilion.md"
+    proposal_path = ROOT / "docs" / "proposal-roland-snooks.md"
+    proposal_alt = ROOT / "docs" / "proposal-waste-to-pavilion.md"
+    pref = data.get("supervisor_preference", {})
+    if pref:
+        st.info(
+            f"**Your preference:** 1st — {pref.get('primary', 'roland_snooks')} · "
+            f"2nd — {pref.get('secondary', 'nic_bao')}"
+        )
     if proposal_path.exists():
-        st.subheader("Draft proposal (Idea D — merged)")
+        st.subheader("Draft proposal — Roland Snooks (1st choice)")
         st.markdown(proposal_path.read_text(encoding="utf-8"))
+    if proposal_alt.exists():
+        with st.expander("Alternate proposal — Nic Bao (2nd choice)"):
+            st.markdown(proposal_alt.read_text(encoding="utf-8"))
 
     schedule = load_yaml("semester_schedule.yaml")
     st.subheader("15-week schedule")
