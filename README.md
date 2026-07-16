@@ -35,12 +35,44 @@ streamlit run app.py
 
 Open the URL shown in the terminal (default `http://localhost:8501`).
 
-## Obsidian
+## Obsidian — living second brain
 
-Use **Stage B** in the app to export markdown files into `vault/`. In Obsidian:
+The richest "second brain" content is **already markdown/PDF in this repo** (`docs/`,
+`data/`, `portfolio/`) — you don't need a separate export step to see it in Obsidian.
 
-1. Open folder as vault → select `vault/`
-2. Or copy exported files into your existing 2nd brain
+### Setup (one-time)
+
+1. **Clone this repo locally** (or pull it if already cloned) so the files exist on your
+   own machine — Obsidian is a local app and can't read directly off GitHub.
+   ```bash
+   git clone https://github.com/feangkan/RMIT_Major-project-tools.git
+   cd RMIT_Major-project-tools
+   git checkout cursor/major-project-tools-c3d6
+   ```
+2. In Obsidian: **Open folder as vault** → select the repo's root folder.
+3. Open **`docs/00-dashboard.md`** — this is your home page, linking to every proposal
+   draft, narrative doc, portfolio PDF (with specific pages embedded inline), and
+   reference data file.
+
+### Staying in sync while we keep developing
+
+Every time the agent updates a doc or data file in this conversation, it's committed
+and pushed to the `cursor/major-project-tools-c3d6` branch. To pull the latest into
+your local Obsidian vault:
+
+```bash
+git pull origin cursor/major-project-tools-c3d6
+```
+
+Obsidian will pick up the changes automatically (no need to re-open the vault) —
+edited notes just refresh, and any new files appear in the file explorer.
+
+### Optional: also use the app's structured export
+
+**Stage B** in the Streamlit app additionally exports your `brief.json` form fields
+(topic/process/site/keywords as filled in the app UI) into `vault/` as a supplementary
+set of notes — useful if you're using the app's guided workflow, but not required to
+get value from the vault above.
 
 ## Data files
 

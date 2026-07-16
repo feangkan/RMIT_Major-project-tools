@@ -1,3 +1,5 @@
+← [[00-dashboard|Back to Dashboard]]
+
 # Major Project Proposal — Roland Snooks (Primary)
 
 **Student:** Kankawee Maksomboon (Frank) · s4097770
