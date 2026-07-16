@@ -2,7 +2,31 @@
 
 **Folder path:** `/workspace/portfolio/`
 
-In Cursor File Explorer: open the project root → click **`portfolio`** → drag your PDFs in.
+## ⚠️ The "Browser" / "Desktop" tabs in the Cloud Agent PR panel are read-only
+
+If you're viewing this via the **Changes / PR / Desktop / Browser** tabs in the Cursor Cloud Agent
+sidebar, that file tree is a **review viewer**, not a live file system — dragging files onto it
+will not upload anything (this is confirmed; drag-and-drop there does not work).
+
+## What actually works
+
+**Option A — Attach directly in the chat (most reliable):**
+Compress your PDF first (see Size tip below), then attach it directly to a chat message here.
+Attached chat files are readable by the agent directly — no folder drop needed.
+
+**Option B — Export key pages as images and attach those:**
+Export your strongest 5–10 boards as individual JPG/PNG pages (Preview/Acrobat → Export as Image)
+and attach those images in chat. Usually smaller and faster than a full PDF, and the agent can
+read images natively.
+
+**Option C — If you have git installed on your own machine:**
+Clone this branch (`cursor/major-project-tools-c3d6`), copy your PDFs into `portfolio/`, then:
+```
+git add -f portfolio/*.pdf
+git commit -m "Add portfolio PDFs"
+git push
+```
+(`-f` is required because `portfolio/*.pdf` is gitignored by default — see note in `.gitignore`.)
 
 ## Suggested file names
 
