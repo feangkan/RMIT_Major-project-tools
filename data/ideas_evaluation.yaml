@@ -56,53 +56,63 @@ ideas:
       Primary supervisor Nic Bao. Urban framing via Anna Johnson.
 
 merged_thesis:
-  title: "Agility Architecture: Algorithmic Aggregation of Discrete Coffee-Waste Modules for Scalable Shelter & Facade Prototypes"
-  title_roland: "Agility Architecture: Algorithmic Aggregation of Discrete Coffee-Waste Modules for Scalable Shelter & Facade Prototypes"
-  title_nic: "Agility Architecture: Discrete Modular GFRC Systems — Affordable Scalable Pavilion & Facade Assembly"
-  subtitle: "Acceleration Intelligence — discrete modular, smart connectors, aggregation logic, logistics; Roland 1st / Nic 2nd"
+  title: "Behavioral Metal: Multi-Agent Growth Formation for Intricate Off-Cut Metal Tectonics"
+  title_roland: "Behavioral Metal: Multi-Agent Growth Formation for Intricate Off-Cut Metal Tectonics"
+  title_nic: "Off-Cut Metal Composite Systems — Circular Material Performance for Behavioral Tectonic Prototypes"
+  subtitle: "Intricate, non-repetitive detail (NOT discrete standardization) via multi-agent growth + AM/cold-cast metal; site: Fishermans Bend; Roland 1st / Nic 2nd"
+  status: current  # supersedes coffee-waste "Agility Architecture" direction below
   themes:
-    - Acceleration Intelligence
-    - Agility Architecture
-    - Scalable architecture
-    - Discrete modular (IKEA / Affordabuild logic)
-    - Algorithmic aggregation
-    - Stock material palette
-    - Robotic placement (not full 3D print)
+    - Behavioral formation / agentBody lineage
+    - Multi-agent growth (space colonization / differential growth primary)
+    - Intricate, non-repetitive detail (explicitly NOT discrete/repeatable parts)
+    - Off-cut / recycled metal material stream
+    - Desktop AM (Bambu Lab) + cold-cast metal (no industrial robotic AM access)
+    - Site: Fishermans Bend Innovation District, Melbourne
   primary_supervisor: roland_snooks
   secondary_supervisor: nic_bao
   proposal_doc_primary: docs/proposal-roland-snooks.md
-  proposal_doc_secondary: docs/proposal-waste-to-pavilion.md
   narrative_docs:
-    - docs/agility-architecture-narrative.md
-    - docs/coffee-waste-narrative.md
+    - docs/agility-architecture-narrative.md  # superseded, kept for Nic Bao fallback framing
+    - docs/coffee-waste-narrative.md  # material evidence only, not primary thesis
     - docs/llm-rapid-architecture-narrative.md
-  llm_rapid_layer:
-    title: Rapid Architecture using LLM for affordable sustainability
-    verdict: merged_not_standalone
-    critical_position: AI assists not replaces labour
-    prototype: fifty_percent_manual_fifty_percent_robot
+  llm_mcp_pipeline:
+    precedent: "Social Hideout" (Alisa Andrasek studio) — already executed, not proposed
+    scripts: [space_colonization_growth, climate_attractor_epw, voronoi_kmeans_program_classifier, discrete_element_distribution, flocking_boids]
     tools:
       - Claude
       - Cursor vibe code
-      - Python for Rhino
+      - Python for Rhino / Grasshopper
+      - MCP tools feeding LLM agent loop
+  material_pivot:
+    from: bio_composite_coffee_waste
+    to: off_cut_recycled_metal
+    reason: >
+      Pantic studio ratio-test data showed brittleness/cracking/breakage in several
+      coffee-composite formulations; metal better matches "flowing, elegant" swarm
+      surface quality and Snooks' intricate/continuous composite tectonics position.
+    tracks:
+      - cold_cast_bronze_aluminium: reuses existing silicone/plaster mould workflow (Pantic studio)
+      - metal_filled_fdm_filament: bronze/copper composite, printable on Bambu Lab X1 Carbon (hardened nozzle already fitted)
+      - stretch_sintered_metal: Virtual Foundry Filamet + kiln debind/sinter, pending RMIT workshop kiln access
+    open_research: whether ground recycled metal swarf/off-cuts can substitute commercial metal powder
   student_background:
-    - studio_marc_gibson: "Barry Wark tectonics, Aurora Grasshopper, China plastic AM + VoxelJet"
-    - studio_alisa_andrasek: "Vibe coding, AI automation, multi swarm agents"
-    - studio_igor_pantic: "Coffee waste material, carving/cast, HoloLens fabrication guidance"
-    - ra_gfrc_facade: "Hands-on GFRC mixture facade — primary technical interest"
+    - studio_marc_gibson: "Beyond the Monolith — hybrid tectonics, Aurora Grasshopper, VoxelJet sand + polymer print, Nanjing China"
+    - studio_alisa_andrasek: "Social Hideout — multi-agent growth + LLM/MCP pipeline, EPW climate data, discrete-element distribution"
+    - studio_igor_pantic: "Augmented Materiality — ratio-tested coffee composite, HoloLens/Fologram AR-guided casting"
+    - ra_gfrc_facade: "TFL Research Assistant, Building 45 Lygon St — cast GFRC + polymer 3D print + metal connector hybrid facade, S1 2026"
   gfrc_facade_alone_sufficient: false
   gfrc_as_tectonic_core_sufficient: true
-  proposal_doc: docs/proposal-waste-to-pavilion.md
 
 what_roland_will_say_yes_to:
-  - Multi-agent module aggregation / behavioral formation
-  - Discrete modular aggregation logic (IKEA / Gilles Retsin lineage)
-  - Agility Architecture — scalable shelter/facade from repeated parts
-  - Robotic placement and assembly — not necessarily full 3D print
-  - Generative AI augmenting algorithmic design (TFL research stream)
+  - Multi-agent behavioral formation / growth simulation (space colonization, differential growth)
+  - Intricate, non-repetitive detail via AM — explicitly against discrete standardization
+  - Generative AI / LLM-MCP augmenting algorithmic design (TFL research stream)
+  - Material behavior as agent parameter (off-cut metal, cold-cast + AM)
   - Design Hub prototype at architectural resolution
 
 what_roland_will_likely_push_back_on:
+  - Discrete modular / repeatable-parts kit framing (Retsin/Claypool lineage — opposite position)
+  - Bio-composite as primary structural material without addressing brittleness evidence
   - Urban waste policy without tectonic research
   - Moon base / off-world sites
   - Material science without architectural resolution

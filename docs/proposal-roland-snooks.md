@@ -1,80 +1,71 @@
 # Major Project Proposal — Roland Snooks (Primary)
 
-**Student:** [Your Name] · [Student ID] · [email]  
-**Program:** Master of Architecture, RMIT University  
-**Course:** Major Project (capstone)  
-**Proposed supervisor:** Professor Roland Snooks — Tectonic Formation Lab  
-**Secondary preference / consultation:** Dr Dingwen (Nic) Bao — FormX *(GFRC mixture + coffee-waste material expertise if needed)*  
+**Student:** Kankawee Maksomboon (Frank) · s4097770
+**Program:** Master of Architecture, RMIT University
+**Course:** Major Project (capstone)
+**Proposed supervisor:** Professor Roland Snooks — Tectonic Formation Lab
+**Secondary preference / consultation:** Dr Dingwen (Nic) Bao — FormX *(if metal/composite material performance needs consultation)*
 **Date:** [Date]
 
 ---
 
 ## 1. Title
 
-**Agility Architecture: Algorithmic Aggregation of Discrete Coffee-Waste Modules for Scalable Shelter & Facade Prototypes**
+**Behavioral Metal: Multi-Agent Growth Formation for Intricate Off-Cut Metal Tectonics**
 
-*Acceleration Intelligence — discrete modular systems, smart tectonic connectors, robotic placement — NOT single craft*
+*Extending behavioral tectonics and agentBody research into recycled/off-cut metal streams — testing whether additive manufacturing's capacity for unique, non-repeating geometry lets swarm-generated intricacy survive to a physical prototype, at Fishermans Bend.*
 
 ---
 
-## 1b. Theme summary
+## 1b. Position statement (read this first)
 
-| Pillar | Your interest | This project |
-|--------|---------------|--------------|
-| **Scalable architecture** | Facade modular, pavilion, event, shelter | One **discrete parts kit** → many configurations |
-| **Discrete modular** | Affordabuild, IKEA logic, smart connector | **5–8 module types** + **1 hero connector** resolved |
-| **NOT single craft** | Different design via aggregation | Swarm / rule-based **aggregation logic** |
-| **Materials** | Stock palette, pallet wood, coffee waste | Coffee composite + stock timber + GFRC skin |
-| **Robotics** | Large, repeatable; maybe **not full 3D print** | CNC + **placement/assembly**; 3D print **connectors only** |
-| **Logistics** | Future job, profitable, affordable | Pallet size, assembly sequence, cost/time sheet |
-| **LLM rapid affordable** | AI assists not replaces; craft + precision | LLM workflow map; **50% manual / 50% robot** prototype |
-| **Sustainability** | Upcycle, certified wood, waste | Coffee + stock timber + GFRC palette |
-| **Shelter/pavilion** | Install–remove–reuse | Primary typology with smart connectors |
+This project is **not** about discrete, standardized, repeatable parts (Retsin/Claypool/AUAR lineage). It takes the **opposite position**, consistent with Kokkugia/Snooks' own argument: swarm-generated form resists hierarchical, discrete articulation — the value of computation here is **intricate, non-repetitive detail emerging from local agent behavior**, not a kit of interchangeable modules.
+
+**Why additive manufacturing specifically:** unlike CNC-cut or cast repeatable parts — where tooling/formwork cost is amortized by making every part identical — 3D printing lets every agent-generated joint, node, or fragment be **geometrically unique at no added fabrication cost**. This is the precise mechanism by which AM lets Behavioral Formation's intricacy survive from algorithm to physical object, instead of being discretized away into a repeatable kit.
 
 ---
 
 ## 2. Project summary (150 words)
 
-This Major Project proposes **Rapid Agility Architecture**: **LLM-assisted**, **algorithmically aggregated**, **discrete modular** systems for **affordable sustainable** temporary shelter and facade prototypes — deployable install–remove–reuse civic architecture.
+This Major Project tests whether **multi-agent growth simulation** — building on my own prior space-colonization/differential-growth studio work — can generate **intricate, non-repetitive architectural detail** that survives translation into a physical prototype through **additive manufacturing** and **cold-cast metal**, rather than being resolved into standardized, repeatable components.
 
-**Human labour** retains craftsmanship, precision, and design authorship. **LLM, swarm aggregation, and robotic automation accelerate** documentation, replication, cutting, and placement — they do **not** replace the architect. Building on **Alisa Andrasek** (vibe code, swarm, AI automation), **Igor Pantic** (coffee-waste materials), **GFRC RA facade** work, and **Marc Gibson** (tectonics/AM), the project extends Roland Snooks’ **behavioral formation** and discrete modular discourse (IKEA / Gilles Retsin lineage).
+The material stream is **recycled/off-cut metal** — referencing Fishermans Bend's identity as a former heavy-manufacturing precinct now undergoing urban renewal. Two fabrication tracks: (1) **metal-filled filament** (bronze/copper composite) printed at joint/node/connector scale on desktop FDM, testing intricate emergent detail at 1:1 resolution; (2) **cold-cast bronze/aluminium** composite for larger envelope fragments, extending my existing silicone/plaster mould-casting workflow.
 
-Melbourne’s **~5,500 tonnes/year** spent coffee grounds become **upcycled stock material** in a limited parts kit with a **smart tectonic connector**. Materials include certified/stock timber and waste composites — **fast, sustainable, profitable through speed and repeatability**.
-
-**Prototype:** 50% manual craft / 50% robotic fabrication (CNC, placement; selective AM for connectors only). Outcome: resolved drawings + pavilion/shelter fragment for Major Project Festival.
-
-**AI assists. Architects author. Craft persists.**
+Building on Roland Snooks' *Behavioral Tectonics* and *agentBody* research, Robert Stuart-Smith's *Behavioural Production*, and my own **"Social Hideout"** multi-agent/LLM-MCP studio pipeline, this project positions Fishermans Bend's material history as the generative logic for its next architectural identity.
 
 ---
 
 ## 3. Research questions
 
-1. **Behavioral formation:** How can multi-agent systems encode material and fabrication behaviors for waste-derived AM components so that global tectonic order emerges from local agent interactions?
-2. **Tectonics:** How does a waste-stream envelope system achieve **compression of skin, structure, and ornament** (behavioral tectonics) at pavilion scale?
-3. **Material behavior:** How do coffee-waste and recycled polymer constraints become **agent parameters** rather than post-hoc material selection?
-4. **Fabrication:** What is the design-to-robotic-AM workflow for proto-architectural fragments at RMIT Design Hub?
-5. **Architecture:** What spatial and assembly logic resolves the prototype to a level the panel can assess as **building intelligence**, not only algorithmic novelty?
+1. **Behavioral formation:** How does a multi-agent growth system (space-colonization / differential-growth logic) encode off-cut metal material constraints as agent parameters, rather than applying material choice after form is fixed?
+2. **Tectonics:** Can additive manufacturing preserve **intricate, non-repetitive** agent-generated detail at joint/node scale, avoiding the discretization-into-repeatable-parts route taken by Pantic/Klemmt and Retsin/Claypool?
+3. **Material behavior:** How do recycled/off-cut metal constraints (via cold-cast bronze/aluminium and metal-filled AM) behave as agent-readable parameters — weight, flow, joint tolerance — rather than a fixed material applied after formation?
+4. **Fabrication:** What is the realistic design-to-fabrication workflow using desktop AM (Bambu Lab, 256mm build volume) + manual cold-casting, given no access to industrial robotic AM for this project specifically?
+5. **Site:** How does Fishermans Bend's identity as a former/active metal-manufacturing precinct inform the agent system's material-sourcing logic and the architectural proposal's civic role?
 
 ---
 
 ## 4. Architectural position
 
-**Thesis:** Coffee waste in Melbourne is not landfill — it is **latent civic material**. The grounds already serve the city socially in the cup; this project asks them to serve **spatially** as furniture, shelter, ornament, and facade. Multi-agent formation negotiates coffee’s **material behavior** (organic variability, scent, texture) to produce **behavioral tectonics** — where computation and robotic AM **assist** craft, not replace it.
+**Thesis:** Off-cut and recycled metal in a manufacturing-transition precinct is not scrap to be hidden — it is the **latent material memory of the site**. Multi-agent growth formation (mimicking root/vein branching, akin to space colonization and differential growth) negotiates this material's real behavior — weight, flow when cast, joint tolerance when printed — to produce **intricate, non-repetitive tectonic detail**, where computation and small-scale AM/casting **assist** craft rather than replace it.
 
-**Against:** Sustainability checkbox; cup-holder scale only; concrete infrastructure posing as architecture.  
-**For:** Design-practice research where **Melbourne’s coffee culture** becomes **architectural tectonics** through waste reproduction.
+**Against:** Discrete standardized kits-of-parts as the default "buildable" answer to complex computational form; sustainability-as-checkbox; bio-composite material claims that don't hold up under load (see Section 8, material evidence).
 
-**Lineage:** Pantic (coffee material) → Gibson/Wark (hybrid tectonics) → Andrasek (swarm) → Snooks (behavioral formation) → **coffee-waste agentBody prototypes**.
+**For:** Design-practice research where a site's own industrial material history becomes the generative logic — and the constraint — for a new civic architecture.
+
+**Lineage:** Andrasek (multi-agent/LLM studio pipeline) → Gibson/Wark (hybrid tectonics, discrete-element chunk logic) → Snooks (behavioral formation, agentBody) → **off-cut metal agentBody prototypes at Fishermans Bend**.
 
 ---
 
 ## 5. Site — The Where
 
-**Fabrication & research site:** RMIT Design Hub — Tectonic Formation Lab (robotic polymer printing, industrial robots).
+**Site type:** Fishermans Bend Innovation District, Melbourne — Australia's largest urban renewal precinct, built on former heavy-manufacturing and metal-fabrication land, currently transitioning alongside active advanced-manufacturing industry.
 
-**Architectural context:** Melbourne inner-urban micro-site for a **temporary pavilion envelope system** (15–25 m² equivalent civic fragment)—site photography + QGIS mapping; urban narrative secondary to **tectonic prototype** resolution.
+**Why this site (not yet a fixed address):** it grounds the "recycled/off-cut metal" material logic in an actual, still-active supply chain rather than an abstract sustainability claim, stays logistically inside Melbourne for repeat site visits/QGIS mapping/DSLR photography, and lets the "abandoned/resource-rich, labour-scarce" research interest live as **contextual framing** (citing precedents such as regional manufacturing-decline towns) without requiring travel to a remote site within the 15-week window.
 
-*The site grounds the project in Australia; the research contribution is **formation + tectonics + AM**.*
+**Fabrication & research site:** RMIT Design Hub — Tectonic Formation Lab for review/consultation access; personal fabrication via desktop FDM (Bambu Lab) and manual cold-casting, since industrial robotic AM access is not available for this project.
+
+*A specific building footprint/address within Fishermans Bend will be confirmed once the material-sourcing research (Section 8) narrows to a specific fabricator/scrap stream partner.*
 
 ---
 
@@ -82,91 +73,107 @@ Melbourne’s **~5,500 tonnes/year** spent coffee grounds become **upcycled stoc
 
 | Layer | Method |
 |-------|--------|
-| **Multi-agent formation** | Python / vibe-coded agent systems (Andrasek studio lineage); swarm rules for module clustering, variation, stigmergy |
-| **Generative AI assist** | **Claude** (briefs, specs, pseudocode) + **Cursor vibe code** → **Python for Rhino** (module layout, export); all geometry human-validated |
-| **Material behavior** | Waste coffee aggregate, recycled polymer AM, GFRC mixture trials (RA experience); parameters fed into agent logic |
-| **Fabrication** | 50% manual craft / 50% robotic — CNC, pick-place, TFL AM; selective 3D print for connectors only |
-| **AR (optional)** | HoloLens assembly guidance (Igor Pantic studio precedent) — assistive only |
-| **Resolution** | Rhino work sessions; behavioral tectonic drawings; physical **agentBody-style** prototype fragment |
+| **Multi-agent formation** | Python / vibe-coded agent systems, extending my "Social Hideout" pipeline — space-colonization/differential-growth as primary logic; slime-mold aggregation and Voronoi partitioning as literature context and possible secondary rules |
+| **Generative AI assist** | **Claude** (briefs, specs, pseudocode) + **Cursor vibe code** → **Python for Rhino/Grasshopper**, extending the MCP-tool-fed LLM-agent loop already built in Social Hideout (text prompts + image references + MCP tools → LLM → script iteration → screenshot feedback) |
+| **Real-world data input** | Site/context data (EPW climate data precedent from Social Hideout; extended here to material-availability data — off-cut stock dimensions, scrap-yard inventory logic — as agent parameters) |
+| **Material behavior** | Cold-cast bronze/aluminium powder + resin (extending my Pantic-studio silicone/plaster mould workflow); metal-filled bronze/copper FDM filament on Bambu Lab (hardened nozzle already fitted) |
+| **Fabrication** | Two-track: (1) intricate joints/nodes at 1:1 via desktop AM; (2) larger rough-cast envelope fragments via manual cold-casting — no industrial robotic AM for this project |
+| **AR (optional)** | HoloLens/Fologram-guided mould carving and casting alignment — direct precedent from Pantic studio, redirected to metal composite casting |
+| **Resolution** | Rhino work sessions; behavioral tectonic drawings (plan/section/detail); physical agentBody-style prototype fragment combining printed joints + cast fragments |
 
-**Deliverables:** agent codebase + logs, formation iterations, tectonic drawings (plan/section/detail), robotic AM prototype, festival pin-up.
+**Deliverables:** agent codebase + iteration logs, growth-formation studies, tectonic drawings, printed + cast prototype fragment, festival pin-up.
 
 ---
 
 ## 7. Background — why me for TFL
 
-1. **Alisa Andrasek studio** — vibe coding, AI automation architecture, **multi swarm agents**. Direct preparation for TFL multi-agent research agenda.
+1. **Alisa Andrasek studio — "Social Hideout":** built and executed a five-script multi-agent pipeline (space colonization, climate-attractor scripting against EPW data, Voronoi + K-means program classification, discrete-element distribution, flocking-boids filtering) with an LLM/MCP-driven vibe-coding workflow. This is not a proposed method — it is prior, demonstrated work.
 
-2. **Marc Gibson studio** — hybrid tectonic conditions (Barry Wark lineage); Aurora Grasshopper planetary formation; **China fabrication** — large-scale plastic 3D print + VoxelJet. International AM literacy.
+2. **Marc Gibson studio — "Beyond the Monolith":** hybrid tectonic condition merging monolithic and estranged architectural languages via stepping/interlocking/blending transformation logic; large-scale fabrication literacy through VoxelJet 3D sand printing and polymer printing in Nanjing, China; Parts → Chunks → Architecture hierarchy — a design language recurring across all my studio work.
 
-3. **Igor Pantic studio** — **waste coffee ground** material research; carving/casting; HoloLens fabrication guidance. Waste-as-material behavior already tested.
+3. **Igor Pantic studio — "Augmented Materiality":** rigorous, ratio-tested material study (gelatin/cornstarch/PVA/polyurethane binders against coffee-ground filler) and a working HoloLens/Fologram AR-guided mould-carving and casting workflow — the direct precedent for the metal cold-casting track proposed here.
 
-4. **RA — GFRC facade fabrication** — hands-on **GFRC mixture** and envelope panel development. Provides material craft depth; framed here as **agent material parameters**, not a standalone facade study.
+4. **RA — Tectonic Formation Lab, Building 45 facade (Marc Gibson, S1 2026):** hands-on execution of a real, built hybrid tectonic facade — cast GFRC + large-format polymer 3D print + metal connectors — through the full pipeline (CNC foam mould, plaster patching, resin/UV cure, GFRC casting, demoulding, bolt-bracket assembly). Demonstrates I can resolve computational geometry to real fabrication tolerance, not only screen-based form.
 
-**I am not asking you to supervise an urban policy project or a materials-only thesis.** I am proposing **behavioral tectonic research** realised through **robotic AM prototypes**—aligned with *Behavioral Formation* and *agentBody* trajectories.
-
----
-
-## 8. What is new (knowledge through architecture)
-
-- Extending **behavioral formation** to **waste-derived material streams** (under-explored in Snooks literature).
-- A documented **multi-agent + robotic AM** pipeline from waste material constraints to **resolved tectonic prototype**.
-- Demonstration that **swarm intelligence** can produce **buildable civic envelope logic** within 15 weeks—not only speculative mesh.
+**I am not asking you to supervise a discrete/standardized modular kit thesis, an urban policy project, or a bio-material engineering thesis.** I am proposing **behavioral tectonic research** in off-cut/recycled metal, realised through small-scale AM and cold-casting — directly extending the *Behavioral Formation* and *agentBody* trajectory with a material stream your published research has not yet addressed.
 
 ---
 
-## 9. Scope — 15 weeks
+## 8. Material evidence and open research (in progress)
+
+**Why not bio-composite (coffee waste) as the primary material:** my own ratio-tested data from the Pantic studio shows real structural limitations — several coffee-composite formulations were brittle when thin, cracked or broke on demoulding, and required long, variable cure times. Best performer (polyurethane:coffee 1:1) was strong but still a biomass-filled composite, not suited to being the primary structural material of an intricate, load-bearing tectonic system.
+
+**Why metal instead:**
+- **Cold-cast bronze/aluminium** (fine metal powder + resin, ~1:2 by volume, poured into silicone/plaster moulds) — an established sculpture technique producing genuinely metallic surface quality at room temperature, no foundry required. Directly reuses my proven mould-making pipeline.
+- **Metal-filled FDM filament** (bronze/copper composite, 30–50% metal powder in a PLA/PETG base) — prints on my available Bambu Lab X1 Carbon (already fitted with the hardened steel nozzle these abrasive composites require); sanded/polished to a genuine metallic sheen.
+- **Stretch option under investigation:** fully sinterable metal filament (e.g. Virtual Foundry Filamet) printed on the same desktop printer, then debound and kiln-sintered to solid metal — pending confirmation of kiln access through RMIT sculpture/ceramics workshops.
+
+**Open material research (continuing in parallel with this proposal):** whether recycled metal swarf/filings/off-cuts can be ground into a usable powder to substitute for commercial bronze/aluminium powder in the cold-cast mix — this would close the loop between the site's material identity (Fishermans Bend off-cut stream) and the actual material in hand, rather than using commercially sourced metal powder. This research is ongoing and will refine the material section ahead of Week 10 lock-in.
+
+---
+
+## 9. What is new (knowledge through architecture)
+
+- Extending **behavioral formation** to a **recycled/off-cut metal material stream**, tested through both cold-casting and metal-filled AM — under-explored in the current Behavioral Tectonics literature.
+- A documented **multi-agent + LLM/MCP + desktop AM/cold-cast** pipeline achievable without industrial robotic fabrication access — evidence that intricate, non-repetitive behavioral tectonics research is achievable at accessible/consumer-hardware scale, not only in a robotics lab.
+- A site-specific argument connecting a precinct's own industrial material history to its computationally-generated architectural future.
+
+---
+
+## 10. Scope — 15 weeks
 
 **In scope:**
-- Multi-agent formation system (Python / vibe code)
-- 1 waste-material family primary (recycled polymer AM) + 1 secondary (coffee/GFRC composite)
-- 1 proto-architectural prototype fragment (TFL robotic AM)
+- Multi-agent growth-formation system (space-colonization/differential-growth primary; Python/vibe-coded, extending Social Hideout pipeline)
+- One primary material family (metal — cold-cast + metal-filled AM), continuing material R&D through Week 10
+- One proto-architectural prototype fragment combining printed joints + cast elements
 - Full tectonic drawings + festival presentation
+- Site framing at Fishermans Bend (specific footprint confirmed once material-sourcing research narrows)
 
 **Out of scope:**
+- Discrete/standardized repeatable-parts kit as the primary tectonic logic
+- Bio-composite (coffee waste) as primary structural material — retained only as background material-research evidence
+- Industrial robotic AM (no access for this project)
+- Moon base / off-world sites
 - City-scale masterplan
-- Moon base / off-world
-- AR as primary thesis
-- Pure GFRC mixture study without formation logic
 
-**Week 10 lock-in** — concept frozen per RMIT briefing.
+**Week 10 lock-in** — concept and material family frozen per RMIT briefing.
 
 ---
 
-## 10. Why Roland Snooks (and Nic Bao as second)
+## 11. Why Roland Snooks (and Nic Bao as second)
 
-**Primary — Professor Roland Snooks:**  
-My strongest computational preparation is **multi-agent / swarm design** (Andrasek) combined with **tectonic ambition** (Gibson / Wark). TFL’s research on **behavioral formation, generative AI, and robotic AM** is the intellectual home for this project. I want to contribute to that lineage using **waste-stream material behaviors** as a new agent constraint class.
+**Primary — Professor Roland Snooks:** My strongest preparation is multi-agent/swarm design (Andrasek's Social Hideout, already executed with an LLM/MCP pipeline) combined with tectonic and fabrication ambition (Gibson, Pantic, RA GFRC work). TFL's research on behavioral formation and advanced fabrication is the direct intellectual home for testing whether that intricacy can survive into off-cut metal AM/casting.
 
-**Second — Dr Nic Bao:**  
-If GFRC/coffee-waste mixture optimisation becomes critical to buildability, I would value **occasional FormX consultation** on composite performance and circular material precedents (*Waste to Form*). Nic remains my **second preference** for primary supervision if TFL capacity is limited.
+**Second — Dr Nic Bao:** If metal-composite or cast-material performance needs technical consultation, I would value occasional FormX input on composite behaviour and circular-material precedent. Nic remains my second preference for primary supervision if TFL capacity is limited.
 
 ---
 
-## 11. Request
+## 12. Request
 
-I respectfully request supervision under the **Tectonic Formation Lab** for the above project. I attach portfolio material, agent/swarm studio work, coffee-waste experiments, and GFRC RA documentation.
+I respectfully request supervision under the **Tectonic Formation Lab** for the above project. I attach portfolio material demonstrating the multi-agent/LLM pipeline (Social Hideout), hybrid tectonic and fabrication experience (Gibson studio, RA GFRC facade work), and material/AR casting research (Pantic studio).
 
-Could we meet to confirm scope, lab access, and whether waste-material behavioral tectonics fits TFL’s current research agenda?
+Could we meet to confirm scope, whether off-cut/recycled metal as a behavioral-tectonics material stream fits TFL's current research agenda, and feasibility of desktop AM + cold-casting as the fabrication method for this project?
 
-Kind regards,  
-**[Your Name]**
+Kind regards,
+**Kankawee Maksomboon (Frank)**
 
 ---
 
 ## Email subject
 
-`Major Project supervision request — Behavioral tectonics / multi-agent AM (TFL alignment)`
+`Major Project supervision request — Behavioral tectonics / multi-agent off-cut metal AM (TFL alignment)`
 
 ## Short EOI
 
 Dear Roland,
 
-I am writing to request your supervision for my Major Project on **behavioral formation and multi-agent generative design** for **waste-derived robotic AM tectonics**—a pavilion-scale proto-architectural prototype. My preparation includes **Alisa Andrasek’s swarm/AI studio**, **Marc Gibson’s hybrid tectonics/China AM studio**, **coffee-waste material research with Igor Pantic**, and **hands-on GFRC facade RA work**.
+I am writing to request your supervision for my Major Project on **behavioral formation and multi-agent growth simulation** for **off-cut/recycled metal tectonics** — tested through desktop additive manufacturing and cold-casting, sited within Fishermans Bend's manufacturing-transition context.
 
-I believe this extends TFL’s *behavioral tectonics* research into circular material streams. **Dr Nic Bao** is my second preference if TFL capacity is limited.
+My preparation includes a working **multi-agent + LLM/MCP pipeline** built in Alisa Andrasek's studio ("Social Hideout" — space-colonization growth, climate-data-driven attractors, discrete-element distribution), **hybrid tectonic and large-scale fabrication experience** with Marc Gibson (VoxelJet sand printing, and hands-on GFRC/polymer facade fabrication as a TFL Research Assistant on Building 45), and a **rigorous material and AR-casting workflow** developed with Igor Pantic, which I am now redirecting from bio-composite toward cold-cast and metal-filled AM.
+
+I believe this extends TFL's *behavioral tectonics* research into a material stream — recycled/off-cut metal — not yet addressed in the published *agentBody* work. **Dr Nic Bao** is my second preference if TFL capacity is limited.
 
 Could we meet to discuss fit and scope?
 
-Kind regards,  
-[Name]
+Kind regards,
+Frank (Kankawee Maksomboon)

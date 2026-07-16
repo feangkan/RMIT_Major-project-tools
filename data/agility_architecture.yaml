@@ -1,4 +1,11 @@
 # Agility Architecture — discrete modular system spec
+#
+# SUPERSEDED (see docs/proposal-roland-snooks.md): the "discrete/repeatable parts"
+# core_principle below is the Retsin/Claypool/AUAR position, which is philosophically
+# opposed to Snooks/Kokkugia's intricate/non-repetitive Behavioral Tectonics stance.
+# Current direction for Roland Snooks pivots to intricate, non-repetitive detail via
+# AM + cold-cast metal at Fishermans Bend. This file kept for reference / Nic Bao
+# fallback framing only — do not use "discrete_modular" as the core pitch to Roland.
 
 theme: Scalable architecture
 concept_names:
