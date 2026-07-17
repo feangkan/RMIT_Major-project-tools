@@ -70,7 +70,7 @@ working relationship with Nic Bao (secondary MP preference) ahead of time.
 - [ ] Material research in progress: can ground recycled metal swarf/off-cuts substitute commercial bronze/aluminium powder in the cold-cast mix?
 - [ ] Confirm RMIT sculpture/ceramics workshop kiln access (for stretch sintered-metal option)
 - [ ] Narrow Fishermans Bend site scope to a specific footprint once material-sourcing research settles
-- [ ] Lock single primary growth behavior (space colonization is current lead candidate) before Week 10
+- [ ] Lock single primary growth behavior before Week 10 — **cellular division / differential growth** now the lead candidate (converging support: Andrasek's *Alien Within Familiar*/*Wrinkle in Space* + Pantic's *Discrete Cellular Growth* research), ahead of space colonization
 - [ ] Compile portfolio highlights PDF for supervisor attachment (see page selection above)
 - [ ] Track Circular Tectonics studio outcomes (Melbourne phase + CUHK build) as they happen — add as new portfolio evidence once complete
 

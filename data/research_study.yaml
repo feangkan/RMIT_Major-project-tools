@@ -51,6 +51,35 @@ categories:
       url: https://www.rmit.edu.au/profiles/a/alisa-andrasek
       priority: essential
       note: Student's studio supervisor — vibe code, swarm, AI
+    - author: Alisa Andrasek
+      title: "Alien Within Familiar / Wrinkle in Space (Wonderlab, UCL Bartlett)"
+      url: https://www.alisaandrasek.com/projects/alien-within-familiar
+      url_2: https://www.alisaandrasek.com/projects/wrinkle-in-space
+      priority: essential
+      note: >
+        Cellular division (CD) growth algorithm — architect sets rule-based
+        parameters, cells proliferate/differentiate, constrained to a planar
+        setting to remain fabricable by robotic extrusion. Direct precedent
+        for "growth agent" logic as this thesis' primary formation strategy.
+    - author: Alisa Andrasek
+      title: "Cloud Pergola (Croatian Pavilion, Venice Biennale 2018)"
+      url: https://www.alisaandrasek.com/projects/cloud-pergola
+      priority: essential
+      note: >
+        Multi-agent system (MAS) integrating real site weather data; robotic
+        arm trained (NVIDIA Jetson) to track and correct for material
+        tolerance errors in real time during 3D-print extrusion. Concrete
+        precedent for AI-adaptive fabrication responding to real material
+        behavior, not a generic AI-assistance claim.
+    - author: Alisa Andrasek
+      title: "Endemic Interstices (PROTO/E/CO/LOGICS research, 2011-12)"
+      url: https://www.alisaandrasek.com/projects/endemic-interstices
+      priority: high
+      note: >
+        Physics-simulated mud-cracking used as formwork; articulated ground/
+        landforms used as scaffolds specifically to avoid material waste.
+        Precedent for computation + real material data driving waste
+        avoidance, directly relevant to the off-cut metal material framing.
     - author: Gilles Retsin
       title: "Discrete: Reappraising the Digital in Architecture"
       year: 2019
