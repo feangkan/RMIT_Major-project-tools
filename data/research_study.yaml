@@ -40,11 +40,18 @@ categories:
       title: "Composite Swarm"
       year: 2014
       url: https://kokkugia.com/Composite-Swarm
-      priority: high
+      priority: essential
       note: >
-        Ant-bridge-logic agentBody algorithm compressing surface/structure/ornament
-        into one form via fiber-composite + foam components. Conceptual reference for
-        agentBody's ant-bridge origin (bodies connecting to bodies to form structure).
+        THE key structure/ornament compression precedent. Foam agentBodies laminated
+        in thin fibreglass surface — the bodies generate structural corrugation depth
+        AND the ornamental pattern through the same local behavior, not two separate
+        systems. Result: 1mm-thick surface supporting a 2500mm-tall structure. Snooks'
+        own words: "structure informs ornament while ornament informs structure,"
+        operating as one behavior at the sub-material/micro-scale. Structure
+        *conditions* agent behavior, does not *lead/drive* it (distinguishes from
+        topology-optimization approaches e.g. BESO). Direct precedent for testing
+        whether off-cut metal connection patterns can be simultaneously structural
+        and ornamental.
     - author: Alisa Andrasek
       title: "Agentic design cognition — RMIT profile & Architecture for Complexity"
       year: 2024
