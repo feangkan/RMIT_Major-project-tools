@@ -55,7 +55,9 @@ Building on Roland Snooks' *Behavioral Tectonics* and *agentBody* research, Robe
 
 **For:** Design-practice research where a site's own industrial material history becomes the generative logic — and the constraint — for a new civic architecture.
 
-**Lineage:** Andrasek (multi-agent/LLM studio pipeline) → Gibson/Wark (hybrid tectonics, discrete-element chunk logic) → Snooks (behavioral formation, agentBody) → **off-cut metal agentBody prototypes at Fishermans Bend**.
+**Direct precedent and the gap it leaves open:** Kokkugia's **Brass Swarm** (2015) encoded empirically-tested rod-bending limits directly into the agentBody algorithm, producing an automated generation-to-fabrication workflow in robotically-bent brass rod; the **RMIT Mace** (2015) used ~1 million agents self-organising into an intricate lattice, fabricated by direct titanium SLM printing, with the algorithm tuned to the AM process itself. Both use **uniform, regular stock** — standard rod, standard powder. Neither encodes **irregular, reclaimed, or off-cut material geometry** as an agent constraint. This project asks the same agentBody logic to negotiate non-standard stock instead of uniform material — a specific, citable extension of Kokkugia's own lineage, not a new method invented from nothing.
+
+**Lineage:** Andrasek (multi-agent/LLM studio pipeline) → Gibson/Wark (hybrid tectonics, discrete-element chunk logic) → Snooks/Kokkugia (agentBody, Manifold Swarm, Brass Swarm, RMIT Mace) → **off-cut metal agentBody prototypes at Fishermans Bend**.
 
 ---
 
@@ -75,7 +77,7 @@ Building on Roland Snooks' *Behavioral Tectonics* and *agentBody* research, Robe
 
 | Layer | Method |
 |-------|--------|
-| **Multi-agent formation** | Python / vibe-coded agent systems, extending my "Social Hideout" pipeline — space-colonization/differential-growth as primary logic; slime-mold aggregation and Voronoi partitioning as literature context and possible secondary rules |
+| **Multi-agent formation** | Python / vibe-coded agent systems, extending my "Social Hideout" pipeline — space-colonization/differential-growth as primary logic; slime-mold aggregation and Voronoi partitioning as literature context and possible secondary rules. Formation logic draws directly on Kokkugia's **agentBody** (bodies that connect to neighbouring bodies, ant-bridge logic) and **Manifold Swarm** (orientation-coordinate self-organisation into continuous surface topology) strategies |
 | **Generative AI assist** | **Claude** (briefs, specs, pseudocode) + **Cursor vibe code** → **Python for Rhino/Grasshopper**, extending the MCP-tool-fed LLM-agent loop already built in Social Hideout (text prompts + image references + MCP tools → LLM → script iteration → screenshot feedback) |
 | **Real-world data input** | Site/context data (EPW climate data precedent from Social Hideout; extended here to material-availability data — off-cut stock dimensions, scrap-yard inventory logic — as agent parameters) |
 | **Material behavior** | Cold-cast bronze/aluminium powder + resin (extending my Pantic-studio silicone/plaster mould workflow); metal-filled bronze/copper FDM filament on Bambu Lab (hardened nozzle already fitted) |
@@ -118,7 +120,7 @@ Building on Roland Snooks' *Behavioral Tectonics* and *agentBody* research, Robe
 
 ## 9. What is new (knowledge through architecture)
 
-- Extending **behavioral formation** to a **recycled/off-cut metal material stream**, tested through both cold-casting and metal-filled AM — under-explored in the current Behavioral Tectonics literature.
+- Extending the **agentBody algorithm** — proven on uniform stock in Brass Swarm (bent rod) and RMIT Mace (titanium SLM powder) — to **irregular, reclaimed off-cut material geometry** as an agent-level constraint, tested through both cold-casting and metal-filled AM. This is a specific, named gap in Kokkugia's own published lineage, not a generic "behavioral formation" claim.
 - A documented **multi-agent + LLM/MCP + desktop AM/cold-cast** pipeline achievable without industrial robotic fabrication access — evidence that intricate, non-repetitive behavioral tectonics research is achievable at accessible/consumer-hardware scale, not only in a robotics lab.
 - A site-specific argument connecting a precinct's own industrial material history to its computationally-generated architectural future.
 

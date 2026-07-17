@@ -17,6 +17,34 @@ categories:
       year: 2022
       doi: "10.1007/s44223-022-00007-8"
       priority: essential
+    - author: Kokkugia (Roland Snooks)
+      title: "Brass Swarm — Shanghai installation"
+      year: 2015
+      url: https://www.tectonicformationlab.com/projects/brass-swarm-2015
+      priority: essential
+      note: >
+        agentBody = 4 robotically bent brass rods; empirically-tested bending limits
+        encoded into the algorithm for automated generation-to-fabrication workflow.
+        Direct precedent for metal + agentBody; uses uniform rod stock — the gap this
+        thesis extends is irregular/off-cut stock instead.
+    - author: Roland Snooks & Scott Mayson
+      title: "RMIT Mace"
+      year: 2015
+      url: https://www.tectonicformationlab.com/projects/rmit-mace-2015
+      priority: essential
+      note: >
+        ~1 million agents self-organising into an intricate lattice, fabricated by
+        direct titanium SLM printing; algorithm tuned to eliminate unprintable
+        geometry. Direct precedent for metal + AM + swarm at product scale.
+    - author: Kokkugia (Roland Snooks)
+      title: "Composite Swarm"
+      year: 2014
+      url: https://kokkugia.com/Composite-Swarm
+      priority: high
+      note: >
+        Ant-bridge-logic agentBody algorithm compressing surface/structure/ornament
+        into one form via fiber-composite + foam components. Conceptual reference for
+        agentBody's ant-bridge origin (bodies connecting to bodies to form structure).
     - author: Alisa Andrasek
       title: "Agentic design cognition — RMIT profile & Architecture for Complexity"
       year: 2024
