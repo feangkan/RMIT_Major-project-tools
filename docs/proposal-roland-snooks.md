@@ -97,7 +97,7 @@ Building on Roland Snooks' *Behavioral Tectonics* and *agentBody* research, Robe
 
 4. **RA — Tectonic Formation Lab, Building 45 facade (Marc Gibson, S1 2026):** hands-on execution of a real, built hybrid tectonic facade — cast GFRC + large-format polymer 3D print + metal connectors — through the full pipeline (CNC foam mould, plaster patching, resin/UV cure, GFRC casting, demoulding, bolt-bracket assembly). Demonstrates I can resolve computational geometry to real fabrication tolerance, not only screen-based form.
 
-5. **Currently enrolled — "Circular Tectonics" Hong Kong Travelling Studio (Dr Nic Bao & Harlan Guo, S2 2026):** directly rehearses this proposal's fabrication method ahead of the Major Project — reclaimed/irregular material cataloguing, 3D scanning, computational form-finding, custom 3D-printed connector design, and mixed-reality-guided assembly, culminating in a full-scale pavilion build with CUHK Hong Kong (Oct–Nov 2026). By Major Project start, the off-cut-material + AM-connector + AR-assembly workflow proposed here will be tested experience, not a proposed method.
+5. **Currently enrolled — "Circular Tectonics" Hong Kong Travelling Studio (Dr Nic Bao & Harlan Guo, S2 2026):** working with reclaimed construction materials — cataloguing, 3D scanning, and connecting them via custom 3D-printed joints and mixed-reality-guided assembly. Studio runs at RMIT through October, then travels to CUHK Hong Kong in early November to build a full-scale pavilion.
 
 **I am not asking you to supervise a discrete/standardized modular kit thesis, an urban policy project, or a bio-material engineering thesis.** I am proposing **behavioral tectonic research** in off-cut/recycled metal, realised through small-scale AM and cold-casting — directly extending the *Behavioral Formation* and *agentBody* trajectory with a material stream your published research has not yet addressed.
 
@@ -113,8 +113,6 @@ Building on Roland Snooks' *Behavioral Tectonics* and *agentBody* research, Robe
 - **Stretch option under investigation:** fully sinterable metal filament (e.g. Virtual Foundry Filamet) printed on the same desktop printer, then debound and kiln-sintered to solid metal — pending confirmation of kiln access through RMIT sculpture/ceramics workshops.
 
 **Open material research (continuing in parallel with this proposal):** whether recycled metal swarf/filings/off-cuts can be ground into a usable powder to substitute for commercial bronze/aluminium powder in the cold-cast mix — this would close the loop between the site's material identity (Fishermans Bend off-cut stream) and the actual material in hand, rather than using commercially sourced metal powder. This research is ongoing and will refine the material section ahead of Week 10 lock-in.
-
-**Directly informed by concurrent coursework:** the "Circular Tectonics" studio (Section 7.5) runs through this same semester and teaches exactly this class of problem — cataloguing and scanning irregular/reclaimed material stock, then designing connectors and assembly logic that respond to what's actually available rather than a specified material. Findings from that studio (material scanning workflow, connector design outcomes, what worked/failed in the CUHK build) will feed directly into finalising this section before submission.
 
 ---
 
