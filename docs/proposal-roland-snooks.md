@@ -29,7 +29,7 @@ This project is **not** about discrete, standardized, repeatable parts (Retsin/C
 
 ## 2. Project summary (150 words)
 
-This Major Project tests whether **multi-agent growth simulation** — building on my own prior space-colonization/differential-growth studio work — can generate **intricate, non-repetitive architectural detail** that survives translation into a physical prototype through **additive manufacturing** and **cold-cast metal**, rather than being resolved into standardized, repeatable components.
+This Major Project tests whether a **self-organizing multi-agent growth process** — building on my own prior space-colonization/differential-growth studio work — can generate **intricate, non-repetitive architectural detail** that survives translation into a physical prototype through **additive manufacturing** and **cold-cast metal**, rather than being resolved into standardized, repeatable components.
 
 The material stream is **recycled/off-cut metal** — referencing Fishermans Bend's identity as a former heavy-manufacturing precinct now undergoing urban renewal. Two fabrication tracks: (1) **metal-filled filament** (bronze/copper composite) printed at joint/node/connector scale on desktop FDM, testing intricate emergent detail at 1:1 resolution; (2) **cold-cast bronze/aluminium** composite for larger envelope fragments, extending my existing silicone/plaster mould-casting workflow.
 
@@ -39,7 +39,7 @@ Building on Roland Snooks' *Behavioral Tectonics* and *agentBody* research, Robe
 
 ## 3. Research questions
 
-1. **Behavioral formation:** How does a multi-agent growth system (space-colonization / differential-growth logic) encode off-cut metal material constraints as agent parameters, rather than applying material choice after form is fixed?
+1. **Behavioral formation:** How does a self-organizing multi-agent growth system (cellular division / differential growth logic — local rules producing emergent global order, not top-down authored form) encode off-cut metal material constraints as agent parameters, rather than applying material choice after form is fixed?
 2. **Tectonics:** Can additive manufacturing preserve **intricate, non-repetitive** agent-generated detail at joint/node scale, avoiding the discretization-into-repeatable-parts route taken by Pantic/Klemmt and Retsin/Claypool?
 3. **Material behavior:** How do recycled/off-cut metal constraints (via cold-cast bronze/aluminium and metal-filled AM) behave as agent-readable parameters — weight, flow, joint tolerance — rather than a fixed material applied after formation?
 4. **Fabrication:** What is the realistic design-to-fabrication workflow using desktop AM (Bambu Lab, 256mm build volume) + manual cold-casting, given no access to industrial robotic AM for this project specifically?
@@ -49,7 +49,9 @@ Building on Roland Snooks' *Behavioral Tectonics* and *agentBody* research, Robe
 
 ## 4. Architectural position
 
-**Thesis:** Off-cut and recycled metal in a manufacturing-transition precinct is not scrap to be hidden — it is the **latent material memory of the site**. Multi-agent growth formation (mimicking root/vein branching, akin to space colonization and differential growth) negotiates this material's real behavior — weight, flow when cast, joint tolerance when printed — to produce **intricate, non-repetitive tectonic detail**, where computation and small-scale AM/casting **assist** craft rather than replace it.
+**Thesis:** Off-cut and recycled metal in a manufacturing-transition precinct is not scrap to be hidden — it is the **latent material memory of the site**. A self-organizing multi-agent growth process (cellular division / differential growth) negotiates this material's real behavior — weight, flow when cast, joint tolerance when printed — to produce **intricate, non-repetitive tectonic detail**, where computation and small-scale AM/casting **assist** craft rather than replace it.
+
+**Growth and self-organization are the same claim, not two separate ones:** "growth" here does not mean a biological metaphor applied to form — it means the tectonic order of the piece emerges from **local cell-division/interaction rules**, with no centralized or pre-drawn global form imposed from above. This is the same theoretical move Camazine's *Self-Organization in Biological Systems* makes for slime mold and ant trails, that Snooks makes explicit in Behavioral Formation ("self-organisation and emergence" within multi-agent populations), and that Andrasek states directly for her own growth work — *Endemic Interstices* is described as a system with "the capacity to **self structure, adapt and co-evolve**" within its environment. Cellular division is simply the specific growth rule; self-organization is the principle that makes it architecturally meaningful — local rules, global emergent tectonic order, no top-down authored form.
 
 **Against:** Discrete standardized kits-of-parts as the default "buildable" answer to complex computational form; sustainability-as-checkbox; bio-composite material claims that don't hold up under load (see Section 8, material evidence).
 
