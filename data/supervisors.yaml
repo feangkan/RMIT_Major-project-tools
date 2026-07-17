@@ -1,0 +1,147 @@
+# RMIT & aligned computational design supervisors
+supervisors:
+  - id: roland_snooks
+    name: Roland Snooks
+    institution: RMIT University
+    role: Professor of Architecture
+    lab: Tectonic Formation Lab
+    email: roland.snooks@rmit.edu.au
+    profile_url: https://www.rmit.edu.au/profiles/s/roland-snooks
+    lab_url: https://www.tectonicformationlab.com/
+    expertise:
+      - Algorithmic generative design
+      - Multi-agent systems
+      - Swarm intelligence
+      - Robotic fabrication
+      - Additive manufacturing
+      - Behavioral formation
+      - Generative AI
+    keywords:
+      - swarm
+      - agents
+      - tectonics
+      - polymer printing
+      - Kokkugia
+    key_publications:
+      - title: "Behavioral Formation"
+        year: 2021
+        type: book
+        note: "Core reference for multi-agent architectural design"
+      - title: "Behavioral tectonics: agentBody prototypes"
+        year: 2022
+        type: paper
+        doi: "10.1007/s44223-022-00007-8"
+    alignment_notes: >
+      Strongest match for swarm intelligence, algorithmic form-finding,
+      vibe-coded agent systems, and large-scale robotic AM. Ideal if your
+      project foregrounds behavioral processes over structural optimisation.
+
+  - id: nic_bao
+    name: "Dingwen (Nic) Bao"
+    institution: RMIT University
+    role: Senior Lecturer, Architecture Technology Coordinator
+    lab: FormX Research Lab
+    email: nic.bao@rmit.edu.au
+    profile_url: https://www.rmit.edu.au/profiles/b/nic-bao
+    expertise:
+      - Performance-driven design
+      - Structural optimisation (BESO/topology)
+      - Computational design
+      - Additive manufacturing
+      - Robotic fabrication
+      - Prefabrication & modular assembly
+      - Timber & sustainable materials
+      - Cost-aware intelligent construction
+    keywords:
+      - FormX
+      - shell tectonics
+      - prefab
+      - timber hub
+      - off-site
+    key_publications:
+      - title: "Shell Tectonics"
+        year: 2024
+        type: project
+        note: "Topology optimisation + robotic 3D printing + modular assembly"
+    alignment_notes: >
+      Strongest match for prefabrication, off-site construction, cost control,
+      structural performance, and fabrication-aware design. Bridges practice and
+      research; good for buildable, industry-relevant major projects.
+    current_teaching_connection: >
+      Leading "Circular Tectonics" Hong Kong Travelling Studio, Semester 2 2026
+      (student enrolled) — reclaimed material cataloguing/3D scanning, custom
+      3D-printed connectors, mixed-reality assembly, full-scale CUHK pavilion build.
+      Directly rehearses this student's Major Project fabrication method ahead of
+      time. See data/circular_tectonics_studio.yaml.
+
+  - id: anna_johnson
+    name: Anna Johnson
+    institution: RMIT University
+    role: Associate Professor of Architecture
+    lab: Urban practice / design practice research
+    email: anna.johnson@rmit.edu.au
+    profile_url: https://www.rmit.edu.au/profiles/j/anna-johnson
+    expertise:
+      - Urban practice and social-spatial design
+      - Community co-making
+      - Climate adaptation and site narrative
+      - Design practice research
+      - Critical writing + generative design
+    keywords:
+      - urban
+      - community
+      - sustainability
+      - co-making
+      - neighbourhood
+    alignment_notes: >
+      Best for urban/social framing, community impact, and site narrative —
+      not primary for robotic fabrication. Pair with Nic Bao for waste-to-pavilion
+      projects needing Melbourne urban context and civic meaning.
+
+  - id: jan_vanschaik
+    name: Jan van Schaik
+    institution: RMIT University
+    role: Senior Lecturer
+    lab: MvS Architects / Design Practice Research
+    email: jan.vanschaik@rmit.edu.au
+    profile_url: https://www.rmit.edu.au/profiles/v/jan-vanschaik
+    expertise:
+      - Design practice research
+      - Cultural insight + architectural invention
+      - Writing and critical position
+      - Public speaking and presentation
+    keywords:
+      - practice research
+      - critical position
+      - writing
+    alignment_notes: >
+      Less computational-fabrication focused. Better if your project needs
+      strong narrative, cultural positioning, or practice-based critical writing.
+      Note: "Gy Liam Jan" may refer to a different person — confirm spelling.
+
+external_references:
+  - name: Robert Stuart-Smith
+    institution: "U Penn / UCL (AML)"
+    relevance: Multi-agent, collective robotic construction, additive manufacturing
+    url: https://robertstuart-smith.com/
+    taught_at_rmit: true
+  - name: Gilles Retsin
+    institution: UCL Bartlett
+    relevance: Discrete architecture, prefabrication, automation, modular assembly
+    url: https://profiles.ucl.ac.uk/55488-gilles-retsin
+  - name: Barry Wark
+    institution: UCL Bartlett
+    relevance: Computational design, digital assemblies, ecological material systems
+  - name: Albert Sumin
+    institution: Coop Himmelb(l)au / MARCH
+    relevance: BIM-parametric workflows, AI in urban design, constructability
+    url: https://paacademy.com/blog/designing-between-data-architecture-albert-sumin
+  - name: Achim Menges
+    institution: ICD / University of Stuttgart
+    relevance: Material computation, fibre composites, robotic fabrication
+  - name: Philip Yuan
+    institution: Tongji / DigitalFUTURES
+    relevance: Digital fabrication, intelligent construction
+  - name: Mark Burry
+    institution: Swinburne / formerly RMIT
+    relevance: Parametric design, Gaudí research, digital design history

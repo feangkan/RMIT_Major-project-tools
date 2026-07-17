@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# App state
+brief.json
+
+# Obsidian vault (regenerated)
+vault/
+
+# Portfolio PDFs (large binaries — keep local / sync separately)
+portfolio/*.pdf
+portfolio/*.PDF
+portfolio/*.zip
+!portfolio/README.md
+
+# OS
+.DS_Store

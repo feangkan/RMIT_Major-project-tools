@@ -1,0 +1,285 @@
+# RMIT Master of Architecture Major Project — component checklist
+program: Master of Architecture (MC163)
+capstone_course: Major Project
+
+official_definition: >
+  The Major Project is the independent capstone research and design project for the
+  Master of Architecture at RMIT. It requires students to execute a highly resolved
+  architectural design project, undertake design-practice research, and articulate
+  their own unique architectural position before a panel of experts.
+
+program_context: >
+  At RMIT Architecture students undertake an independent graduating project under
+  the supervision of their nominated supervisor and within a group context. Major
+  Project is the capstone course where students are expected to undertake
+  design-practice research and develop and articulate a well-argued architectural
+  position through the execution of an architectural design project. It is an
+  opportunity to demonstrate new kinds of knowledge and ideas through architecture.
+
+description: >
+  Independent graduating project, individually supervised, within a group cohort.
+  Culminates in the Major Project Festival — work-in-progress and final reviews
+  with a panel of supervisors and experts.
+
+supervision_model:
+  independent_project: true
+  nominated_supervisor: required
+  group_context: >
+    You are supervised individually by your nominated supervisor, but you work
+    within a group context — a cohort of Major Project students who share reviews,
+    deadlines, and the festival format. You are not working in isolation.
+  notes:
+    - Secure supervisor alignment early (EOI → proposal → confirmation)
+    - Engage with cohort WIP reviews and festival format expectations
+    - Balance independent inquiry with group review milestones
+
+capstone_pillars:
+  - id: resolved_design
+    label: Highly resolved architectural design
+    description: >
+      A fully developed design project — not only research or prototypes, but
+      architecture resolved at a level appropriate for expert critique (drawings,
+      models, prototypes, exhibition materials).
+    maps_to_stages: [D, F]
+    weight: critical
+
+  - id: design_practice_research
+    label: Design-practice research
+    description: >
+      Research conducted through design — iterative experimentation, precedent
+      study, fabrication tests, and documented design decisions that produce
+      new knowledge via architectural practice.
+    maps_to_stages: [A, B, C, D]
+    weight: critical
+
+  - id: unique_position
+    label: Well-argued architectural position
+    description: >
+      A clear, defensible stance developed through the execution of your design
+      project — what you believe, what you challenge, and why your approach
+      matters. The position must be argued, not merely stated.
+    maps_to_stages: [A, E]
+    weight: critical
+
+  - id: new_knowledge
+    label: New knowledge through architecture
+    description: >
+      Demonstrate new kinds of knowledge and ideas through architecture — not
+      only technical skill, but contribution to the discipline via your design
+      research and its outcomes.
+    maps_to_stages: [C, D, E]
+    weight: critical
+
+  - id: panel_presentation
+    label: Panel of experts (Festival review)
+    description: >
+      Presentation and defence before a panel at the Major Project Festival.
+      Requires coherent narrative, resolved deliverables, and preparedness for
+      critique and discussion.
+    maps_to_stages: [F]
+    weight: critical
+
+required_components:
+  - id: topic_what
+    label: "Topic — The What"
+    description: Clear research question or architectural proposition
+    weight: critical
+    prompts:
+      - What is the central architectural problem or opportunity?
+      - What is novel about your approach?
+      - How does it relate to computational design / AI / fabrication?
+
+  - id: process_how
+    label: "Process — The How"
+    description: Methodology linking research to design production
+    weight: critical
+    prompts:
+      - What computational / algorithmic / fabrication workflow will you use?
+      - Python, pseudocode, LLM, swarm, parametric — which tools and why?
+      - How does process produce evidence (iterations, prototypes, logs)?
+
+  - id: site_where
+    label: "Site — The Where"
+    description: Spatial, institutional, or material context for the project
+    weight: high
+    prompts:
+      - Physical site, lab site, or industry partner site?
+      - Why is this site strong for your topic in Australia?
+      - Access, constraints, and scale of intervention?
+
+  - id: supervisor
+    label: Supervisor alignment
+    description: Nominated supervisor with aligned expertise (individual supervision)
+    weight: critical
+    prompts:
+      - Which supervisor(s) have you approached or shortlisted?
+      - How does their research map to your topic?
+      - What adjustments would strengthen the fit?
+      - Has supervisor capacity been confirmed?
+
+  - id: group_context
+    label: Group context & cohort engagement
+    description: Working within the Major Project cohort while supervised individually
+    weight: high
+    prompts:
+      - How will you engage with cohort WIP reviews and shared milestones?
+      - What do you learn from peer projects in the group context?
+      - Are you clear on festival format and panel expectations?
+
+  - id: background
+    label: "Your background"
+    description: Past studios, work experience, portfolio evidence
+    weight: high
+    prompts:
+      - Past RMIT / other studios relevant to this topic
+      - Professional experience (prefab, digital, practice)
+      - PDF portfolio or project documentation available?
+
+  - id: keywords
+    label: Keywords & positioning
+    description: Searchable terms for research and proposal framing
+    weight: medium
+    prompts:
+      - 8–15 keywords spanning topic, method, material, site
+      - How do keywords connect to supervisor/lab research?
+
+  - id: critical_position
+    label: Well-argued architectural position
+    description: Your stance toward the discipline, argued through design (capstone pillar)
+    weight: critical
+    prompts:
+      - What is your position on AI / computation in architecture?
+      - What existing discourse are you extending or challenging?
+      - Can you state your argument in 2–3 sentences a panel could debate?
+      - How does the executed design project prove your position?
+
+  - id: new_knowledge
+    label: New knowledge through architecture
+    description: What new ideas or knowledge does your project contribute? (capstone pillar)
+    weight: critical
+    prompts:
+      - What is new — method, tectonic, process, or disciplinary insight?
+      - How is this knowledge demonstrated through architecture, not only text?
+      - What would be lost if your project were only a technical demo?
+
+  - id: design_practice_research
+    label: Design-practice research
+    description: Research through design iteration, not literature alone (capstone pillar)
+    weight: critical
+    prompts:
+      - What design experiments will generate your research evidence?
+      - How do studio iterations, prototypes, or code runs become findings?
+      - What gap in practice or discourse does your design work address?
+
+  - id: resolved_design
+    label: Highly resolved design deliverables
+    description: Exhibition-ready architectural resolution (capstone pillar)
+    weight: critical
+    prompts:
+      - What is the final scale of design resolution (1:1 prototype, building, urban)?
+      - What drawings, models, and physical outputs will the panel see?
+      - Is the project resolved beyond concept — detail, tectonics, assembly?
+
+  - id: panel_review
+    label: Panel presentation readiness
+    description: Prepared for Major Project Festival expert critique (capstone pillar)
+    weight: high
+    prompts:
+      - What is your 5-minute spoken narrative for the panel?
+      - What questions do you expect from supervisors and critics?
+      - Are WIP reviews scheduled before the final festival?
+
+  - id: building_technology
+    label: Building technology integration
+    description: Technical resolution and constructability
+    weight: high
+    prompts:
+      - Material system, structure, assembly logic
+      - Regulatory / documentation pathway if applicable
+
+  - id: communication
+    label: Architectural communication
+    description: Drawings, models, prototypes, exhibition
+    weight: high
+    prompts:
+      - Deliverables for WIP and final festival review
+      - Physical prototype scale and fabrication plan
+
+  - id: research_literature
+    label: Research & literature
+    description: Scholarly and practice references
+    weight: high
+    prompts:
+      - Key papers, books, pioneers identified?
+      - Gap your project addresses?
+
+  - id: pr_pathway
+    label: Australia / PR relevance (optional but strategic)
+    description: Industry trends, skills, and sector alignment
+    weight: medium
+    prompts:
+      - Prefab, off-site, AM, digital construction in AU policy/industry
+      - How does the project demonstrate employable expertise?
+
+revision_hierarchy:
+  - order: 1
+    lens: "Australia trend → PR / industry"
+    question: Does the topic connect to national priorities (prefab, AM, digital construction)?
+  - order: 2
+    lens: "Supervisor fit"
+    question: Does the brief align with Snooks / Bao / other supervisor research? What to adjust?
+  - order: 3
+    lens: "AI + computational design + digital fabrication + materials"
+    question: Are all four pillars present or intentionally scoped?
+  - order: 4
+    lens: "Constructability + cost"
+    question: Is there a credible path from algorithm to buildable outcome?
+  - order: 5
+    lens: "Critical position"
+    question: Is the argument clear beyond technical demonstration?
+  - order: 6
+    lens: "Capstone pillars"
+    question: >
+      Does the brief satisfy RMIT requirements — highly resolved design,
+      design-practice research, well-argued position, new knowledge through
+      architecture, and panel-ready presentation?
+  - order: 7
+    lens: "Supervision & group context"
+    question: >
+      Is your nominated supervisor aligned, and are you prepared for individual
+      supervision within the cohort group context and festival reviews?
+
+default_keywords:
+  - computational design
+  - algorithmic architecture
+  - swarm intelligence
+  - multi-agent systems
+  - form finding
+  - additive manufacturing
+  - robotic fabrication
+  - prefabrication
+  - off-site construction
+  - design for manufacture and assembly
+  - cost control
+  - Python
+  - large language models
+  - generative AI
+  - pseudocode
+  - vibe coding
+  - tectonics
+  - performance-driven design
+  - modular assembly
+  - agility architecture
+  - acceleration intelligence
+  - discrete modular
+  - scalable architecture
+  - algorithmic aggregation
+  - DfMA
+  - IKEA flat-pack logic
+  - tectonic connector
+  - stock material palette
+  - pallet timber
+  - robotic placement
+  - logistics
+  - affordable construction
+  - shelter migration

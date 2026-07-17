@@ -1,0 +1,253 @@
+# Expanded research bibliography — sync with docs/references-for-proposal-email.md
+
+reading_order_week_0:
+  - Roland Snooks — Behavioral Formation (selected chapters)
+  - Nic Bao — Waste to Form (Melbourne Design Week)
+  - Alisa Andrasek — Archinect interview AI Complexity Ecological Futures
+
+categories:
+  essential_for_roland_email:
+    - author: Roland Snooks
+      title: "Behavioral Formation"
+      year: 2021
+      type: book
+      priority: essential
+    - author: Roland Snooks
+      title: "Behavioral tectonics: agentBody prototypes and the compression of tectonics"
+      year: 2022
+      doi: "10.1007/s44223-022-00007-8"
+      priority: essential
+    - author: Kokkugia (Roland Snooks)
+      title: "Brass Swarm — Shanghai installation"
+      year: 2015
+      url: https://www.tectonicformationlab.com/projects/brass-swarm-2015
+      priority: essential
+      note: >
+        agentBody = 4 robotically bent brass rods; empirically-tested bending limits
+        encoded into the algorithm for automated generation-to-fabrication workflow.
+        Direct precedent for metal + agentBody; uses uniform rod stock — the gap this
+        thesis extends is irregular/off-cut stock instead.
+    - author: Roland Snooks & Scott Mayson
+      title: "RMIT Mace"
+      year: 2015
+      url: https://www.tectonicformationlab.com/projects/rmit-mace-2015
+      priority: essential
+      note: >
+        ~1 million agents self-organising into an intricate lattice, fabricated by
+        direct titanium SLM printing; algorithm tuned to eliminate unprintable
+        geometry. Direct precedent for metal + AM + swarm at product scale.
+    - author: Kokkugia (Roland Snooks)
+      title: "Composite Swarm"
+      year: 2014
+      url: https://kokkugia.com/Composite-Swarm
+      priority: essential
+      note: >
+        THE key structure/ornament compression precedent. Foam agentBodies laminated
+        in thin fibreglass surface — the bodies generate structural corrugation depth
+        AND the ornamental pattern through the same local behavior, not two separate
+        systems. Result: 1mm-thick surface supporting a 2500mm-tall structure. Snooks'
+        own words: "structure informs ornament while ornament informs structure,"
+        operating as one behavior at the sub-material/micro-scale. Structure
+        *conditions* agent behavior, does not *lead/drive* it (distinguishes from
+        topology-optimization approaches e.g. BESO). Direct precedent for testing
+        whether off-cut metal connection patterns can be simultaneously structural
+        and ornamental.
+    - author: Alisa Andrasek
+      title: "Agentic design cognition — RMIT profile & Architecture for Complexity"
+      year: 2024
+      url: https://www.rmit.edu.au/profiles/a/alisa-andrasek
+      priority: essential
+      note: Student's studio supervisor — vibe code, swarm, AI
+    - author: Alisa Andrasek
+      title: "Alien Within Familiar / Wrinkle in Space (Wonderlab, UCL Bartlett)"
+      url: https://www.alisaandrasek.com/projects/alien-within-familiar
+      url_2: https://www.alisaandrasek.com/projects/wrinkle-in-space
+      priority: essential
+      note: >
+        Cellular division (CD) growth algorithm — architect sets rule-based
+        parameters, cells proliferate/differentiate, constrained to a planar
+        setting to remain fabricable by robotic extrusion. Direct precedent
+        for "growth agent" logic as this thesis' primary formation strategy.
+    - author: Alisa Andrasek
+      title: "Cloud Pergola (Croatian Pavilion, Venice Biennale 2018)"
+      url: https://www.alisaandrasek.com/projects/cloud-pergola
+      priority: essential
+      note: >
+        Multi-agent system (MAS) integrating real site weather data; robotic
+        arm trained (NVIDIA Jetson) to track and correct for material
+        tolerance errors in real time during 3D-print extrusion. Concrete
+        precedent for AI-adaptive fabrication responding to real material
+        behavior, not a generic AI-assistance claim.
+    - author: Alisa Andrasek
+      title: "Endemic Interstices (PROTO/E/CO/LOGICS research, 2011-12)"
+      url: https://www.alisaandrasek.com/projects/endemic-interstices
+      priority: high
+      note: >
+        Physics-simulated mud-cracking used as formwork; articulated ground/
+        landforms used as scaffolds specifically to avoid material waste.
+        Precedent for computation + real material data driving waste
+        avoidance, directly relevant to the off-cut metal material framing.
+    - author: Gilles Retsin
+      title: "Discrete: Reappraising the Digital in Architecture"
+      year: 2019
+      type: journal_issue
+      priority: essential
+    - author: Gilles Retsin
+      title: "Parts that Precede Buildings: Architecture in Large Quantities"
+      year: 2023
+      doi: "10.25439/rmt.32296608"
+      priority: essential
+    - author: Nic Bao
+      title: "Waste to Form — coffee waste architectural installation"
+      year: 2025
+      url: https://designweek.melbourne/event/waste-to-form/
+      priority: essential
+    - author: Neil Leach
+      title: "Architecture in the Age of Artificial Intelligence (2nd ed.)"
+      year: 2025
+      doi: "10.5040/9781350438781"
+      priority: essential
+    - author: Tectonic Formation Lab
+      title: "Computational Design + Generative AI"
+      url: https://www.tectonicformationlab.com/
+      priority: essential
+
+  swarm_multi_agent:
+    - author: Robert Stuart-Smith
+      title: "Behavioural Production: Autonomous Swarm‐Constructed Architecture"
+      priority: high
+    - author: Robert Stuart-Smith
+      title: "A review of collective robotic construction"
+      priority: high
+    - author: Jose Sanchez
+      title: "Bloom / Plethora — agent-based architectural assemblies"
+      priority: medium
+
+  llm_agentic_ai_recent:
+    - author: Neil Leach et al.
+      title: "The Connectionist Turn: How Contemporary Generative AI Reshapes Architectural Rationality"
+      year: 2025
+      doi: "10.3390/architecture5040132"
+      priority: high
+    - author: Stanislas Chaillou
+      title: "Artificial Intelligence and Architecture (expanded ed.)"
+      year: 2025
+      doi: "10.1515/9783035629422"
+      priority: high
+    - author: CAADRIA 2025
+      title: "Agentic AI framework — LLM metaphors to procedural 3D models"
+      year: 2025
+      url: https://papers.cumincad.org/
+      priority: medium
+    - author: BuildingBlock
+      title: "BuildingBlock: Hybrid LLM + procedural LEGO-block building generation"
+      year: 2025
+      url: https://arxiv.org/abs/2505.04051
+      priority: medium
+
+  discrete_modular_affordable:
+    - author: Gilles Retsin & Manuel Jimenez Garcia
+      title: "Robotic Building: Architecture in the Age of Automation"
+      year: 2019
+      priority: high
+    - author: Gilles Retsin
+      title: "Bits and Pieces: Digital Assemblies: From Craft to Automation"
+      doi: "10.1002/ad.2410"
+      priority: high
+    - author: Gilles Retsin / AUAR
+      title: "ETH Zurich visiting studio — automated sustainable construction"
+      year: 2024
+      url: https://arch.ethz.ch/
+      priority: medium
+    - author: MDPI Buildings
+      title: "Full-Scale Implementation of an Automated Connecting Device for Modular Construction"
+      year: 2024
+      doi: "10.3390/buildings14020496"
+      priority: medium
+
+  coffee_waste_melbourne:
+    - author: Nic Bao et al.
+      title: "Waste to Form"
+      year: 2025
+      priority: essential
+    - author: Rajeev Roychand et al.
+      title: "Coffee offers performance boost for concrete"
+      year: 2023
+      url: https://www.rmit.edu.au/news/all-news/2023/aug/coffee-concrete
+      priority: high
+    - author: City of Melbourne
+      title: "Coffee waste diversion — Reground"
+      url: https://www.melbourne.vic.gov.au/news/how-coffee-waste-can-help-fight-climate-change-insights-binfluencer
+      priority: medium
+
+  hybrid_tectonics_facade:
+    - author: Barry Wark
+      title: "Nadarra — 3D-printed sand wall; The Architecture of Ecology"
+      year: 2023
+      url: https://www.barrywark.com/
+      priority: high
+      note: Marc Gibson studio lineage
+    - author: Nic Bao et al.
+      title: "Shell Tectonics"
+      year: 2024
+      doi: "10.25439/rmt.31834441"
+      priority: high
+
+  student_practice:
+    - author: Student
+      title: "Claude + Cursor vibe code → Python for Rhino workflow"
+      year: 2025
+      type: design_practice_research
+      priority: essential
+      note: Document as primary method source
+
+ai_pioneers:
+  - name: Roland Snooks
+    contribution: Multi-agent behavioral formation; Tectonic Formation Lab; generative AI
+    key_work: Behavioral Formation (2021)
+  - name: Alisa Andrasek
+    contribution: Agentic design cognition; vibe coding; Biothing; AIARCH — STUDENT'S STUDIO
+    key_work: RMIT profile; Archinect 2024 interview
+  - name: Robert Stuart-Smith
+    contribution: Collective robotic construction; AML Penn/UCL; Kokkugia co-founder
+    key_work: Behavioural Production; CRC review
+  - name: Gilles Retsin
+    contribution: Discrete architecture; AUAR automated timber; parts precede buildings
+    key_work: Discrete AD (2019); RMIT PhD (2023)
+  - name: Barry Wark
+    contribution: Hybrid tectonics; ecocentric facade; generative AI + circular materials
+    key_work: Nadarra (2023); Gibson studio reference
+  - name: Achim Menges
+    contribution: Material computation; ICD/ITKE Stuttgart robotics
+    key_work: Material Computation research
+  - name: Neil Leach
+    contribution: AI theory; connectionist turn; designer as curator
+    key_work: Architecture in the Age of AI (2025)
+  - name: Stanislas Chaillou
+    contribution: AI + architecture history and practice
+    key_work: Artificial Intelligence and Architecture (2025)
+  - name: Albert Sumin
+    contribution: BIM-parametric-LLM constructability; Coop Himmelb(l)au
+    key_work: Designing Between Data and Architecture
+  - name: Jose Sanchez
+    contribution: Agent-based design; Bloom; Plethora
+  - name: Mark Burry
+    contribution: Parametric design history; Gaudí; digital design
+  - name: Philippe Morel
+    contribution: Computational theory; EZCT
+  - name: Nic Bao
+    contribution: FormX; waste-to-AM; modular shell tectonics; coffee Waste to Form
+    key_work: Shell Tectonics (2024); Waste to Form (2025)
+
+email_bibliography_block: |
+  Key references:
+  Snooks, R. (2021) Behavioral Formation. Actar.
+  Snooks, R. (2022) Behavioral tectonics: agentBody prototypes. Architectural Intelligence.
+  Retsin, G. (2023) Parts that Precede Buildings. RMIT PhD. doi:10.25439/rmt.32296608
+  Retsin, G. (ed.) (2019) Discrete: Reappraising the Digital in Architecture. AD.
+  Andrasek, A. — agentic design cognition (RMIT; studio lineage).
+  Bao, D. (2025) Waste to Form. FormX / Melbourne Design Week.
+  Leach, N. (2025) Architecture in the Age of Artificial Intelligence. Bloomsbury.
+  Wark, B. (2023) Nadarra / The Architecture of Ecology.
+  Stuart-Smith, R. — collective robotic construction; AML.
+  Roychand, R. et al. (2023–25) Coffee biochar concrete. RMIT.

@@ -1,0 +1,132 @@
+# Agility Architecture — discrete modular system spec
+#
+# SUPERSEDED (see docs/proposal-roland-snooks.md): the "discrete/repeatable parts"
+# core_principle below is the Retsin/Claypool/AUAR position, which is philosophically
+# opposed to Snooks/Kokkugia's intricate/non-repetitive Behavioral Tectonics stance.
+# Current direction for Roland Snooks pivots to intricate, non-repetitive detail via
+# AM + cold-cast metal at Fishermans Bend. This file kept for reference / Nic Bao
+# fallback framing only — do not use "discrete_modular" as the core pitch to Roland.
+
+theme: Scalable architecture
+concept_names:
+  - Acceleration Intelligence
+  - Agility Architecture
+  - Affordabuild  # student term: affordable + modular build platform
+
+core_principle: >
+  NOT single craft — different architectural configurations from the same
+  discrete parts via smart tectonic connectors and algorithmic aggregation.
+
+exploration_areas:
+  - facade_modular
+  - temporary_pavilion
+  - event_architecture
+  - shelter_migration  # scope: one typology, not camp masterplan
+
+design_goals:
+  - well_designed
+  - affordable
+  - profitable  # via repeatability + DfMA, not bespoke craft
+
+pillars:
+  discrete_modular:
+    description: Limited parts kit, IKEA-style flat-pack logic, smart connectors
+    references:
+      - Gilles Retsin — Discrete Architecture
+      - IKEA — platform + logistics reference
+      - Nic Bao — modular bolted shell tectonics
+    key_innovation: Very smart tectonic connector — fully resolved in drawings + prototype
+
+  algorithmic_aggregation:
+    description: Multi-agent or rule-based layout of same modules into different configurations
+    methods:
+      - swarm_intelligence
+      - aggregation_logic
+      - vibe_coding
+      - python
+    supervisor_fit: roland_snooks
+
+  material_stock_palette:
+    description: Fast, sustainable, procurable — not exotic one-offs
+    materials:
+      - coffee_waste_composite_panels
+      - pallet_stock_timber
+      - gfrc_facade_panels
+      - recycled_plastic_sheet
+    note: Coffee waste = one stock in palette, not entire thesis alone
+
+  robotic_fabrication:
+    description: Large, repeatable — placement and logistics matter
+    preferred:
+      - cnc_panel_cutting
+      - robotic_pick_place
+      - robotic_assembly_drilling
+    selective:
+      - 3d_print_connectors_only
+    avoid_full_scope:
+      - volumetric_3d_printed_building  # cost + time vs affordable thesis
+
+  logistics:
+    description: Part of design research — employable industry skill
+    deliverables:
+      - module_dimensions_for_transport
+      - pallet_flat_pack_logic
+      - assembly_sequence
+      - placement_diagram
+      - rough_cost_time_estimate
+
+  llm_rapid_affordable:
+    description: LLM-assisted architect workflow for rapid affordable sustainable deployment
+    critical_position: AI and robotics assist — NOT labour replacement; human craft retains precision and authorship
+    research_questions:
+      - How does LLM cooperate in architect workflow without replacing judgment?
+      - How do algorithms accelerate construction through replication not bespoke craft?
+      - How do upcycled waste and certified stock materials stay affordable at speed?
+    llm_tasks:
+      - brief_synthesis
+      - specification_drafts
+      - assembly_sequence_generation
+      - gcode_documentation_review
+      - iteration_logging
+    llm_tools:
+      claude:
+        role: Research synthesis, spec drafts, pseudocode, assembly text
+      cursor_vibe_code:
+        role: IDE-assisted Python generation and refactoring
+      python_rhino:
+        role: Module layout, geometry automation, export in Rhino 3D
+        libraries: [RhinoCommon, rhinoscriptsyntax, Grasshopper Python]
+    example_workflow:
+      - Architect defines module + connector rules in Rhino
+      - Claude drafts Python logic / pseudocode for aggregation
+      - Cursor vibe code implements and debugs Rhino Python scripts
+      - Architect validates all geometry before CNC/robot output
+    prototype_fabrication:
+      primary: fifty_percent_manual_fifty_percent_robot
+      selective: additive_manufacturing_connectors_only
+      deprioritised: full_volumetric_3d_print
+    typology:
+      - temporary_shelter
+      - pavilion
+      - install_remove_reuse
+    narrative_doc: docs/llm-rapid-architecture-narrative.md
+
+industry_pr_pathway:
+  market: prefab modular, DfMA, off-site, facade systems, temporary shelter
+  australia_bodies:
+    - Prefab Council Australia
+    - ARC Advance Timber Hub
+    - digital construction / intelligent construction
+
+merged_title_roland: >
+  Agility Architecture: Algorithmic Aggregation of Discrete Coffee-Waste Modules
+  for Scalable Shelter & Facade Prototypes
+
+merged_title_nic: >
+  Agility Architecture: Discrete Modular GFRC Systems — Affordable Scalable
+  Pavilion & Facade Assembly
+
+module_kit_limits_15_weeks:
+  max_unique_module_types: 8
+  hero_connector_resolved: 1
+  physical_prototype: 1_corner_or_shelter_fragment
