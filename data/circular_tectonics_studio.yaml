@@ -1,0 +1,87 @@
+# Circular Tectonics — Hong Kong Travelling Studio
+# Semester 2 2026, immediately preceding this student's Major Project.
+# Direct precedent-generator for the "off-cut/reclaimed material + AM connector +
+# AR-guided assembly" workflow proposed in docs/proposal-roland-snooks.md.
+
+studio:
+  title: "Circular Tectonics: Hong Kong Travelling Studio"
+  level: Master of Architecture Studio
+  semester: "Semester 2, 2026"
+  leaders:
+    - name: "Dr Dingwen (Nic) Bao"
+      role: RMIT studio leader
+      email: nic.bao@rmit.edu.au
+    - name: "Harlan Guo"
+      role: RMIT studio leader
+  partner_institution: "CUHK — Chinese University of Hong Kong (School of Architecture)"
+  partner_tutor:
+    name: "Dr Shuaizhong Wang"
+    role: CUHK tutor
+  schedule:
+    melbourne_phase:
+      weeks: "Week 2 – Week 12"
+      location: "RMIT Building 100, Design Hub, Melbourne"
+      time: "Wednesday 6pm–10pm"
+    hong_kong_phase:
+      weeks: "Week 14 – Week 15"
+      location: "CUHK Lee Shau Kee Architecture Building, Hong Kong"
+      travel_dates: "26 October – 4 November 2026"
+
+theme: >
+  Circular Tectonics — construction waste, reclaimed structural components, and digital
+  fabrication reshaping how architecture is designed and assembled. Material reuse is
+  positioned not as a limitation, but as a generator of form, structure, and construction
+  logic.
+
+melbourne_design_work:
+  focus: >
+    Develop pavilion proposals combining circular material strategies with advanced
+    fabrication. Test how reclaimed components can be scanned, classified, reorganised,
+    and connected through custom 3D-printed flexible joints.
+  workflow:
+    - material_cataloguing
+    - 3d_scanning
+    - computational_form_finding
+    - structural_optimisation
+    - connector_design
+    - mixed_reality_assembly
+  emphasis: Linking digital design intelligence with physical material constraints.
+
+hong_kong_travel_component:
+  format: design-build exchange with CUHK School of Architecture
+  output: >
+    Full-scale pavilion assembled on the CUHK campus, using locally sourced reclaimed
+    materials, 3D-printed connectors, and mixed-reality assembly guidance. RMIT and CUHK
+    students collaborate directly.
+  broader_ambition: >
+    Contributes to an ongoing RMIT–CUHK collaboration on sustainable design, material
+    reuse, and future construction innovation, with the stated ambition of further
+    development for presentation at the 2027 Venice Architecture Biennale.
+
+partners_credited:
+  - RMIT Architecture
+  - FormX (Nic Bao's research lab)
+  - CUHK School of Architecture
+  # two additional logos on the brief not yet identified — confirm if relevant
+
+relevance_to_major_project:
+  reduces_open_risk: >
+    Directly rehearses the reclaimed/off-cut material + custom 3D-printed connector +
+    mixed-reality-guided assembly pipeline proposed as the fabrication method in
+    docs/proposal-roland-snooks.md — by MP start, this will be tested/practiced
+    experience, not a proposed method.
+  supervisor_relationship: >
+    Deepens working relationship with Nic Bao (secondary MP preference) ahead of the
+    Major Project — strengthens the "Nic Bao consultation on material performance"
+    framing in the current proposal, and is a live option to revisit if TFL capacity
+    with Roland Snooks is limited.
+  portfolio_addition: >
+    Expect a new portfolio piece from this studio (Melbourne design work + Hong Kong
+    build) to slot into docs/proposal-roland-snooks.md Section 7 (Background) once
+    completed — likely the strongest fabrication-resolution evidence yet, given the
+    full-scale international build component.
+  timing: >
+    Semester 2 2026 (Melbourne Oct phase + HK travel late Oct/early Nov 2026),
+    immediately before Major Project — material research findings should feed
+    directly into finalising Section 8 (material evidence) before Week 10 lock-in
+    of the Major Project itself.

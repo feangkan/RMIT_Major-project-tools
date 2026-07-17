@@ -57,6 +57,14 @@
 - [[coffee_waste_melbourne.yaml]] — coffee waste material/context data (background evidence)
 - [[semester_schedule.yaml]] — 15-week phase schedule
 
+## Currently enrolled — feeds directly into this proposal
+
+**[[circular_tectonics_studio.yaml|Circular Tectonics: Hong Kong Travelling Studio]]** — Dr Nic Bao & Harlan Guo,
+Semester 2 2026, RMIT + CUHK Hong Kong. Directly rehearses the reclaimed-material +
+3D-printed-connector + mixed-reality-assembly workflow this proposal needs — findings
+should feed Section 8 (material evidence) before Week 10 lock-in. Also deepens the
+working relationship with Nic Bao (secondary MP preference) ahead of time.
+
 ## Open questions / next steps
 
 - [ ] Material research in progress: can ground recycled metal swarf/off-cuts substitute commercial bronze/aluminium powder in the cold-cast mix?
@@ -64,6 +72,7 @@
 - [ ] Narrow Fishermans Bend site scope to a specific footprint once material-sourcing research settles
 - [ ] Lock single primary growth behavior (space colonization is current lead candidate) before Week 10
 - [ ] Compile portfolio highlights PDF for supervisor attachment (see page selection above)
+- [ ] Track Circular Tectonics studio outcomes (Melbourne phase + CUHK build) as they happen — add as new portfolio evidence once complete
 
 ## Tags
 #rmit #major-project #behavioral-tectonics #roland-snooks

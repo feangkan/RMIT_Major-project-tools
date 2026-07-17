@@ -67,6 +67,12 @@ supervisors:
       Strongest match for prefabrication, off-site construction, cost control,
       structural performance, and fabrication-aware design. Bridges practice and
       research; good for buildable, industry-relevant major projects.
+    current_teaching_connection: >
+      Leading "Circular Tectonics" Hong Kong Travelling Studio, Semester 2 2026
+      (student enrolled) — reclaimed material cataloguing/3D scanning, custom
+      3D-printed connectors, mixed-reality assembly, full-scale CUHK pavilion build.
+      Directly rehearses this student's Major Project fabrication method ahead of
+      time. See data/circular_tectonics_studio.yaml.
 
   - id: anna_johnson
     name: Anna Johnson
