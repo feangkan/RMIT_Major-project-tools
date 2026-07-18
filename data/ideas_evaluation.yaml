@@ -19,16 +19,46 @@ ideas:
       thesis. Critical position AI-not-replacement + 50/50 manual-robot prototype.
 
   - id: idea_b
-    title: "LLM multi-agents robotic fabrication — moon base data centre"
+    title: "LLM multi-agents robotic fabrication — moon base / lunar data centre"
     feasibility_15wk: 2
     pr_australia: 1
     nic_bao_fit: 2
     roland_snooks_fit: 3
     anna_johnson_fit: 1
-    verdict: drop
+    verdict: parked_spare_plan  # not "drop" — kept deliberately per student request, tracked below
     note: >
-      Cool but wrong capstone. No AU relevance, no PR pathway, cannot resolve
-      architecture for Melbourne panel. Keep as personal interest only.
+      Wrong capstone for the same structural reasons as before: no AU site, no
+      real access to test regolith/vacuum/low-gravity behavior, cannot be
+      resolved to a buildable level a Melbourne panel can verify in 15 weeks.
+      Kept as a deliberately tracked spare/future interest, not discarded.
+    status_2026_07: >
+      Confirmed as a genuinely current, real trend (not speculative): ispace +
+      Shimizu Corporation signed an MOU (April 2026) to jointly develop cislunar
+      infrastructure concepts including a lunar surface data centre. Technical
+      reality check: thermal management is HARDER on the Moon (no atmosphere for
+      convective cooling; regolith proposed as passive thermal buffer), not
+      easier — "low gravity = easier" is not accurate as stated.
+    precedent_researched:
+      - name: "Hassell 'Lunar Habitat Master Plan'"
+        lead: "Xavier de Kestelier (Head of Innovation, Hassell)"
+        partners: "European Space Agency + Cranfield University"
+        year: 2024
+        site: "South Lunar Pole, near Shackleton Crater (NOT 'dark side of the moon' — common misconception; site chosen for near-constant polar sunlight + permanently shadowed ice in crater floors)"
+        capacity: "144-150 inhabitants, reduced gravity"
+        method: >
+          3D-printed hexapod/tetrapod-shaped interlocking modules (shape borrowed
+          from wave-dissipating seawall tetrapods), printed on-site from lunar
+          regolith, forming a radiation-shielding shell around inflatable
+          living/greenhouse/recreation pods.
+        tectonic_note: >
+          Repeatable, standardized, interlocking modules — this is philosophically
+          the DISCRETE/REPEATABLE camp (Retsin/Claypool, Nic Bao's prefab/modular
+          territory), NOT Snooks' intricate/non-repetitive agentBody position.
+          If ever pursued academically, this points toward a different
+          supervisor lineage than the current Fishermans Bend proposal.
+    relationship_to_active_proposal: >
+      Does not compete with or replace docs/proposal-roland-snooks.md. Tracked
+      separately as a future/PhD/practice-stage interest only.
 
   - id: idea_c
     title: "Lightweight concrete GFRC / coffee mixture"

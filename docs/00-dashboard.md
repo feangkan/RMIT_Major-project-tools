@@ -65,6 +65,16 @@ Semester 2 2026, RMIT + CUHK Hong Kong. Directly rehearses the reclaimed-materia
 should feed Section 8 (material evidence) before Week 10 lock-in. Also deepens the
 working relationship with Nic Bao (secondary MP preference) ahead of time.
 
+## Spare / future interest (not competing with the active proposal)
+
+**Moon base / lunar data centre** — parked deliberately, not dropped (see `ideas_evaluation.yaml` → `idea_b`).
+Real current trend (ispace + Shimizu Corp MOU, April 2026, lunar data centre concepts) and a strong
+precedent researched (Hassell's *Lunar Habitat Master Plan* w/ Xavier de Kestelier + ESA — 3D-printed
+regolith hexapod modules, South Lunar Pole/Shackleton Crater). Not feasible as this Major Project's
+capstone (no AU site, no way to test regolith/vacuum/low-gravity, unresolvable for a Melbourne panel
+in 15 weeks) — kept as a future/PhD/practice-stage interest. Note: its discrete/repeatable-module
+tectonic logic would point toward Nic Bao/Retsin-lineage supervision, not Roland's agentBody position.
+
 ## Open questions / next steps
 
 - [ ] Material research in progress: can ground recycled metal swarf/off-cuts substitute commercial bronze/aluminium powder in the cold-cast mix?
