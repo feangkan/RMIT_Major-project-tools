@@ -67,6 +67,40 @@ ideas:
           NASA 3D-Printed Habitat Challenge, ICON 'Project Olympus' (lunar
           regolith 3D printing w/ NASA), AI SpaceFactory 'MARSHA' (Mars habitat,
           single-unit scale) — not yet researched in depth, flagged for later.
+      - name: "'Build your own cave' — artificial mass-shell radiation shielding"
+        source: "Xavier de Kestelier, WA Museum talk, 17 May 2024 (transcript verified)"
+        method: >
+          Real lava-tube caves would be ideal radiation shielding (rock mass
+          overhead does the job for free) but accessible ones are unconfirmed,
+          so Hassell builds an artificial equivalent: uniform tetrapod units
+          (regolith-made on-site, shape borrowed from coastal erosion tetrapods)
+          thrown/stacked over an inflatable dome formwork until they interlock
+          into a self-supporting compression-only shell (dry-stone-wall logic —
+          held by friction/interlocking geometry, not fasteners), then the
+          inflatable formwork is removed. Needs ~2-3m of regolith mass to
+          actually block radiation — deliberately thick/overengineered, which
+          is why it tolerates imprecision (removing one tetrapod doesn't
+          collapse it, unlike a precision-fitted stone shell alternative).
+        precedents_cited_by_dK: >
+          Philip Bloch's precision stone shell (rejected — too high-precision);
+          Karola Dierichs' Aggregate Pavilion (spiky units, zero-precision
+          throw-and-stack); Yui Pavilion, Venice Biennale (salt block, same
+          logic); coastal erosion tetrapods (final unit shape chosen).
+        open_research_question_for_later: >
+          The cave-shell precedent uses ONE uniform tetrapod unit thrown
+          without needing to match. Active MP thesis (off-cut metal) asks
+          irregular pieces to self-stabilize/connect without matching either
+          (see docs/proposal-roland-snooks.md Section 4/9) — same underlying
+          problem, different unit logic (uniform-thrown-pile vs irregular-
+          agent-negotiated-joint). Worth comparing later: could irregular
+          off-cut material be simulated into a similar self-stabilizing
+          compression-only mass pile, instead of a uniform tetrapod mold?
+        tectonic_note: >
+          Inverts the Composite Swarm logic used in the active proposal: here
+          the requirement is BULK MASS (2-3m, non-negotiable, radiation
+          physics) not structural efficiency (1mm skin/2500mm structure).
+          Useful contrast to keep straight — swarm efficiency solves structural
+          problems, not shielding/mass problems.
     relationship_to_active_proposal: >
       Does not compete with or replace docs/proposal-roland-snooks.md. Tracked
       separately as a future/PhD/practice-stage interest only.
