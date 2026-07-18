@@ -19,13 +19,19 @@ ideas:
       thesis. Critical position AI-not-replacement + 50/50 manual-robot prototype.
 
   - id: idea_b
-    title: "LLM multi-agents robotic fabrication — moon base / lunar data centre"
+    title: "Rapid shelter/habitat module — Moon / extreme off-world environment"
     feasibility_15wk: 2
     pr_australia: 1
     nic_bao_fit: 2
     roland_snooks_fit: 3
     anna_johnson_fit: 1
     verdict: parked_spare_plan  # not "drop" — kept deliberately per student request, tracked below
+    scope_refined_2026_07: >
+      Narrowed per student request from a full settlement masterplan (144-150
+      inhabitants, Hassell scale) down to a SINGLE rapid, deployable shelter/
+      habitat unit — smaller, more design-focused, more tractable as a design
+      problem. Still parked, not the MP capstone, but better-scoped if/when
+      pursued later (PhD, practice).
     note: >
       Wrong capstone for the same structural reasons as before: no AU site, no
       real access to test regolith/vacuum/low-gravity behavior, cannot be
@@ -44,7 +50,7 @@ ideas:
         partners: "European Space Agency + Cranfield University"
         year: 2024
         site: "South Lunar Pole, near Shackleton Crater (NOT 'dark side of the moon' — common misconception; site chosen for near-constant polar sunlight + permanently shadowed ice in crater floors)"
-        capacity: "144-150 inhabitants, reduced gravity"
+        capacity: "144-150 inhabitants at masterplan scale — this spare plan narrows to a single unit"
         method: >
           3D-printed hexapod/tetrapod-shaped interlocking modules (shape borrowed
           from wave-dissipating seawall tetrapods), printed on-site from lunar
@@ -56,9 +62,43 @@ ideas:
           territory), NOT Snooks' intricate/non-repetitive agentBody position.
           If ever pursued academically, this points toward a different
           supervisor lineage than the current Fishermans Bend proposal.
+      - name: "Other single-unit precedents worth researching later"
+        note: >
+          NASA 3D-Printed Habitat Challenge, ICON 'Project Olympus' (lunar
+          regolith 3D printing w/ NASA), AI SpaceFactory 'MARSHA' (Mars habitat,
+          single-unit scale) — not yet researched in depth, flagged for later.
     relationship_to_active_proposal: >
       Does not compete with or replace docs/proposal-roland-snooks.md. Tracked
       separately as a future/PhD/practice-stage interest only.
+    shared_root_interest: rapid_deployable_shelter  # see idea_c_spare below
+
+  - id: idea_c_spare
+    title: "Rapid shelter/habitat — abandoned/uninhabited Australian 'badland' terrain (terrestrial parallel to idea_b)"
+    feasibility_15wk: 3
+    pr_australia: 4
+    nic_bao_fit: 3
+    roland_snooks_fit: 2
+    anna_johnson_fit: 6
+    verdict: parked_spare_plan
+    note: >
+      Terrestrial counterpart to idea_b — same rapid/deployable shelter design
+      interest, applied to abandoned, depopulated, or resource-rich/labour-poor
+      regional Australian land instead of off-world. Directly continuous with
+      the student's very first proposed idea ("Rapid Architecture using LLM for
+      affordable sustainability... install & remove reusable temporary shelter")
+      and the "abandoned countryside" interest from the biomorphic-AM brief.
+      Kept deliberately as a spare plan per student request (2026-07-18) —
+      explicitly NOT merged into or replacing the active Fishermans Bend
+      proposal, which intentionally keeps this framing as background context
+      only, for the logistics reasons already documented there.
+    why_still_spare_not_active: >
+      Would require an actual remote/regional Australian site with real site
+      visits, material-sourcing, and photography inside 15 weeks — the same
+      logistics problem that led to choosing Fishermans Bend as the active
+      site. Feasible as a topic in principle (better AU/PR relevance than
+      idea_b), but not swapped in without the student explicitly deciding to
+      restart site selection.
+    shared_root_interest: rapid_deployable_shelter  # see idea_b above
 
   - id: idea_c
     title: "Lightweight concrete GFRC / coffee mixture"
