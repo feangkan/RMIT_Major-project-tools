@@ -46,9 +46,12 @@ ideas:
       easier — "low gravity = easier" is not accurate as stated.
     precedent_researched:
       - name: "Hassell 'Lunar Habitat Master Plan'"
+        official_page: https://www.hassellstudio.com/project/lunar-master-plan-moon-base-for-the-european-space-agency
         lead: "Xavier de Kestelier (Head of Innovation, Hassell)"
-        partners: "European Space Agency + Cranfield University"
-        year: 2024
+        client: "European Space Agency (ESA), for its Discovery programme"
+        collaborators: "ESA, Cranfield University, Format Engineers (structural engineering)"
+        design_team: "Xavier de Kestelier, Jonathan Irawan, Levent Özruh, Joanna Maria Lesna, Nikos Argyros"
+        status: "Unbuilt concept, 2024; full technical report downloadable from official page ('Design of a Scalable Framework of Lunar Habitats')"
         site: "South Lunar Pole, near Shackleton Crater (NOT 'dark side of the moon' — common misconception; site chosen for near-constant polar sunlight + permanently shadowed ice in crater floors)"
         capacity: "144-150 inhabitants at masterplan scale — this spare plan narrows to a single unit"
         method: >
@@ -62,6 +65,21 @@ ideas:
           territory), NOT Snooks' intricate/non-repetitive agentBody position.
           If ever pursued academically, this points toward a different
           supervisor lineage than the current Fishermans Bend proposal.
+        related_hassell_projects_worth_researching:
+          - name: "NASA 3D Printed Habitat Challenge"
+            note: "Confirmed Hassell participated directly — was on the 'other precedents to research' list above, now confirmed as their own project, priority to follow up."
+          - name: "Orbital Reef space station"
+            note: "Hassell-designed commercial low-Earth-orbit space station — adjacent space-architecture precedent, not lunar/regolith-specific but same design team lineage."
+          - name: "Hassell x Nagami x to.org — 3D-printed public pavilions from recycled plastic"
+            note: >
+              GENUINELY RELEVANT BRIDGE: Hassell's own studio has already applied
+              swarm/space-project formal logic to a TERRESTRIAL waste-material
+              context — 3D-printed public pavilions made from recycled plastic,
+              framed as "plastic refuse as an inexhaustible resource for
+              construction." Worth researching directly — this is the closest
+              thing to a professional-practice precedent connecting the moon
+              spare plan (B) and the off-cut/waste material logic already in
+              the active Fishermans Bend proposal, without conflating the two.
       - name: "Other single-unit precedents worth researching later"
         note: >
           NASA 3D-Printed Habitat Challenge, ICON 'Project Olympus' (lunar
