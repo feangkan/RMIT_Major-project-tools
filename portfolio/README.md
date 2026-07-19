@@ -30,12 +30,24 @@ git push
 
 ## Suggested file names
 
+**`00_` prefix — the actual EOI/submission document (not evidence, the ask itself):**
+
+| Document | Rename to |
+|----------|-----------|
+| EOI to Roland Snooks (Behavioral Metal proposal) | `00_EOI_behavioral_metal.pdf` |
+
+**`01`–`04` — supporting studio-evidence PDFs (portfolio pieces backing up the EOI):**
+
 | Your studio | Rename to |
 |-------------|-----------|
 | Marc Gibson / hybrid tectonic / China AM | `01_gibson_hybrid_tectonic.pdf` |
 | Alisa Andrasek / vibe code / swarm | `02_andrasek_swarm_ai.pdf` |
 | Igor Pantic / coffee waste / HoloLens | `03_pantic_coffee_ar.pdf` |
 | RA GFRC facade | `04_ra_gfrc_facade.pdf` |
+
+The `00_` file sorts first in any listing — it's what Roland actually reads and responds to.
+The `01`–`04` files are the proof behind it, referenced from Section 7 (Background) of
+`docs/proposal-roland-snooks.md`.
 
 Optional: also drop `code/` Python-for-Rhino scripts or experiment photos.
 
