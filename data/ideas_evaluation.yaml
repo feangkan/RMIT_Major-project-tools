@@ -222,6 +222,14 @@ merged_thesis:
     - studio_alisa_andrasek: "Social Hideout — multi-agent growth + LLM/MCP pipeline, EPW climate data, discrete-element distribution"
     - studio_igor_pantic: "Augmented Materiality — ratio-tested coffee composite, HoloLens/Fologram AR-guided casting"
     - ra_gfrc_facade: "TFL Research Assistant, Building 45 Lygon St — cast GFRC + polymer 3D print + metal connector hybrid facade, S1 2026"
+    - professional_next_studio: >
+        "The Next Studio" broadcast set, Kanchanaburi Thailand (client: National
+        Broadcasting Television, 2020) — predates RMIT studios; modular wheeled
+        movable set built from upcycled timber pallets via CNC + offsite prefab.
+        Real client delivery, not academic exercise — added to
+        docs/proposal-roland-snooks.md Section 7 (2026-07-19) as evidence the
+        upcycled-material/prefab interest predates and extends beyond RMIT.
+        Discovered from portfolio/00_EOI_major_project.pdf.
   gfrc_facade_alone_sufficient: false
   gfrc_as_tectonic_core_sufficient: true
 

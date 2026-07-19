@@ -108,6 +108,8 @@ Building on Roland Snooks' *Behavioral Tectonics* and *agentBody* research, Robe
 
 5. **Currently enrolled — "Circular Tectonics" Hong Kong Travelling Studio (Dr Nic Bao & Harlan Guo, S2 2026):** working with reclaimed construction materials — cataloguing, 3D scanning, and connecting them via custom 3D-printed joints and mixed-reality-guided assembly. Studio runs at RMIT through October, then travels to CUHK Hong Kong in early November to build a full-scale pavilion.
 
+6. **Professional practice — "The Next Studio" broadcast set design, Kanchanaburi, Thailand (client: National Broadcasting Television, 2020):** predates my RMIT studio work, but establishes that the upcycled-material and prefabrication interest is not purely academic. A modular, wheeled, movable broadcast set built from **upcycled timber pallets** via CNC fabrication, designed for offsite/prefab construction and transport logistics from workshop to studio. Real client delivery, not a studio exercise — evidence this material and modularity interest has been tested against real production constraints before RMIT.
+
 **I am not asking you to supervise a discrete/standardized modular kit thesis, an urban policy project, or a bio-material engineering thesis.** I am proposing **behavioral tectonic research** in off-cut/recycled metal, realised through small-scale AM and cold-casting — directly extending the *Behavioral Formation* and *agentBody* trajectory with a material stream your published research has not yet addressed.
 
 ---
