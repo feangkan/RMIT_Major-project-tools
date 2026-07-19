@@ -7,7 +7,7 @@
 
 ## Current direction
 
-**[[proposal-roland-snooks|Behavioral Metal: Multi-Agent Growth Formation for Intricate Off-Cut Metal Tectonics]]**
+**[[proposal-roland-snooks|Ferrous Bloom: Multi-Agent Growth Formation for Intricate Off-Cut Metal Tectonics]]**
 — intricate, non-repetitive detail (not discrete/repeatable parts) via multi-agent growth
 + off-cut metal AM/cold-casting, sited at Fishermans Bend. Primary target: Roland Snooks.
 

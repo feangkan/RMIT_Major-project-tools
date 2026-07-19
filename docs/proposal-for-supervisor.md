@@ -1,4 +1,4 @@
-# Behavioral Metal
+# Ferrous Bloom
 ### Multi-Agent Growth Formation for Intricate Off-Cut Metal Tectonics
 
 **Major Project Proposal (working draft) — Semester 1, 2027**

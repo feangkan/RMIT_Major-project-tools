@@ -18,7 +18,7 @@ My name is Kankawee Maksomboon, a Master of Architecture student at RMIT. I will
 
 I am still in the research phase — actively testing topics and materials rather than locked into a final brief — so I would genuinely value your advice on direction. To be transparent about where my thinking is, here is my main topic and two honest "spare" directions I am also exploring:
 
-**Main topic — Behavioral Metal (working title).**
+**Main topic — Ferrous Bloom (working title).**
 A self-organizing multi-agent growth process (cellular division / differential growth) generating intricate, non-repetitive tectonic detail in **recycled / off-cut metal**, tested through desktop additive manufacturing and cold-casting, sited within Melbourne's Fishermans Bend manufacturing-transition precinct. I am interested in extending the agentBody logic (as in Brass Swarm and the RMIT Mace) from uniform stock toward irregular, reclaimed material — and in whether the connection pattern can be structural and ornamental at once, as in Composite Swarm. I am currently researching whether recycled metal off-cuts can substitute for commercial metal powder in the casting mix.
 
 **Spare direction 1 — rapid deployable shelter for extreme / off-world environments.**
@@ -38,5 +38,5 @@ Kankawee Maksomboon
 s4097770@student.rmit.edu.au
 
 *Attachments:*
-*1. `00_proposal_behavioral_metal.pdf` — short Major Project proposal (main topic)*
+*1. `00_proposal_ferrous_bloom.pdf` — short Major Project proposal (main topic)*
 *2. `00_EOI_major_project.pdf` — portfolio of studio & professional work*

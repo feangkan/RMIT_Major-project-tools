@@ -13,7 +13,7 @@
 
 ## 1. Title
 
-**Behavioral Metal: Multi-Agent Growth Formation for Intricate Off-Cut Metal Tectonics**
+**Ferrous Bloom: Multi-Agent Growth Formation for Intricate Off-Cut Metal Tectonics**
 
 *Extending behavioral tectonics and agentBody research into recycled/off-cut metal streams — testing whether additive manufacturing's capacity for unique, non-repeating geometry lets swarm-generated intricacy survive to a physical prototype, at Fishermans Bend.*
 
