@@ -58,6 +58,20 @@ Off-cut and recycled metal in a manufacturing-transition precinct is not scrap t
 
 ---
 
+## Program & scope — where I would especially value your advice
+
+Deciding the architectural program (and how tightly to scope it for a resolved 15-week outcome) is one of the main things I am still working through, and the point I would most like your guidance on. My current leaning, and the alternatives I am weighing:
+
+**Leaning toward — facade retrofit fragment on an existing Fishermans Bend industrial building.** An agent-generated off-cut-metal screen / skin applied to one bay or opening of an existing warehouse or shed being adaptively reused. This directly connects to my core interest in how additive manufacturing can *retrofit* existing architecture, gives a genuine function (solar shading, screening, structural reinforcement of an opening, and civic identity for the building's new use), and is resolvable at prototype-fragment scale.
+
+**Also considering:**
+- A **civic threshold / gateway marker** at an entry point into the renewal precinct — simplest to resolve, least programmatically complex (wayfinding, shelter, seating).
+- A **material collection / exchange pavilion** where local off-cut metal is dropped off, sorted, and displayed — strongest circular-economy narrative, but adds real-world operational logistics.
+
+**Scope for 15 weeks (in all cases):** one agent / formation system, one primary material family (metal — cold-cast + metal-filled AM), and one resolved proto-architectural prototype fragment plus full tectonic drawings — rather than a whole building or masterplan. I would welcome your view on which program gives the strongest design-research outcome without over-scoping.
+
+---
+
 ## Process
 
 | Layer | Method |

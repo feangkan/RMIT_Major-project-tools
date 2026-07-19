@@ -80,6 +80,18 @@ Building on Roland Snooks' *Behavioral Tectonics* and *agentBody* research, Robe
 
 ---
 
+## 5b. Program & scope (open — advice sought)
+
+Program is the least-resolved part of the brief and a deliberate question to raise with Roland. Current leaning + alternatives:
+
+- **Leaning: facade retrofit fragment** on an existing Fishermans Bend industrial building — agent-generated off-cut-metal screen/skin on one bay/opening of an adaptively-reused warehouse. Connects to the core "AM retrofits intricate architecture" interest; real function (shading, screening, structural reinforcement, civic identity); resolvable at fragment scale.
+- **Alt 1: civic threshold/gateway marker** — simplest, least programmatically complex.
+- **Alt 2: material collection/exchange pavilion** — strongest circular-economy narrative, adds operational logistics.
+
+**15-week scope (all cases):** one formation system, one primary material family (metal), one resolved prototype fragment + full tectonic drawings — not a whole building or masterplan.
+
+---
+
 ## 6. Process — The How
 
 | Layer | Method |

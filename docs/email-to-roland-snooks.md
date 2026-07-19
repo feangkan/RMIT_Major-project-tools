@@ -37,4 +37,6 @@ Kind regards,
 Kankawee Maksomboon
 s4097770@student.rmit.edu.au
 
-*Attachments: proposal (Behavioral Metal) + portfolio (00_EOI_major_project.pdf)*
+*Attachments:*
+*1. `00_proposal_behavioral_metal.pdf` — short Major Project proposal (main topic)*
+*2. `00_EOI_major_project.pdf` — portfolio of studio & professional work*
