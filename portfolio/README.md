@@ -34,7 +34,11 @@ git push
 
 | Document | Rename to |
 |----------|-----------|
-| EOI to Roland Snooks (Behavioral Metal proposal) | `00_EOI_behavioral_metal.pdf` |
+| EOI to supervisor (current topic, whatever it is) | `00_EOI_major_project.pdf` |
+
+Kept generic on purpose — if the topic changes, the filename doesn't need to. If you end up
+with multiple drafts over time (e.g. a fallback for a different supervisor), add a version
+suffix rather than renaming the scheme: `00_EOI_major_project_v2.pdf`.
 
 **`01`–`04` — supporting studio-evidence PDFs (portfolio pieces backing up the EOI):**
 
