@@ -14,7 +14,8 @@
 ## Proposal & narrative documents
 
 - [[email-to-roland-snooks]] — **ready-to-send email draft** (S1 2027 approach, main + 2 spares, asks for advice)
-- [[proposal-roland-snooks]] — **current primary draft**, full detail behind the email
+- [[proposal-for-supervisor]] — **clean send-ready proposal** to convert to PDF + attach (internal strategy stripped)
+- [[proposal-roland-snooks]] — full internal working draft (has strategy notes, Nic Bao fallback — NOT for sending)
 - [[idea-evaluation]] — honest scoring of original idea options A–D
 - [[proposal-waste-to-pavilion]] — earlier Nic Bao-oriented draft
 - [[agility-architecture-narrative]] — ⚠️ superseded framing (discrete/repeatable parts); kept only as Nic Bao fallback
